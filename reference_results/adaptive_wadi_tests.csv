@@ -1,0 +1,9 @@
+set,a,b,n,mean_diff,wins,losses,ties,p
+WADI-8 (primary),LENS-R (full),LENS-R w/o drift correction,8,0.003,1,0,7,1.0
+WADI-8 (primary),LENS-R (full),Classical RBC,8,0.063,3,3,2,0.5625
+WADI-8 (primary),LENS-R (full),Recursive RBC (no gap),8,-0.186,1,6,1,0.0781
+WADI-8 (primary),LENS-R (full),Recursive RBC (300 s gap),8,-0.11,0,6,2,0.0312
+WADI-13 (secondary),LENS-R (full),LENS-R w/o drift correction,13,-0.011,1,2,10,0.75
+WADI-13 (secondary),LENS-R (full),Classical RBC,13,0.026,3,3,7,0.5625
+WADI-13 (secondary),LENS-R (full),Recursive RBC (no gap),13,-0.16,4,8,1,0.1436
+WADI-13 (secondary),LENS-R (full),Recursive RBC (300 s gap),13,-0.097,3,9,1,0.062
