@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Comparative evaluation of static and adaptive reconstruction methods for attack localisation in industrial control systems under sensor drift"
+authors:
+  - family-names: Kumar
+    given-names: Anuj
+  - family-names: Singh
+    given-names: Koushlendra Kumar
+  - family-names: Kumar
+    given-names: Vinay
+repository-code: "https://github.com/aaditya258/lens-r"
+license: MIT
