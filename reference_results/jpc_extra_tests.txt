@@ -1,0 +1,32 @@
+=== 1. Pre-registered WADI claims
+A: baselines significantly better than LENS-R: 0; LENS-R 0.276 vs sliding baseline 0.209 -> claim A met
+B: MRR loss from m=0 to m=10: CondAttr-style kNN 0.066, GDN-style forecast residual 0.252, LENS-R T2 (full) 0.000, LENS-R without drift correction 0.087, Raw deviation |z| 0.007, Simple drift fix 0.000
+   -> claim B not met
+
+=== 2. WADI 13-attack set with exclusions (MRR)
+                             all 13  without 13  without 8  without 8 and 13
+method                                                                      
+Recursive RBC (no gap)        0.459       0.414      0.496             0.451
+Recursive RBC (300 s gap)     0.395       0.345      0.428             0.376
+LENS-R w/o drift correction   0.310       0.294      0.335             0.320
+LENS-R (full)                 0.299       0.282      0.323             0.307
+Classical RBC                 0.273       0.254      0.295             0.277
+Simple drift fix              0.258       0.238      0.279             0.258
+Raw deviation |z|             0.206       0.182      0.222             0.197
+CondAttr-style kNN            0.129       0.132      0.139             0.143
+GDN-style forecast residual   0.128       0.138      0.138             0.150
+
+=== 3. Recursive RBC with gap vs without gap, injected faults (pooled 120)
+step         gap 0.960  no gap 0.988  gap better/worse 1/6  p = 0.0274
+ramp 10 min  gap 0.862  no gap 0.755  gap better/worse 35/3  p = 0.0000
+ramp 30 min  gap 0.730  no gap 0.590  gap better/worse 48/9  p = 0.0000
+ramp 60 min  gap 0.602  no gap 0.449  gap better/worse 68/13  p = 0.0000
+
+=== 4. Five-minute horizon, events lasting at least 330 s
+events: 33
+                             h30  last30  change
+method                                          
+LENS-R (full)              0.357   0.433   0.077
+Recursive RBC (300 s gap)  0.426   0.574   0.148
+Recursive RBC (no gap)     0.424   0.297  -0.127
+last 30 s, Recursive RBC (300 s gap) vs LENS-R (full): p = 0.032
