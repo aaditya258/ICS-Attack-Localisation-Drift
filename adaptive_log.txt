@@ -1,0 +1,109 @@
+[     3s] swat models fitted; 33 events
+[   125s] swat done
+[   172s] hai models fitted; 58 events
+[   332s] hai done
+
+=== Accuracy, 30 s (first 10 updates) ===
+                                      set   n    MRR  Top@1  Top@3  Top@5  CI low  CI high
+method                                                                                   
+LENS-R (full)                  SWaT (33)  33  0.421  0.273  0.455  0.576   0.288    0.559
+LENS-R w/o drift correction    SWaT (33)  33  0.347  0.242  0.333  0.485   0.219    0.491
+Classical RBC                  SWaT (33)  33  0.353  0.242  0.333  0.424   0.226    0.493
+Recursive RBC (no gap)         SWaT (33)  33  0.454  0.394  0.424  0.455   0.301    0.614
+Recursive RBC (300 s gap)      SWaT (33)  33  0.485  0.394  0.515  0.545   0.343    0.634
+LENS-R (full)                   HAI (58)  58  0.324  0.155  0.431  0.534   0.241    0.412
+LENS-R w/o drift correction     HAI (58)  58  0.324  0.155  0.431  0.534   0.241    0.412
+Classical RBC                   HAI (58)  58  0.314  0.138  0.397  0.569   0.237    0.397
+Recursive RBC (no gap)          HAI (58)  58  0.442  0.345  0.448  0.534   0.338    0.553
+Recursive RBC (300 s gap)       HAI (58)  58  0.393  0.276  0.431  0.500   0.294    0.501
+LENS-R (full)                Pooled (91)  91  0.359  0.198  0.440  0.549   0.289    0.434
+LENS-R w/o drift correction  Pooled (91)  91  0.332  0.187  0.396  0.516   0.262    0.407
+Classical RBC                Pooled (91)  91  0.328  0.176  0.374  0.516   0.262    0.401
+Recursive RBC (no gap)       Pooled (91)  91  0.447  0.363  0.440  0.505   0.359    0.534
+Recursive RBC (300 s gap)    Pooled (91)  91  0.426  0.319  0.462  0.516   0.340    0.512
+
+=== Wilcoxon, LENS-R (full) vs each ===
+            set                            b   n  mean_diff  wins  losses  ties       p
+0    SWaT (33)  LENS-R w/o drift correction  33      0.074    15       3    15  0.0138
+1    SWaT (33)                Classical RBC  33      0.068    11      13     9  0.3835
+2    SWaT (33)       Recursive RBC (no gap)  33     -0.033    10      15     8  0.5358
+3    SWaT (33)    Recursive RBC (300 s gap)  33     -0.064     6      17    10  0.0635
+0     HAI (58)  LENS-R w/o drift correction  58     -0.000     0       1    57  0.3173
+1     HAI (58)                Classical RBC  58      0.010    20      15    23  0.3988
+2     HAI (58)       Recursive RBC (no gap)  58     -0.118    16      33     9  0.0078
+3     HAI (58)    Recursive RBC (300 s gap)  58     -0.069    18      31     9  0.1183
+0  Pooled (91)  LENS-R w/o drift correction  91      0.027    15       4    72  0.0175
+1  Pooled (91)                Classical RBC  91      0.031    31      28    32  0.2958
+2  Pooled (91)       Recursive RBC (no gap)  91     -0.087    26      48    17  0.0106
+3  Pooled (91)    Recursive RBC (300 s gap)  91     -0.067    24      48    19  0.0220
+
+=== Horizon, pooled 91: MRR at 30 s, over 5 min, and over updates 91-100 only ===
+                              h30  h5min  last30  5min - 30s  last30 - 30s  p (30s vs 5min)  p (30s vs last30)
+method                                                                                                       
+LENS-R (full)              0.359  0.343   0.246      -0.016        -0.114            0.390              0.004
+Recursive RBC (no gap)     0.447  0.371   0.184      -0.075        -0.263            0.040              0.000
+Recursive RBC (300 s gap)  0.426  0.389   0.302      -0.037        -0.124            0.405              0.024
+sanity LENS-R (full)                events matched  91  max |rr diff| 0.000000  MRR here 0.359  reference 0.359
+sanity LENS-R w/o drift correction  events matched  91  max |rr diff| 0.000000  MRR here 0.332  reference 0.332
+sanity Classical RBC                events matched  91  max |rr diff| 0.000000  MRR here 0.328  reference 0.328
+[   337s] swat timed
+[   361s] hai timed
+
+=== Time per 3-s update (ms, single thread) ===
+ ds                               hai    swat
+method                                      
+Classical RBC                  2.797   1.374
+LENS-R (full) (same machine)  21.371  14.812
+Recursive RBC (no gap)         0.708   0.264 
+x86_64 2 cores; the recursive-RBC cost is the same for both gap variants
+[   387s] WADI-8 (primary) events 8 tags 93
+[   387s] distractors ['2_FIC_401_PV', '2_FIC_501_CO', '2_FQ_301_PV', '2_P_004_SPEED', '2B_AIT_002_PV']
+[   407s] WADI-8 (primary) m = 0 done
+[   430s] WADI-8 (primary) m = 6 done
+[   450s] WADI-8 (primary) m = 10 done
+[   478s] WADI-13 (secondary) events 13 tags 123
+[   528s] WADI-13 (secondary) m = 0 done
+
+=== WADI accuracy, 30 s ===
+                                              set   n    MRR  Top@1  Top@3  Top@5  CI low  CI high
+method                                                                                           
+LENS-R (full)                   WADI-8 (primary)   8  0.276  0.125  0.375  0.375   0.087    0.515
+LENS-R w/o drift correction     WADI-8 (primary)   8  0.272  0.125  0.375  0.375   0.084    0.514
+Classical RBC                   WADI-8 (primary)   8  0.212  0.125  0.250  0.250   0.029    0.457
+Recursive RBC (no gap)          WADI-8 (primary)   8  0.462  0.375  0.500  0.500   0.165    0.766
+Recursive RBC (300 s gap)       WADI-8 (primary)   8  0.386  0.250  0.375  0.500   0.141    0.671
+LENS-R (full)                WADI-13 (secondary)  13  0.299  0.154  0.462  0.462   0.130    0.498
+LENS-R w/o drift correction  WADI-13 (secondary)  13  0.310  0.154  0.462  0.462   0.132    0.510
+Classical RBC                WADI-13 (secondary)  13  0.273  0.154  0.385  0.385   0.103    0.473
+Recursive RBC (no gap)       WADI-13 (secondary)  13  0.459  0.385  0.462  0.538   0.218    0.699
+Recursive RBC (300 s gap)    WADI-13 (secondary)  13  0.395  0.308  0.385  0.462   0.178    0.631
+                   set                            b   n  mean_diff  wins  losses  ties       p
+0     WADI-8 (primary)  LENS-R w/o drift correction   8      0.003     1       0     7  1.0000
+1     WADI-8 (primary)                Classical RBC   8      0.063     3       3     2  0.5625
+2     WADI-8 (primary)       Recursive RBC (no gap)   8     -0.186     1       6     1  0.0781
+3     WADI-8 (primary)    Recursive RBC (300 s gap)   8     -0.110     0       6     2  0.0312
+0  WADI-13 (secondary)  LENS-R w/o drift correction  13     -0.011     1       2    10  0.7500
+1  WADI-13 (secondary)                Classical RBC  13      0.026     3       3     7  0.5625
+2  WADI-13 (secondary)       Recursive RBC (no gap)  13     -0.160     4       8     1  0.1436
+3  WADI-13 (secondary)    Recursive RBC (300 s gap)  13     -0.097     3       9     1  0.0620
+
+=== WADI-8 drift injection: MRR vs drift size ===
+                              0 sigma  6 sigma  10 sigma  drop 0->10  p (0 vs 10)
+method                                                                          
+LENS-R (full)                  0.276    0.276     0.276       0.001        0.875
+LENS-R w/o drift correction    0.272    0.185     0.185      -0.087        0.109
+Classical RBC                  0.212    0.179     0.176      -0.036        0.844
+Recursive RBC (no gap)         0.462    0.462     0.440      -0.022        0.438
+Recursive RBC (300 s gap)      0.386    0.385     0.385      -0.001        1.000
+[   104s] HAI drift m = 0 done
+[   189s] HAI drift m = 3 done
+[   279s] HAI drift m = 6 done
+[   372s] HAI drift m = 10 done
+
+=== HAI drift injection (58 events): MRR vs drift size ===
+                              0 sigma  3 sigma  6 sigma  10 sigma  drop 0->10  p (0 vs 10)
+method                                                                                   
+LENS-R (full)                  0.324    0.282    0.331     0.331       0.007        0.664
+LENS-R w/o drift correction    0.324    0.110    0.098     0.097      -0.227        0.000
+Classical RBC                  0.314    0.114    0.101     0.096      -0.218        0.000
+Recursive RBC (no gap)         0.442    0.442    0.442     0.442       0.000        0.756

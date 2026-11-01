@@ -1,0 +1,11 @@
+method,set,n,MRR,Top@1,Top@3,Top@5,CI low,CI high
+LENS-R (full),WADI-8 (primary),8,0.276,0.125,0.375,0.375,0.087,0.515
+LENS-R w/o drift correction,WADI-8 (primary),8,0.272,0.125,0.375,0.375,0.084,0.514
+Classical RBC,WADI-8 (primary),8,0.212,0.125,0.25,0.25,0.029,0.457
+Recursive RBC (no gap),WADI-8 (primary),8,0.462,0.375,0.5,0.5,0.165,0.766
+Recursive RBC (300 s gap),WADI-8 (primary),8,0.386,0.25,0.375,0.5,0.141,0.671
+LENS-R (full),WADI-13 (secondary),13,0.299,0.154,0.462,0.462,0.13,0.498
+LENS-R w/o drift correction,WADI-13 (secondary),13,0.31,0.154,0.462,0.462,0.132,0.51
+Classical RBC,WADI-13 (secondary),13,0.273,0.154,0.385,0.385,0.103,0.473
+Recursive RBC (no gap),WADI-13 (secondary),13,0.459,0.385,0.462,0.538,0.218,0.699
+Recursive RBC (300 s gap),WADI-13 (secondary),13,0.395,0.308,0.385,0.462,0.178,0.631
