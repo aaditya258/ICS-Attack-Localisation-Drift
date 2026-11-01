@@ -1,0 +1,6 @@
+method,0 sigma,3 sigma,6 sigma,10 sigma,drop 0->10,p (0 vs 10)
+LENS-R (full),0.324,0.282,0.331,0.331,0.007,0.664
+LENS-R w/o drift correction,0.324,0.11,0.098,0.097,-0.227,0.0
+Classical RBC,0.314,0.114,0.101,0.096,-0.218,0.0
+Recursive RBC (no gap),0.442,0.442,0.442,0.442,0.0,0.756
+Recursive RBC (300 s gap),0.393,0.392,0.392,0.391,-0.001,0.134

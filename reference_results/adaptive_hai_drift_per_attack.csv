@@ -1,0 +1,1161 @@
+m,method,attack,best_rank,rr,stage_hit,top1,top3,top5
+0,LENS-R (full),A101,2.0,0.5,1,0,1,1
+0,LENS-R w/o drift correction,A101,2.0,0.5,1,0,1,1
+0,Classical RBC,A101,4.0,0.25,1,0,0,1
+0,Recursive RBC (no gap),A101,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A101,3.0,0.3333333333333333,0,0,1,1
+0,LENS-R (full),A102,1.0,1.0,1,1,1,1
+0,LENS-R w/o drift correction,A102,1.0,1.0,1,1,1,1
+0,Classical RBC,A102,1.0,1.0,1,1,1,1
+0,Recursive RBC (no gap),A102,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A102,1.0,1.0,1,1,1,1
+0,LENS-R (full),A103,5.0,0.2,1,0,0,1
+0,LENS-R w/o drift correction,A103,5.0,0.2,1,0,0,1
+0,Classical RBC,A103,4.0,0.25,1,0,0,1
+0,Recursive RBC (no gap),A103,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A103,1.0,1.0,1,1,1,1
+0,LENS-R (full),A104,2.0,0.5,0,0,1,1
+0,LENS-R w/o drift correction,A104,2.0,0.5,0,0,1,1
+0,Classical RBC,A104,2.0,0.5,0,0,1,1
+0,Recursive RBC (no gap),A104,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A104,1.0,1.0,1,1,1,1
+0,LENS-R (full),A105,30.0,0.03333333333333333,1,0,0,0
+0,LENS-R w/o drift correction,A105,30.0,0.03333333333333333,1,0,0,0
+0,Classical RBC,A105,33.0,0.030303030303030304,1,0,0,0
+0,Recursive RBC (no gap),A105,8.0,0.125,1,0,0,0
+0,Recursive RBC (300 s gap),A105,4.0,0.25,1,0,0,1
+0,LENS-R (full),A106,4.0,0.25,1,0,0,1
+0,LENS-R w/o drift correction,A106,4.0,0.25,1,0,0,1
+0,Classical RBC,A106,5.0,0.2,1,0,0,1
+0,Recursive RBC (no gap),A106,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A106,1.0,1.0,1,1,1,1
+0,LENS-R (full),A107,55.0,0.01818181818181818,1,0,0,0
+0,LENS-R w/o drift correction,A107,55.0,0.01818181818181818,1,0,0,0
+0,Classical RBC,A107,56.0,0.017857142857142856,1,0,0,0
+0,Recursive RBC (no gap),A107,34.0,0.029411764705882353,0,0,0,0
+0,Recursive RBC (300 s gap),A107,41.0,0.024390243902439025,1,0,0,0
+0,LENS-R (full),A201,26.0,0.038461538461538464,0,0,0,0
+0,LENS-R w/o drift correction,A201,26.0,0.038461538461538464,0,0,0,0
+0,Classical RBC,A201,24.0,0.041666666666666664,1,0,0,0
+0,Recursive RBC (no gap),A201,14.0,0.07142857142857142,1,0,0,0
+0,Recursive RBC (300 s gap),A201,16.0,0.0625,1,0,0,0
+0,LENS-R (full),A202,33.0,0.030303030303030304,1,0,0,0
+0,LENS-R w/o drift correction,A202,33.0,0.030303030303030304,1,0,0,0
+0,Classical RBC,A202,32.0,0.03125,1,0,0,0
+0,Recursive RBC (no gap),A202,9.0,0.1111111111111111,0,0,0,0
+0,Recursive RBC (300 s gap),A202,28.0,0.03571428571428571,1,0,0,0
+0,LENS-R (full),A203,1.0,1.0,1,1,1,1
+0,LENS-R w/o drift correction,A203,1.0,1.0,1,1,1,1
+0,Classical RBC,A203,1.0,1.0,1,1,1,1
+0,Recursive RBC (no gap),A203,9.0,0.1111111111111111,1,0,0,0
+0,Recursive RBC (300 s gap),A203,7.0,0.14285714285714285,0,0,0,0
+0,LENS-R (full),A204,7.0,0.14285714285714285,1,0,0,0
+0,LENS-R w/o drift correction,A204,7.0,0.14285714285714285,1,0,0,0
+0,Classical RBC,A204,2.0,0.5,1,0,1,1
+0,Recursive RBC (no gap),A204,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A204,1.0,1.0,1,1,1,1
+0,LENS-R (full),A205,1.0,1.0,1,1,1,1
+0,LENS-R w/o drift correction,A205,1.0,1.0,1,1,1,1
+0,Classical RBC,A205,3.0,0.3333333333333333,0,0,1,1
+0,Recursive RBC (no gap),A205,2.0,0.5,0,0,1,1
+0,Recursive RBC (300 s gap),A205,3.0,0.3333333333333333,0,0,1,1
+0,LENS-R (full),A206,32.0,0.03125,1,0,0,0
+0,LENS-R w/o drift correction,A206,32.0,0.03125,1,0,0,0
+0,Classical RBC,A206,10.0,0.1,1,0,0,0
+0,Recursive RBC (no gap),A206,14.0,0.07142857142857142,1,0,0,0
+0,Recursive RBC (300 s gap),A206,31.0,0.03225806451612903,1,0,0,0
+0,LENS-R (full),A207,2.0,0.5,1,0,1,1
+0,LENS-R w/o drift correction,A207,2.0,0.5,1,0,1,1
+0,Classical RBC,A207,2.0,0.5,1,0,1,1
+0,Recursive RBC (no gap),A207,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A207,1.0,1.0,1,1,1,1
+0,LENS-R (full),A208,3.0,0.3333333333333333,0,0,1,1
+0,LENS-R w/o drift correction,A208,3.0,0.3333333333333333,0,0,1,1
+0,Classical RBC,A208,3.0,0.3333333333333333,0,0,1,1
+0,Recursive RBC (no gap),A208,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A208,2.0,0.5,0,0,1,1
+0,LENS-R (full),A209,27.0,0.037037037037037035,1,0,0,0
+0,LENS-R w/o drift correction,A209,27.0,0.037037037037037035,1,0,0,0
+0,Classical RBC,A209,33.0,0.030303030303030304,1,0,0,0
+0,Recursive RBC (no gap),A209,18.0,0.05555555555555555,0,0,0,0
+0,Recursive RBC (300 s gap),A209,34.0,0.029411764705882353,0,0,0,0
+0,LENS-R (full),A210,1.0,1.0,1,1,1,1
+0,LENS-R w/o drift correction,A210,1.0,1.0,1,1,1,1
+0,Classical RBC,A210,1.0,1.0,1,1,1,1
+0,Recursive RBC (no gap),A210,3.0,0.3333333333333333,1,0,1,1
+0,Recursive RBC (300 s gap),A210,3.0,0.3333333333333333,1,0,1,1
+0,LENS-R (full),A211,5.0,0.2,1,0,0,1
+0,LENS-R w/o drift correction,A211,5.0,0.2,1,0,0,1
+0,Classical RBC,A211,6.0,0.16666666666666666,1,0,0,0
+0,Recursive RBC (no gap),A211,5.0,0.2,0,0,0,1
+0,Recursive RBC (300 s gap),A211,15.0,0.06666666666666667,0,0,0,0
+0,LENS-R (full),A212,21.0,0.047619047619047616,0,0,0,0
+0,LENS-R w/o drift correction,A212,21.0,0.047619047619047616,0,0,0,0
+0,Classical RBC,A212,4.0,0.25,0,0,0,1
+0,Recursive RBC (no gap),A212,6.0,0.16666666666666666,0,0,0,0
+0,Recursive RBC (300 s gap),A212,4.0,0.25,0,0,0,1
+0,LENS-R (full),A213,2.0,0.5,1,0,1,1
+0,LENS-R w/o drift correction,A213,2.0,0.5,1,0,1,1
+0,Classical RBC,A213,2.0,0.5,1,0,1,1
+0,Recursive RBC (no gap),A213,34.0,0.029411764705882353,1,0,0,0
+0,Recursive RBC (300 s gap),A213,19.0,0.05263157894736842,1,0,0,0
+0,LENS-R (full),A214,3.0,0.3333333333333333,0,0,1,1
+0,LENS-R w/o drift correction,A214,3.0,0.3333333333333333,0,0,1,1
+0,Classical RBC,A214,4.0,0.25,0,0,0,1
+0,Recursive RBC (no gap),A214,2.0,0.5,0,0,1,1
+0,Recursive RBC (300 s gap),A214,8.0,0.125,0,0,0,0
+0,LENS-R (full),A215,19.0,0.05263157894736842,1,0,0,0
+0,LENS-R w/o drift correction,A215,19.0,0.05263157894736842,1,0,0,0
+0,Classical RBC,A215,22.0,0.045454545454545456,1,0,0,0
+0,Recursive RBC (no gap),A215,32.0,0.03125,1,0,0,0
+0,Recursive RBC (300 s gap),A215,44.0,0.022727272727272728,1,0,0,0
+0,LENS-R (full),A216,6.0,0.16666666666666666,1,0,0,0
+0,LENS-R w/o drift correction,A216,6.0,0.16666666666666666,1,0,0,0
+0,Classical RBC,A216,9.0,0.1111111111111111,1,0,0,0
+0,Recursive RBC (no gap),A216,29.0,0.034482758620689655,1,0,0,0
+0,Recursive RBC (300 s gap),A216,19.0,0.05263157894736842,1,0,0,0
+0,LENS-R (full),A217,18.0,0.05555555555555555,1,0,0,0
+0,LENS-R w/o drift correction,A217,18.0,0.05555555555555555,1,0,0,0
+0,Classical RBC,A217,16.0,0.0625,1,0,0,0
+0,Recursive RBC (no gap),A217,8.0,0.125,1,0,0,0
+0,Recursive RBC (300 s gap),A217,9.0,0.1111111111111111,1,0,0,0
+0,LENS-R (full),A301,32.0,0.03125,1,0,0,0
+0,LENS-R w/o drift correction,A301,32.0,0.03125,1,0,0,0
+0,Classical RBC,A301,29.0,0.034482758620689655,1,0,0,0
+0,Recursive RBC (no gap),A301,15.0,0.06666666666666667,1,0,0,0
+0,Recursive RBC (300 s gap),A301,29.0,0.034482758620689655,1,0,0,0
+0,LENS-R (full),A302,6.0,0.16666666666666666,1,0,0,0
+0,LENS-R w/o drift correction,A302,6.0,0.16666666666666666,1,0,0,0
+0,Classical RBC,A302,6.0,0.16666666666666666,1,0,0,0
+0,Recursive RBC (no gap),A302,4.0,0.25,1,0,0,1
+0,Recursive RBC (300 s gap),A302,12.0,0.08333333333333333,0,0,0,0
+0,LENS-R (full),A303,2.0,0.5,1,0,1,1
+0,LENS-R w/o drift correction,A303,2.0,0.5,1,0,1,1
+0,Classical RBC,A303,2.0,0.5,1,0,1,1
+0,Recursive RBC (no gap),A303,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A303,1.0,1.0,1,1,1,1
+0,LENS-R (full),A304,2.0,0.5,1,0,1,1
+0,LENS-R w/o drift correction,A304,2.0,0.5,1,0,1,1
+0,Classical RBC,A304,3.0,0.3333333333333333,1,0,1,1
+0,Recursive RBC (no gap),A304,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A304,1.0,1.0,1,1,1,1
+0,LENS-R (full),A305,1.0,1.0,1,1,1,1
+0,LENS-R w/o drift correction,A305,1.0,1.0,1,1,1,1
+0,Classical RBC,A305,1.0,1.0,1,1,1,1
+0,Recursive RBC (no gap),A305,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A305,1.0,1.0,1,1,1,1
+0,LENS-R (full),A306,5.0,0.2,1,0,0,1
+0,LENS-R w/o drift correction,A306,5.0,0.2,1,0,0,1
+0,Classical RBC,A306,5.0,0.2,1,0,0,1
+0,Recursive RBC (no gap),A306,3.0,0.3333333333333333,1,0,1,1
+0,Recursive RBC (300 s gap),A306,4.0,0.25,1,0,0,1
+0,LENS-R (full),A307,44.0,0.022727272727272728,1,0,0,0
+0,LENS-R w/o drift correction,A307,44.0,0.022727272727272728,1,0,0,0
+0,Classical RBC,A307,37.0,0.02702702702702703,1,0,0,0
+0,Recursive RBC (no gap),A307,27.0,0.037037037037037035,1,0,0,0
+0,Recursive RBC (300 s gap),A307,28.0,0.03571428571428571,1,0,0,0
+0,LENS-R (full),A308,5.0,0.2,1,0,0,1
+0,LENS-R w/o drift correction,A308,5.0,0.2,1,0,0,1
+0,Classical RBC,A308,3.0,0.3333333333333333,1,0,1,1
+0,Recursive RBC (no gap),A308,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A308,1.0,1.0,1,1,1,1
+0,LENS-R (full),A309,3.0,0.3333333333333333,0,0,1,1
+0,LENS-R w/o drift correction,A309,3.0,0.3333333333333333,0,0,1,1
+0,Classical RBC,A309,4.0,0.25,0,0,0,1
+0,Recursive RBC (no gap),A309,21.0,0.047619047619047616,1,0,0,0
+0,Recursive RBC (300 s gap),A309,28.0,0.03571428571428571,0,0,0,0
+0,LENS-R (full),A310,1.0,1.0,1,1,1,1
+0,LENS-R w/o drift correction,A310,1.0,1.0,1,1,1,1
+0,Classical RBC,A310,1.0,1.0,1,1,1,1
+0,Recursive RBC (no gap),A310,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A310,1.0,1.0,1,1,1,1
+0,LENS-R (full),A401,2.0,0.5,1,0,1,1
+0,LENS-R w/o drift correction,A401,2.0,0.5,1,0,1,1
+0,Classical RBC,A401,2.0,0.5,1,0,1,1
+0,Recursive RBC (no gap),A401,4.0,0.25,1,0,0,1
+0,Recursive RBC (300 s gap),A401,2.0,0.5,1,0,1,1
+0,LENS-R (full),A402,50.0,0.02,1,0,0,0
+0,LENS-R w/o drift correction,A402,50.0,0.02,1,0,0,0
+0,Classical RBC,A402,40.0,0.025,1,0,0,0
+0,Recursive RBC (no gap),A402,10.0,0.1,0,0,0,0
+0,Recursive RBC (300 s gap),A402,18.0,0.05555555555555555,0,0,0,0
+0,LENS-R (full),A403,77.5,0.012903225806451613,0,0,0,0
+0,LENS-R w/o drift correction,A403,77.5,0.012903225806451613,0,0,0,0
+0,Classical RBC,A403,77.5,0.012903225806451613,0,0,0,0
+0,Recursive RBC (no gap),A403,77.5,0.012903225806451613,0,0,0,0
+0,Recursive RBC (300 s gap),A403,77.5,0.012903225806451613,0,0,0,0
+0,LENS-R (full),A404,2.0,0.5,0,0,1,1
+0,LENS-R w/o drift correction,A404,2.0,0.5,0,0,1,1
+0,Classical RBC,A404,2.0,0.5,0,0,1,1
+0,Recursive RBC (no gap),A404,2.0,0.5,0,0,1,1
+0,Recursive RBC (300 s gap),A404,2.0,0.5,0,0,1,1
+0,LENS-R (full),A405,56.0,0.017857142857142856,0,0,0,0
+0,LENS-R w/o drift correction,A405,56.0,0.017857142857142856,0,0,0,0
+0,Classical RBC,A405,59.0,0.01694915254237288,0,0,0,0
+0,Recursive RBC (no gap),A405,51.0,0.0196078431372549,0,0,0,0
+0,Recursive RBC (300 s gap),A405,45.0,0.022222222222222223,1,0,0,0
+0,LENS-R (full),A406,15.0,0.06666666666666667,1,0,0,0
+0,LENS-R w/o drift correction,A406,15.0,0.06666666666666667,1,0,0,0
+0,Classical RBC,A406,19.0,0.05263157894736842,1,0,0,0
+0,Recursive RBC (no gap),A406,18.0,0.05555555555555555,1,0,0,0
+0,Recursive RBC (300 s gap),A406,23.0,0.043478260869565216,0,0,0,0
+0,LENS-R (full),A407,13.0,0.07692307692307693,1,0,0,0
+0,LENS-R w/o drift correction,A407,13.0,0.07692307692307693,1,0,0,0
+0,Classical RBC,A407,11.0,0.09090909090909091,1,0,0,0
+0,Recursive RBC (no gap),A407,14.0,0.07142857142857142,1,0,0,0
+0,Recursive RBC (300 s gap),A407,7.0,0.14285714285714285,0,0,0,0
+0,LENS-R (full),A408,3.0,0.3333333333333333,1,0,1,1
+0,LENS-R w/o drift correction,A408,3.0,0.3333333333333333,1,0,1,1
+0,Classical RBC,A408,4.0,0.25,1,0,0,1
+0,Recursive RBC (no gap),A408,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A408,1.0,1.0,1,1,1,1
+0,LENS-R (full),A409,1.0,1.0,1,1,1,1
+0,LENS-R w/o drift correction,A409,1.0,1.0,1,1,1,1
+0,Classical RBC,A409,1.0,1.0,1,1,1,1
+0,Recursive RBC (no gap),A409,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A409,1.0,1.0,1,1,1,1
+0,LENS-R (full),A410,7.0,0.14285714285714285,1,0,0,0
+0,LENS-R w/o drift correction,A410,7.0,0.14285714285714285,1,0,0,0
+0,Classical RBC,A410,4.0,0.25,1,0,0,1
+0,Recursive RBC (no gap),A410,2.0,0.5,1,0,1,1
+0,Recursive RBC (300 s gap),A410,6.0,0.16666666666666666,1,0,0,0
+0,LENS-R (full),A411,2.0,0.5,1,0,1,1
+0,LENS-R w/o drift correction,A411,2.0,0.5,1,0,1,1
+0,Classical RBC,A411,2.0,0.5,1,0,1,1
+0,Recursive RBC (no gap),A411,7.0,0.14285714285714285,0,0,0,0
+0,Recursive RBC (300 s gap),A411,2.0,0.5,0,0,1,1
+0,LENS-R (full),A412,36.0,0.027777777777777776,0,0,0,0
+0,LENS-R w/o drift correction,A412,33.0,0.030303030303030304,1,0,0,0
+0,Classical RBC,A412,36.0,0.027777777777777776,1,0,0,0
+0,Recursive RBC (no gap),A412,41.0,0.024390243902439025,1,0,0,0
+0,Recursive RBC (300 s gap),A412,41.0,0.024390243902439025,0,0,0,0
+0,LENS-R (full),A413,4.0,0.25,1,0,0,1
+0,LENS-R w/o drift correction,A413,4.0,0.25,1,0,0,1
+0,Classical RBC,A413,3.0,0.3333333333333333,1,0,1,1
+0,Recursive RBC (no gap),A413,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A413,1.0,1.0,1,1,1,1
+0,LENS-R (full),A414,3.0,0.3333333333333333,0,0,1,1
+0,LENS-R w/o drift correction,A414,3.0,0.3333333333333333,0,0,1,1
+0,Classical RBC,A414,3.0,0.3333333333333333,0,0,1,1
+0,Recursive RBC (no gap),A414,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A414,2.0,0.5,0,0,1,1
+0,LENS-R (full),A415,77.5,0.012903225806451613,0,0,0,0
+0,LENS-R w/o drift correction,A415,77.5,0.012903225806451613,0,0,0,0
+0,Classical RBC,A415,77.5,0.012903225806451613,0,0,0,0
+0,Recursive RBC (no gap),A415,78.5,0.012738853503184714,0,0,0,0
+0,Recursive RBC (300 s gap),A415,78.5,0.012738853503184714,0,0,0,0
+0,LENS-R (full),A416,18.0,0.05555555555555555,1,0,0,0
+0,LENS-R w/o drift correction,A416,18.0,0.05555555555555555,1,0,0,0
+0,Classical RBC,A416,20.0,0.05,1,0,0,0
+0,Recursive RBC (no gap),A416,5.0,0.2,1,0,0,1
+0,Recursive RBC (300 s gap),A416,10.0,0.1,1,0,0,0
+0,LENS-R (full),A417,11.0,0.09090909090909091,1,0,0,0
+0,LENS-R w/o drift correction,A417,11.0,0.09090909090909091,1,0,0,0
+0,Classical RBC,A417,17.0,0.058823529411764705,1,0,0,0
+0,Recursive RBC (no gap),A417,60.0,0.016666666666666666,1,0,0,0
+0,Recursive RBC (300 s gap),A417,68.0,0.014705882352941176,1,0,0,0
+0,LENS-R (full),A418,34.0,0.029411764705882353,1,0,0,0
+0,LENS-R w/o drift correction,A418,34.0,0.029411764705882353,1,0,0,0
+0,Classical RBC,A418,19.0,0.05263157894736842,1,0,0,0
+0,Recursive RBC (no gap),A418,23.0,0.043478260869565216,1,0,0,0
+0,Recursive RBC (300 s gap),A418,26.0,0.038461538461538464,1,0,0,0
+0,LENS-R (full),A419,3.0,0.3333333333333333,1,0,1,1
+0,LENS-R w/o drift correction,A419,3.0,0.3333333333333333,1,0,1,1
+0,Classical RBC,A419,3.0,0.3333333333333333,1,0,1,1
+0,Recursive RBC (no gap),A419,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A419,1.0,1.0,1,1,1,1
+0,LENS-R (full),A420,1.0,1.0,1,1,1,1
+0,LENS-R w/o drift correction,A420,1.0,1.0,1,1,1,1
+0,Classical RBC,A420,1.0,1.0,1,1,1,1
+0,Recursive RBC (no gap),A420,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A420,1.0,1.0,1,1,1,1
+0,LENS-R (full),A421,1.0,1.0,1,1,1,1
+0,LENS-R w/o drift correction,A421,1.0,1.0,1,1,1,1
+0,Classical RBC,A421,1.0,1.0,1,1,1,1
+0,Recursive RBC (no gap),A421,1.0,1.0,1,1,1,1
+0,Recursive RBC (300 s gap),A421,2.0,0.5,1,0,1,1
+0,LENS-R (full),A422,13.0,0.07692307692307693,1,0,0,0
+0,LENS-R w/o drift correction,A422,13.0,0.07692307692307693,1,0,0,0
+0,Classical RBC,A422,16.0,0.0625,1,0,0,0
+0,Recursive RBC (no gap),A422,11.0,0.09090909090909091,1,0,0,0
+0,Recursive RBC (300 s gap),A422,8.0,0.125,1,0,0,0
+0,LENS-R (full),A423,3.0,0.3333333333333333,1,0,1,1
+0,LENS-R w/o drift correction,A423,3.0,0.3333333333333333,1,0,1,1
+0,Classical RBC,A423,4.0,0.25,1,0,0,1
+0,Recursive RBC (no gap),A423,4.0,0.25,1,0,0,1
+0,Recursive RBC (300 s gap),A423,8.0,0.125,1,0,0,0
+0,LENS-R (full),A424,6.0,0.16666666666666666,1,0,0,0
+0,LENS-R w/o drift correction,A424,6.0,0.16666666666666666,1,0,0,0
+0,Classical RBC,A424,7.0,0.14285714285714285,1,0,0,0
+0,Recursive RBC (no gap),A424,8.0,0.125,1,0,0,0
+0,Recursive RBC (300 s gap),A424,5.0,0.2,1,0,0,1
+3,LENS-R (full),A101,3.0,0.3333333333333333,1,0,1,1
+3,LENS-R w/o drift correction,A101,7.0,0.14285714285714285,1,0,0,0
+3,Classical RBC,A101,18.0,0.05555555555555555,1,0,0,0
+3,Recursive RBC (no gap),A101,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A101,3.0,0.3333333333333333,0,0,1,1
+3,LENS-R (full),A102,1.0,1.0,1,1,1,1
+3,LENS-R w/o drift correction,A102,4.0,0.25,1,0,0,1
+3,Classical RBC,A102,5.0,0.2,1,0,0,1
+3,Recursive RBC (no gap),A102,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A102,1.0,1.0,1,1,1,1
+3,LENS-R (full),A103,6.0,0.16666666666666666,0,0,0,0
+3,LENS-R w/o drift correction,A103,9.0,0.1111111111111111,1,0,0,0
+3,Classical RBC,A103,6.0,0.16666666666666666,1,0,0,0
+3,Recursive RBC (no gap),A103,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A103,1.0,1.0,1,1,1,1
+3,LENS-R (full),A104,3.0,0.3333333333333333,0,0,1,1
+3,LENS-R w/o drift correction,A104,9.0,0.1111111111111111,0,0,0,0
+3,Classical RBC,A104,4.0,0.25,0,0,0,1
+3,Recursive RBC (no gap),A104,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A104,1.0,1.0,1,1,1,1
+3,LENS-R (full),A105,29.0,0.034482758620689655,0,0,0,0
+3,LENS-R w/o drift correction,A105,37.0,0.02702702702702703,1,0,0,0
+3,Classical RBC,A105,41.0,0.024390243902439025,1,0,0,0
+3,Recursive RBC (no gap),A105,9.0,0.1111111111111111,1,0,0,0
+3,Recursive RBC (300 s gap),A105,4.0,0.25,1,0,0,1
+3,LENS-R (full),A106,7.0,0.14285714285714285,0,0,0,0
+3,LENS-R w/o drift correction,A106,9.0,0.1111111111111111,1,0,0,0
+3,Classical RBC,A106,20.0,0.05,1,0,0,0
+3,Recursive RBC (no gap),A106,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A106,1.0,1.0,1,1,1,1
+3,LENS-R (full),A107,56.0,0.017857142857142856,0,0,0,0
+3,LENS-R w/o drift correction,A107,55.0,0.01818181818181818,1,0,0,0
+3,Classical RBC,A107,22.0,0.045454545454545456,1,0,0,0
+3,Recursive RBC (no gap),A107,32.0,0.03125,0,0,0,0
+3,Recursive RBC (300 s gap),A107,36.0,0.027777777777777776,1,0,0,0
+3,LENS-R (full),A201,28.0,0.03571428571428571,0,0,0,0
+3,LENS-R w/o drift correction,A201,28.0,0.03571428571428571,1,0,0,0
+3,Classical RBC,A201,39.0,0.02564102564102564,1,0,0,0
+3,Recursive RBC (no gap),A201,18.0,0.05555555555555555,1,0,0,0
+3,Recursive RBC (300 s gap),A201,29.0,0.034482758620689655,1,0,0,0
+3,LENS-R (full),A202,32.0,0.03125,0,0,0,0
+3,LENS-R w/o drift correction,A202,33.0,0.030303030303030304,1,0,0,0
+3,Classical RBC,A202,17.0,0.058823529411764705,1,0,0,0
+3,Recursive RBC (no gap),A202,9.0,0.1111111111111111,0,0,0,0
+3,Recursive RBC (300 s gap),A202,32.0,0.03125,1,0,0,0
+3,LENS-R (full),A203,1.0,1.0,1,1,1,1
+3,LENS-R w/o drift correction,A203,5.0,0.2,0,0,0,1
+3,Classical RBC,A203,11.0,0.09090909090909091,0,0,0,0
+3,Recursive RBC (no gap),A203,8.0,0.125,1,0,0,0
+3,Recursive RBC (300 s gap),A203,7.0,0.14285714285714285,0,0,0,0
+3,LENS-R (full),A204,7.0,0.14285714285714285,1,0,0,0
+3,LENS-R w/o drift correction,A204,8.0,0.125,1,0,0,0
+3,Classical RBC,A204,29.0,0.034482758620689655,1,0,0,0
+3,Recursive RBC (no gap),A204,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A204,1.0,1.0,1,1,1,1
+3,LENS-R (full),A205,2.0,0.5,0,0,1,1
+3,LENS-R w/o drift correction,A205,8.0,0.125,0,0,0,0
+3,Classical RBC,A205,4.0,0.25,0,0,0,1
+3,Recursive RBC (no gap),A205,2.0,0.5,0,0,1,1
+3,Recursive RBC (300 s gap),A205,3.0,0.3333333333333333,0,0,1,1
+3,LENS-R (full),A206,33.0,0.030303030303030304,1,0,0,0
+3,LENS-R w/o drift correction,A206,33.0,0.030303030303030304,1,0,0,0
+3,Classical RBC,A206,31.0,0.03225806451612903,1,0,0,0
+3,Recursive RBC (no gap),A206,14.0,0.07142857142857142,1,0,0,0
+3,Recursive RBC (300 s gap),A206,31.0,0.03225806451612903,1,0,0,0
+3,LENS-R (full),A207,3.0,0.3333333333333333,0,0,1,1
+3,LENS-R w/o drift correction,A207,6.0,0.16666666666666666,1,0,0,0
+3,Classical RBC,A207,16.0,0.0625,1,0,0,0
+3,Recursive RBC (no gap),A207,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A207,1.0,1.0,1,1,1,1
+3,LENS-R (full),A208,2.0,0.5,1,0,1,1
+3,LENS-R w/o drift correction,A208,6.0,0.16666666666666666,0,0,0,0
+3,Classical RBC,A208,14.0,0.07142857142857142,0,0,0,0
+3,Recursive RBC (no gap),A208,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A208,2.0,0.5,0,0,1,1
+3,LENS-R (full),A209,32.0,0.03125,0,0,0,0
+3,LENS-R w/o drift correction,A209,37.0,0.02702702702702703,1,0,0,0
+3,Classical RBC,A209,33.0,0.030303030303030304,1,0,0,0
+3,Recursive RBC (no gap),A209,18.0,0.05555555555555555,0,0,0,0
+3,Recursive RBC (300 s gap),A209,34.0,0.029411764705882353,0,0,0,0
+3,LENS-R (full),A210,1.0,1.0,1,1,1,1
+3,LENS-R w/o drift correction,A210,4.0,0.25,0,0,0,1
+3,Classical RBC,A210,5.0,0.2,0,0,0,1
+3,Recursive RBC (no gap),A210,3.0,0.3333333333333333,1,0,1,1
+3,Recursive RBC (300 s gap),A210,3.0,0.3333333333333333,1,0,1,1
+3,LENS-R (full),A211,5.0,0.2,0,0,0,1
+3,LENS-R w/o drift correction,A211,11.0,0.09090909090909091,1,0,0,0
+3,Classical RBC,A211,31.0,0.03225806451612903,1,0,0,0
+3,Recursive RBC (no gap),A211,5.0,0.2,0,0,0,1
+3,Recursive RBC (300 s gap),A211,15.0,0.06666666666666667,0,0,0,0
+3,LENS-R (full),A212,24.0,0.041666666666666664,0,0,0,0
+3,LENS-R w/o drift correction,A212,9.0,0.1111111111111111,0,0,0,0
+3,Classical RBC,A212,13.0,0.07692307692307693,0,0,0,0
+3,Recursive RBC (no gap),A212,6.0,0.16666666666666666,0,0,0,0
+3,Recursive RBC (300 s gap),A212,4.0,0.25,0,0,0,1
+3,LENS-R (full),A213,3.0,0.3333333333333333,0,0,1,1
+3,LENS-R w/o drift correction,A213,7.0,0.14285714285714285,1,0,0,0
+3,Classical RBC,A213,37.0,0.02702702702702703,1,0,0,0
+3,Recursive RBC (no gap),A213,34.0,0.029411764705882353,1,0,0,0
+3,Recursive RBC (300 s gap),A213,19.0,0.05263157894736842,1,0,0,0
+3,LENS-R (full),A214,4.0,0.25,0,0,0,1
+3,LENS-R w/o drift correction,A214,16.0,0.0625,0,0,0,0
+3,Classical RBC,A214,4.0,0.25,0,0,0,1
+3,Recursive RBC (no gap),A214,2.0,0.5,0,0,1,1
+3,Recursive RBC (300 s gap),A214,9.0,0.1111111111111111,0,0,0,0
+3,LENS-R (full),A215,18.0,0.05555555555555555,0,0,0,0
+3,LENS-R w/o drift correction,A215,32.0,0.03125,1,0,0,0
+3,Classical RBC,A215,5.0,0.2,1,0,0,1
+3,Recursive RBC (no gap),A215,32.0,0.03125,1,0,0,0
+3,Recursive RBC (300 s gap),A215,42.0,0.023809523809523808,1,0,0,0
+3,LENS-R (full),A216,9.0,0.1111111111111111,0,0,0,0
+3,LENS-R w/o drift correction,A216,18.0,0.05555555555555555,1,0,0,0
+3,Classical RBC,A216,5.0,0.2,1,0,0,1
+3,Recursive RBC (no gap),A216,34.0,0.029411764705882353,1,0,0,0
+3,Recursive RBC (300 s gap),A216,19.0,0.05263157894736842,1,0,0,0
+3,LENS-R (full),A217,18.0,0.05555555555555555,0,0,0,0
+3,LENS-R w/o drift correction,A217,24.0,0.041666666666666664,1,0,0,0
+3,Classical RBC,A217,13.0,0.07692307692307693,1,0,0,0
+3,Recursive RBC (no gap),A217,8.0,0.125,1,0,0,0
+3,Recursive RBC (300 s gap),A217,9.0,0.1111111111111111,1,0,0,0
+3,LENS-R (full),A301,1.0,1.0,1,1,1,1
+3,LENS-R w/o drift correction,A301,3.0,0.3333333333333333,1,0,1,1
+3,Classical RBC,A301,3.0,0.3333333333333333,1,0,1,1
+3,Recursive RBC (no gap),A301,19.0,0.05263157894736842,1,0,0,0
+3,Recursive RBC (300 s gap),A301,21.0,0.047619047619047616,1,0,0,0
+3,LENS-R (full),A302,7.0,0.14285714285714285,1,0,0,0
+3,LENS-R w/o drift correction,A302,10.0,0.1,1,0,0,0
+3,Classical RBC,A302,25.0,0.04,1,0,0,0
+3,Recursive RBC (no gap),A302,4.0,0.25,1,0,0,1
+3,Recursive RBC (300 s gap),A302,10.0,0.1,0,0,0,0
+3,LENS-R (full),A303,3.0,0.3333333333333333,0,0,1,1
+3,LENS-R w/o drift correction,A303,6.0,0.16666666666666666,1,0,0,0
+3,Classical RBC,A303,4.0,0.25,1,0,0,1
+3,Recursive RBC (no gap),A303,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A303,1.0,1.0,1,1,1,1
+3,LENS-R (full),A304,3.0,0.3333333333333333,1,0,1,1
+3,LENS-R w/o drift correction,A304,10.0,0.1,1,0,0,0
+3,Classical RBC,A304,4.0,0.25,1,0,0,1
+3,Recursive RBC (no gap),A304,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A304,1.0,1.0,1,1,1,1
+3,LENS-R (full),A305,1.0,1.0,1,1,1,1
+3,LENS-R w/o drift correction,A305,4.0,0.25,1,0,0,1
+3,Classical RBC,A305,4.0,0.25,1,0,0,1
+3,Recursive RBC (no gap),A305,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A305,1.0,1.0,1,1,1,1
+3,LENS-R (full),A306,6.0,0.16666666666666666,0,0,0,0
+3,LENS-R w/o drift correction,A306,10.0,0.1,1,0,0,0
+3,Classical RBC,A306,23.0,0.043478260869565216,1,0,0,0
+3,Recursive RBC (no gap),A306,3.0,0.3333333333333333,1,0,1,1
+3,Recursive RBC (300 s gap),A306,4.0,0.25,1,0,0,1
+3,LENS-R (full),A307,47.0,0.02127659574468085,0,0,0,0
+3,LENS-R w/o drift correction,A307,40.0,0.025,1,0,0,0
+3,Classical RBC,A307,20.0,0.05,1,0,0,0
+3,Recursive RBC (no gap),A307,28.0,0.03571428571428571,1,0,0,0
+3,Recursive RBC (300 s gap),A307,33.0,0.030303030303030304,1,0,0,0
+3,LENS-R (full),A308,7.0,0.14285714285714285,0,0,0,0
+3,LENS-R w/o drift correction,A308,8.0,0.125,1,0,0,0
+3,Classical RBC,A308,19.0,0.05263157894736842,1,0,0,0
+3,Recursive RBC (no gap),A308,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A308,1.0,1.0,1,1,1,1
+3,LENS-R (full),A309,3.0,0.3333333333333333,0,0,1,1
+3,LENS-R w/o drift correction,A309,10.0,0.1,1,0,0,0
+3,Classical RBC,A309,7.0,0.14285714285714285,1,0,0,0
+3,Recursive RBC (no gap),A309,21.0,0.047619047619047616,1,0,0,0
+3,Recursive RBC (300 s gap),A309,27.0,0.037037037037037035,0,0,0,0
+3,LENS-R (full),A310,2.0,0.5,0,0,1,1
+3,LENS-R w/o drift correction,A310,7.0,0.14285714285714285,0,0,0,0
+3,Classical RBC,A310,4.0,0.25,0,0,0,1
+3,Recursive RBC (no gap),A310,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A310,1.0,1.0,1,1,1,1
+3,LENS-R (full),A401,2.0,0.5,1,0,1,1
+3,LENS-R w/o drift correction,A401,2.0,0.5,1,0,1,1
+3,Classical RBC,A401,2.0,0.5,1,0,1,1
+3,Recursive RBC (no gap),A401,4.0,0.25,1,0,0,1
+3,Recursive RBC (300 s gap),A401,2.0,0.5,1,0,1,1
+3,LENS-R (full),A402,45.0,0.022222222222222223,0,0,0,0
+3,LENS-R w/o drift correction,A402,50.0,0.02,1,0,0,0
+3,Classical RBC,A402,28.0,0.03571428571428571,1,0,0,0
+3,Recursive RBC (no gap),A402,14.0,0.07142857142857142,0,0,0,0
+3,Recursive RBC (300 s gap),A402,42.0,0.023809523809523808,0,0,0,0
+3,LENS-R (full),A403,77.5,0.012903225806451613,0,0,0,0
+3,LENS-R w/o drift correction,A403,77.5,0.012903225806451613,0,0,0,0
+3,Classical RBC,A403,77.5,0.012903225806451613,0,0,0,0
+3,Recursive RBC (no gap),A403,77.5,0.012903225806451613,0,0,0,0
+3,Recursive RBC (300 s gap),A403,77.5,0.012903225806451613,0,0,0,0
+3,LENS-R (full),A404,2.0,0.5,1,0,1,1
+3,LENS-R w/o drift correction,A404,13.0,0.07692307692307693,0,0,0,0
+3,Classical RBC,A404,4.0,0.25,0,0,0,1
+3,Recursive RBC (no gap),A404,2.0,0.5,0,0,1,1
+3,Recursive RBC (300 s gap),A404,2.0,0.5,0,0,1,1
+3,LENS-R (full),A405,55.0,0.01818181818181818,0,0,0,0
+3,LENS-R w/o drift correction,A405,58.0,0.017241379310344827,1,0,0,0
+3,Classical RBC,A405,57.0,0.017543859649122806,1,0,0,0
+3,Recursive RBC (no gap),A405,45.0,0.022222222222222223,0,0,0,0
+3,Recursive RBC (300 s gap),A405,39.0,0.02564102564102564,1,0,0,0
+3,LENS-R (full),A406,13.0,0.07692307692307693,0,0,0,0
+3,LENS-R w/o drift correction,A406,26.0,0.038461538461538464,1,0,0,0
+3,Classical RBC,A406,5.0,0.2,1,0,0,1
+3,Recursive RBC (no gap),A406,17.0,0.058823529411764705,1,0,0,0
+3,Recursive RBC (300 s gap),A406,22.0,0.045454545454545456,0,0,0,0
+3,LENS-R (full),A407,14.0,0.07142857142857142,0,0,0,0
+3,LENS-R w/o drift correction,A407,15.0,0.06666666666666667,1,0,0,0
+3,Classical RBC,A407,20.0,0.05,1,0,0,0
+3,Recursive RBC (no gap),A407,13.0,0.07692307692307693,1,0,0,0
+3,Recursive RBC (300 s gap),A407,7.0,0.14285714285714285,0,0,0,0
+3,LENS-R (full),A408,4.0,0.25,0,0,0,1
+3,LENS-R w/o drift correction,A408,9.0,0.1111111111111111,1,0,0,0
+3,Classical RBC,A408,24.0,0.041666666666666664,1,0,0,0
+3,Recursive RBC (no gap),A408,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A408,1.0,1.0,1,1,1,1
+3,LENS-R (full),A409,1.0,1.0,1,1,1,1
+3,LENS-R w/o drift correction,A409,4.0,0.25,1,0,0,1
+3,Classical RBC,A409,4.0,0.25,1,0,0,1
+3,Recursive RBC (no gap),A409,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A409,1.0,1.0,1,1,1,1
+3,LENS-R (full),A410,11.0,0.09090909090909091,1,0,0,0
+3,LENS-R w/o drift correction,A410,9.0,0.1111111111111111,1,0,0,0
+3,Classical RBC,A410,6.0,0.16666666666666666,1,0,0,0
+3,Recursive RBC (no gap),A410,2.0,0.5,1,0,1,1
+3,Recursive RBC (300 s gap),A410,6.0,0.16666666666666666,1,0,0,0
+3,LENS-R (full),A411,3.0,0.3333333333333333,1,0,1,1
+3,LENS-R w/o drift correction,A411,7.0,0.14285714285714285,1,0,0,0
+3,Classical RBC,A411,35.0,0.02857142857142857,1,0,0,0
+3,Recursive RBC (no gap),A411,7.0,0.14285714285714285,0,0,0,0
+3,Recursive RBC (300 s gap),A411,2.0,0.5,0,0,1,1
+3,LENS-R (full),A412,34.0,0.029411764705882353,0,0,0,0
+3,LENS-R w/o drift correction,A412,40.0,0.025,1,0,0,0
+3,Classical RBC,A412,23.0,0.043478260869565216,1,0,0,0
+3,Recursive RBC (no gap),A412,35.0,0.02857142857142857,1,0,0,0
+3,Recursive RBC (300 s gap),A412,39.0,0.02564102564102564,0,0,0,0
+3,LENS-R (full),A413,6.0,0.16666666666666666,1,0,0,0
+3,LENS-R w/o drift correction,A413,9.0,0.1111111111111111,1,0,0,0
+3,Classical RBC,A413,22.0,0.045454545454545456,1,0,0,0
+3,Recursive RBC (no gap),A413,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A413,1.0,1.0,1,1,1,1
+3,LENS-R (full),A414,4.0,0.25,1,0,0,1
+3,LENS-R w/o drift correction,A414,10.0,0.1,0,0,0,0
+3,Classical RBC,A414,14.0,0.07142857142857142,0,0,0,0
+3,Recursive RBC (no gap),A414,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A414,2.0,0.5,0,0,1,1
+3,LENS-R (full),A415,77.5,0.012903225806451613,1,0,0,0
+3,LENS-R w/o drift correction,A415,77.5,0.012903225806451613,0,0,0,0
+3,Classical RBC,A415,77.5,0.012903225806451613,0,0,0,0
+3,Recursive RBC (no gap),A415,78.5,0.012738853503184714,0,0,0,0
+3,Recursive RBC (300 s gap),A415,78.5,0.012738853503184714,0,0,0,0
+3,LENS-R (full),A416,19.0,0.05263157894736842,0,0,0,0
+3,LENS-R w/o drift correction,A416,25.0,0.04,1,0,0,0
+3,Classical RBC,A416,6.0,0.16666666666666666,1,0,0,0
+3,Recursive RBC (no gap),A416,5.0,0.2,1,0,0,1
+3,Recursive RBC (300 s gap),A416,10.0,0.1,1,0,0,0
+3,LENS-R (full),A417,19.0,0.05263157894736842,1,0,0,0
+3,LENS-R w/o drift correction,A417,25.0,0.04,1,0,0,0
+3,Classical RBC,A417,26.0,0.038461538461538464,1,0,0,0
+3,Recursive RBC (no gap),A417,63.0,0.015873015873015872,1,0,0,0
+3,Recursive RBC (300 s gap),A417,68.0,0.014705882352941176,1,0,0,0
+3,LENS-R (full),A418,34.0,0.029411764705882353,0,0,0,0
+3,LENS-R w/o drift correction,A418,25.0,0.04,1,0,0,0
+3,Classical RBC,A418,40.0,0.025,1,0,0,0
+3,Recursive RBC (no gap),A418,24.0,0.041666666666666664,1,0,0,0
+3,Recursive RBC (300 s gap),A418,25.0,0.04,1,0,0,0
+3,LENS-R (full),A419,4.0,0.25,0,0,0,1
+3,LENS-R w/o drift correction,A419,9.0,0.1111111111111111,1,0,0,0
+3,Classical RBC,A419,13.0,0.07692307692307693,1,0,0,0
+3,Recursive RBC (no gap),A419,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A419,1.0,1.0,1,1,1,1
+3,LENS-R (full),A420,1.0,1.0,1,1,1,1
+3,LENS-R w/o drift correction,A420,5.0,0.2,1,0,0,1
+3,Classical RBC,A420,12.0,0.08333333333333333,1,0,0,0
+3,Recursive RBC (no gap),A420,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A420,1.0,1.0,1,1,1,1
+3,LENS-R (full),A421,2.0,0.5,1,0,1,1
+3,LENS-R w/o drift correction,A421,6.0,0.16666666666666666,1,0,0,0
+3,Classical RBC,A421,13.0,0.07692307692307693,1,0,0,0
+3,Recursive RBC (no gap),A421,1.0,1.0,1,1,1,1
+3,Recursive RBC (300 s gap),A421,2.0,0.5,1,0,1,1
+3,LENS-R (full),A422,15.0,0.06666666666666667,1,0,0,0
+3,LENS-R w/o drift correction,A422,23.0,0.043478260869565216,1,0,0,0
+3,Classical RBC,A422,34.0,0.029411764705882353,1,0,0,0
+3,Recursive RBC (no gap),A422,11.0,0.09090909090909091,1,0,0,0
+3,Recursive RBC (300 s gap),A422,8.0,0.125,1,0,0,0
+3,LENS-R (full),A423,4.0,0.25,1,0,0,1
+3,LENS-R w/o drift correction,A423,8.0,0.125,1,0,0,0
+3,Classical RBC,A423,7.0,0.14285714285714285,1,0,0,0
+3,Recursive RBC (no gap),A423,4.0,0.25,1,0,0,1
+3,Recursive RBC (300 s gap),A423,8.0,0.125,1,0,0,0
+3,LENS-R (full),A424,7.0,0.14285714285714285,0,0,0,0
+3,LENS-R w/o drift correction,A424,12.0,0.08333333333333333,1,0,0,0
+3,Classical RBC,A424,13.0,0.07692307692307693,1,0,0,0
+3,Recursive RBC (no gap),A424,7.0,0.14285714285714285,1,0,0,0
+3,Recursive RBC (300 s gap),A424,5.0,0.2,1,0,0,1
+6,LENS-R (full),A101,2.0,0.5,1,0,1,1
+6,LENS-R w/o drift correction,A101,8.0,0.125,1,0,0,0
+6,Classical RBC,A101,28.0,0.03571428571428571,1,0,0,0
+6,Recursive RBC (no gap),A101,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A101,3.0,0.3333333333333333,0,0,1,1
+6,LENS-R (full),A102,1.0,1.0,1,1,1,1
+6,LENS-R w/o drift correction,A102,5.0,0.2,1,0,0,1
+6,Classical RBC,A102,9.0,0.1111111111111111,1,0,0,0
+6,Recursive RBC (no gap),A102,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A102,1.0,1.0,1,1,1,1
+6,LENS-R (full),A103,6.0,0.16666666666666666,1,0,0,0
+6,LENS-R w/o drift correction,A103,9.0,0.1111111111111111,1,0,0,0
+6,Classical RBC,A103,6.0,0.16666666666666666,1,0,0,0
+6,Recursive RBC (no gap),A103,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A103,1.0,1.0,1,1,1,1
+6,LENS-R (full),A104,2.0,0.5,0,0,1,1
+6,LENS-R w/o drift correction,A104,9.0,0.1111111111111111,0,0,0,0
+6,Classical RBC,A104,4.0,0.25,0,0,0,1
+6,Recursive RBC (no gap),A104,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A104,1.0,1.0,1,1,1,1
+6,LENS-R (full),A105,26.0,0.038461538461538464,1,0,0,0
+6,LENS-R w/o drift correction,A105,37.0,0.02702702702702703,1,0,0,0
+6,Classical RBC,A105,39.0,0.02564102564102564,1,0,0,0
+6,Recursive RBC (no gap),A105,9.0,0.1111111111111111,1,0,0,0
+6,Recursive RBC (300 s gap),A105,4.0,0.25,1,0,0,1
+6,LENS-R (full),A106,5.0,0.2,1,0,0,1
+6,LENS-R w/o drift correction,A106,9.0,0.1111111111111111,1,0,0,0
+6,Classical RBC,A106,27.0,0.037037037037037035,1,0,0,0
+6,Recursive RBC (no gap),A106,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A106,1.0,1.0,1,1,1,1
+6,LENS-R (full),A107,52.0,0.019230769230769232,0,0,0,0
+6,LENS-R w/o drift correction,A107,55.0,0.01818181818181818,1,0,0,0
+6,Classical RBC,A107,20.0,0.05,1,0,0,0
+6,Recursive RBC (no gap),A107,32.0,0.03125,0,0,0,0
+6,Recursive RBC (300 s gap),A107,35.0,0.02857142857142857,1,0,0,0
+6,LENS-R (full),A201,26.0,0.038461538461538464,0,0,0,0
+6,LENS-R w/o drift correction,A201,26.0,0.038461538461538464,1,0,0,0
+6,Classical RBC,A201,49.0,0.02040816326530612,1,0,0,0
+6,Recursive RBC (no gap),A201,14.0,0.07142857142857142,1,0,0,0
+6,Recursive RBC (300 s gap),A201,28.0,0.03571428571428571,1,0,0,0
+6,LENS-R (full),A202,32.0,0.03125,1,0,0,0
+6,LENS-R w/o drift correction,A202,32.0,0.03125,1,0,0,0
+6,Classical RBC,A202,14.0,0.07142857142857142,1,0,0,0
+6,Recursive RBC (no gap),A202,9.0,0.1111111111111111,0,0,0,0
+6,Recursive RBC (300 s gap),A202,32.0,0.03125,1,0,0,0
+6,LENS-R (full),A203,1.0,1.0,1,1,1,1
+6,LENS-R w/o drift correction,A203,6.0,0.16666666666666666,0,0,0,0
+6,Classical RBC,A203,16.0,0.0625,0,0,0,0
+6,Recursive RBC (no gap),A203,8.0,0.125,1,0,0,0
+6,Recursive RBC (300 s gap),A203,7.0,0.14285714285714285,0,0,0,0
+6,LENS-R (full),A204,8.0,0.125,1,0,0,0
+6,LENS-R w/o drift correction,A204,7.0,0.14285714285714285,1,0,0,0
+6,Classical RBC,A204,38.0,0.02631578947368421,1,0,0,0
+6,Recursive RBC (no gap),A204,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A204,1.0,1.0,1,1,1,1
+6,LENS-R (full),A205,1.0,1.0,1,1,1,1
+6,LENS-R w/o drift correction,A205,8.0,0.125,0,0,0,0
+6,Classical RBC,A205,4.0,0.25,0,0,0,1
+6,Recursive RBC (no gap),A205,2.0,0.5,0,0,1,1
+6,Recursive RBC (300 s gap),A205,3.0,0.3333333333333333,0,0,1,1
+6,LENS-R (full),A206,31.0,0.03225806451612903,1,0,0,0
+6,LENS-R w/o drift correction,A206,20.0,0.05,1,0,0,0
+6,Classical RBC,A206,36.0,0.027777777777777776,1,0,0,0
+6,Recursive RBC (no gap),A206,14.0,0.07142857142857142,1,0,0,0
+6,Recursive RBC (300 s gap),A206,31.0,0.03225806451612903,1,0,0,0
+6,LENS-R (full),A207,2.0,0.5,1,0,1,1
+6,LENS-R w/o drift correction,A207,6.0,0.16666666666666666,1,0,0,0
+6,Classical RBC,A207,21.0,0.047619047619047616,1,0,0,0
+6,Recursive RBC (no gap),A207,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A207,1.0,1.0,1,1,1,1
+6,LENS-R (full),A208,3.0,0.3333333333333333,0,0,1,1
+6,LENS-R w/o drift correction,A208,6.0,0.16666666666666666,0,0,0,0
+6,Classical RBC,A208,26.0,0.038461538461538464,0,0,0,0
+6,Recursive RBC (no gap),A208,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A208,2.0,0.5,0,0,1,1
+6,LENS-R (full),A209,26.0,0.038461538461538464,1,0,0,0
+6,LENS-R w/o drift correction,A209,36.0,0.027777777777777776,1,0,0,0
+6,Classical RBC,A209,35.0,0.02857142857142857,1,0,0,0
+6,Recursive RBC (no gap),A209,17.0,0.058823529411764705,0,0,0,0
+6,Recursive RBC (300 s gap),A209,35.0,0.02857142857142857,0,0,0,0
+6,LENS-R (full),A210,1.0,1.0,1,1,1,1
+6,LENS-R w/o drift correction,A210,5.0,0.2,0,0,0,1
+6,Classical RBC,A210,11.0,0.09090909090909091,0,0,0,0
+6,Recursive RBC (no gap),A210,3.0,0.3333333333333333,1,0,1,1
+6,Recursive RBC (300 s gap),A210,3.0,0.3333333333333333,1,0,1,1
+6,LENS-R (full),A211,5.0,0.2,1,0,0,1
+6,LENS-R w/o drift correction,A211,11.0,0.09090909090909091,1,0,0,0
+6,Classical RBC,A211,33.0,0.030303030303030304,1,0,0,0
+6,Recursive RBC (no gap),A211,5.0,0.2,0,0,0,1
+6,Recursive RBC (300 s gap),A211,15.0,0.06666666666666667,0,0,0,0
+6,LENS-R (full),A212,21.0,0.047619047619047616,0,0,0,0
+6,LENS-R w/o drift correction,A212,9.0,0.1111111111111111,0,0,0,0
+6,Classical RBC,A212,13.0,0.07692307692307693,0,0,0,0
+6,Recursive RBC (no gap),A212,6.0,0.16666666666666666,0,0,0,0
+6,Recursive RBC (300 s gap),A212,4.0,0.25,0,0,0,1
+6,LENS-R (full),A213,2.0,0.5,1,0,1,1
+6,LENS-R w/o drift correction,A213,7.0,0.14285714285714285,1,0,0,0
+6,Classical RBC,A213,64.0,0.015625,1,0,0,0
+6,Recursive RBC (no gap),A213,34.0,0.029411764705882353,1,0,0,0
+6,Recursive RBC (300 s gap),A213,19.0,0.05263157894736842,1,0,0,0
+6,LENS-R (full),A214,3.0,0.3333333333333333,0,0,1,1
+6,LENS-R w/o drift correction,A214,16.0,0.0625,0,0,0,0
+6,Classical RBC,A214,4.0,0.25,0,0,0,1
+6,Recursive RBC (no gap),A214,2.0,0.5,0,0,1,1
+6,Recursive RBC (300 s gap),A214,9.0,0.1111111111111111,0,0,0,0
+6,LENS-R (full),A215,18.0,0.05555555555555555,1,0,0,0
+6,LENS-R w/o drift correction,A215,31.0,0.03225806451612903,1,0,0,0
+6,Classical RBC,A215,5.0,0.2,1,0,0,1
+6,Recursive RBC (no gap),A215,32.0,0.03125,1,0,0,0
+6,Recursive RBC (300 s gap),A215,42.0,0.023809523809523808,1,0,0,0
+6,LENS-R (full),A216,6.0,0.16666666666666666,1,0,0,0
+6,LENS-R w/o drift correction,A216,18.0,0.05555555555555555,1,0,0,0
+6,Classical RBC,A216,5.0,0.2,1,0,0,1
+6,Recursive RBC (no gap),A216,34.0,0.029411764705882353,1,0,0,0
+6,Recursive RBC (300 s gap),A216,20.0,0.05,1,0,0,0
+6,LENS-R (full),A217,16.0,0.0625,1,0,0,0
+6,LENS-R w/o drift correction,A217,24.0,0.041666666666666664,1,0,0,0
+6,Classical RBC,A217,13.0,0.07692307692307693,1,0,0,0
+6,Recursive RBC (no gap),A217,8.0,0.125,1,0,0,0
+6,Recursive RBC (300 s gap),A217,9.0,0.1111111111111111,1,0,0,0
+6,LENS-R (full),A301,4.0,0.25,1,0,0,1
+6,LENS-R w/o drift correction,A301,10.0,0.1,1,0,0,0
+6,Classical RBC,A301,4.0,0.25,1,0,0,1
+6,Recursive RBC (no gap),A301,19.0,0.05263157894736842,1,0,0,0
+6,Recursive RBC (300 s gap),A301,32.0,0.03125,1,0,0,0
+6,LENS-R (full),A302,6.0,0.16666666666666666,1,0,0,0
+6,LENS-R w/o drift correction,A302,10.0,0.1,1,0,0,0
+6,Classical RBC,A302,27.0,0.037037037037037035,1,0,0,0
+6,Recursive RBC (no gap),A302,4.0,0.25,1,0,0,1
+6,Recursive RBC (300 s gap),A302,10.0,0.1,0,0,0,0
+6,LENS-R (full),A303,2.0,0.5,1,0,1,1
+6,LENS-R w/o drift correction,A303,6.0,0.16666666666666666,1,0,0,0
+6,Classical RBC,A303,4.0,0.25,1,0,0,1
+6,Recursive RBC (no gap),A303,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A303,1.0,1.0,1,1,1,1
+6,LENS-R (full),A304,2.0,0.5,1,0,1,1
+6,LENS-R w/o drift correction,A304,9.0,0.1111111111111111,1,0,0,0
+6,Classical RBC,A304,4.0,0.25,1,0,0,1
+6,Recursive RBC (no gap),A304,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A304,1.0,1.0,1,1,1,1
+6,LENS-R (full),A305,1.0,1.0,1,1,1,1
+6,LENS-R w/o drift correction,A305,5.0,0.2,1,0,0,1
+6,Classical RBC,A305,4.0,0.25,1,0,0,1
+6,Recursive RBC (no gap),A305,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A305,1.0,1.0,1,1,1,1
+6,LENS-R (full),A306,5.0,0.2,1,0,0,1
+6,LENS-R w/o drift correction,A306,10.0,0.1,1,0,0,0
+6,Classical RBC,A306,25.0,0.04,1,0,0,0
+6,Recursive RBC (no gap),A306,3.0,0.3333333333333333,1,0,1,1
+6,Recursive RBC (300 s gap),A306,4.0,0.25,1,0,0,1
+6,LENS-R (full),A307,44.0,0.022727272727272728,1,0,0,0
+6,LENS-R w/o drift correction,A307,40.0,0.025,1,0,0,0
+6,Classical RBC,A307,19.0,0.05263157894736842,1,0,0,0
+6,Recursive RBC (no gap),A307,28.0,0.03571428571428571,1,0,0,0
+6,Recursive RBC (300 s gap),A307,34.0,0.029411764705882353,1,0,0,0
+6,LENS-R (full),A308,6.0,0.16666666666666666,1,0,0,0
+6,LENS-R w/o drift correction,A308,8.0,0.125,1,0,0,0
+6,Classical RBC,A308,25.0,0.04,1,0,0,0
+6,Recursive RBC (no gap),A308,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A308,1.0,1.0,1,1,1,1
+6,LENS-R (full),A309,2.0,0.5,0,0,1,1
+6,LENS-R w/o drift correction,A309,10.0,0.1,1,0,0,0
+6,Classical RBC,A309,7.0,0.14285714285714285,1,0,0,0
+6,Recursive RBC (no gap),A309,22.0,0.045454545454545456,1,0,0,0
+6,Recursive RBC (300 s gap),A309,28.0,0.03571428571428571,0,0,0,0
+6,LENS-R (full),A310,1.0,1.0,1,1,1,1
+6,LENS-R w/o drift correction,A310,7.0,0.14285714285714285,0,0,0,0
+6,Classical RBC,A310,4.0,0.25,0,0,0,1
+6,Recursive RBC (no gap),A310,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A310,1.0,1.0,1,1,1,1
+6,LENS-R (full),A401,2.0,0.5,1,0,1,1
+6,LENS-R w/o drift correction,A401,3.0,0.3333333333333333,1,0,1,1
+6,Classical RBC,A401,3.0,0.3333333333333333,1,0,1,1
+6,Recursive RBC (no gap),A401,4.0,0.25,1,0,0,1
+6,Recursive RBC (300 s gap),A401,2.0,0.5,1,0,1,1
+6,LENS-R (full),A402,47.0,0.02127659574468085,1,0,0,0
+6,LENS-R w/o drift correction,A402,47.0,0.02127659574468085,1,0,0,0
+6,Classical RBC,A402,22.0,0.045454545454545456,1,0,0,0
+6,Recursive RBC (no gap),A402,13.0,0.07692307692307693,0,0,0,0
+6,Recursive RBC (300 s gap),A402,40.0,0.025,0,0,0,0
+6,LENS-R (full),A403,77.5,0.012903225806451613,0,0,0,0
+6,LENS-R w/o drift correction,A403,77.5,0.012903225806451613,0,0,0,0
+6,Classical RBC,A403,77.5,0.012903225806451613,0,0,0,0
+6,Recursive RBC (no gap),A403,77.5,0.012903225806451613,0,0,0,0
+6,Recursive RBC (300 s gap),A403,77.5,0.012903225806451613,0,0,0,0
+6,LENS-R (full),A404,2.0,0.5,0,0,1,1
+6,LENS-R w/o drift correction,A404,14.0,0.07142857142857142,0,0,0,0
+6,Classical RBC,A404,4.0,0.25,0,0,0,1
+6,Recursive RBC (no gap),A404,2.0,0.5,0,0,1,1
+6,Recursive RBC (300 s gap),A404,2.0,0.5,0,0,1,1
+6,LENS-R (full),A405,54.0,0.018518518518518517,0,0,0,0
+6,LENS-R w/o drift correction,A405,58.0,0.017241379310344827,1,0,0,0
+6,Classical RBC,A405,53.0,0.018867924528301886,1,0,0,0
+6,Recursive RBC (no gap),A405,45.0,0.022222222222222223,0,0,0,0
+6,Recursive RBC (300 s gap),A405,38.0,0.02631578947368421,1,0,0,0
+6,LENS-R (full),A406,13.0,0.07692307692307693,1,0,0,0
+6,LENS-R w/o drift correction,A406,26.0,0.038461538461538464,1,0,0,0
+6,Classical RBC,A406,5.0,0.2,1,0,0,1
+6,Recursive RBC (no gap),A406,16.0,0.0625,1,0,0,0
+6,Recursive RBC (300 s gap),A406,21.0,0.047619047619047616,0,0,0,0
+6,LENS-R (full),A407,13.0,0.07692307692307693,1,0,0,0
+6,LENS-R w/o drift correction,A407,15.0,0.06666666666666667,1,0,0,0
+6,Classical RBC,A407,14.0,0.07142857142857142,1,0,0,0
+6,Recursive RBC (no gap),A407,12.0,0.08333333333333333,1,0,0,0
+6,Recursive RBC (300 s gap),A407,7.0,0.14285714285714285,0,0,0,0
+6,LENS-R (full),A408,3.0,0.3333333333333333,1,0,1,1
+6,LENS-R w/o drift correction,A408,9.0,0.1111111111111111,1,0,0,0
+6,Classical RBC,A408,29.0,0.034482758620689655,1,0,0,0
+6,Recursive RBC (no gap),A408,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A408,1.0,1.0,1,1,1,1
+6,LENS-R (full),A409,1.0,1.0,1,1,1,1
+6,LENS-R w/o drift correction,A409,5.0,0.2,1,0,0,1
+6,Classical RBC,A409,6.0,0.16666666666666666,1,0,0,0
+6,Recursive RBC (no gap),A409,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A409,1.0,1.0,1,1,1,1
+6,LENS-R (full),A410,7.0,0.14285714285714285,1,0,0,0
+6,LENS-R w/o drift correction,A410,9.0,0.1111111111111111,1,0,0,0
+6,Classical RBC,A410,6.0,0.16666666666666666,1,0,0,0
+6,Recursive RBC (no gap),A410,2.0,0.5,1,0,1,1
+6,Recursive RBC (300 s gap),A410,6.0,0.16666666666666666,1,0,0,0
+6,LENS-R (full),A411,2.0,0.5,1,0,1,1
+6,LENS-R w/o drift correction,A411,7.0,0.14285714285714285,1,0,0,0
+6,Classical RBC,A411,55.0,0.01818181818181818,1,0,0,0
+6,Recursive RBC (no gap),A411,7.0,0.14285714285714285,0,0,0,0
+6,Recursive RBC (300 s gap),A411,2.0,0.5,0,0,1,1
+6,LENS-R (full),A412,36.0,0.027777777777777776,0,0,0,0
+6,LENS-R w/o drift correction,A412,40.0,0.025,1,0,0,0
+6,Classical RBC,A412,21.0,0.047619047619047616,1,0,0,0
+6,Recursive RBC (no gap),A412,36.0,0.027777777777777776,1,0,0,0
+6,Recursive RBC (300 s gap),A412,40.0,0.025,0,0,0,0
+6,LENS-R (full),A413,4.0,0.25,1,0,0,1
+6,LENS-R w/o drift correction,A413,9.0,0.1111111111111111,1,0,0,0
+6,Classical RBC,A413,26.0,0.038461538461538464,1,0,0,0
+6,Recursive RBC (no gap),A413,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A413,1.0,1.0,1,1,1,1
+6,LENS-R (full),A414,3.0,0.3333333333333333,0,0,1,1
+6,LENS-R w/o drift correction,A414,10.0,0.1,0,0,0,0
+6,Classical RBC,A414,15.0,0.06666666666666667,0,0,0,0
+6,Recursive RBC (no gap),A414,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A414,2.0,0.5,0,0,1,1
+6,LENS-R (full),A415,77.5,0.012903225806451613,0,0,0,0
+6,LENS-R w/o drift correction,A415,77.5,0.012903225806451613,0,0,0,0
+6,Classical RBC,A415,77.5,0.012903225806451613,0,0,0,0
+6,Recursive RBC (no gap),A415,78.5,0.012738853503184714,0,0,0,0
+6,Recursive RBC (300 s gap),A415,78.5,0.012738853503184714,0,0,0,0
+6,LENS-R (full),A416,20.0,0.05,1,0,0,0
+6,LENS-R w/o drift correction,A416,24.0,0.041666666666666664,1,0,0,0
+6,Classical RBC,A416,7.0,0.14285714285714285,1,0,0,0
+6,Recursive RBC (no gap),A416,5.0,0.2,1,0,0,1
+6,Recursive RBC (300 s gap),A416,10.0,0.1,1,0,0,0
+6,LENS-R (full),A417,20.0,0.05,1,0,0,0
+6,LENS-R w/o drift correction,A417,27.0,0.037037037037037035,1,0,0,0
+6,Classical RBC,A417,26.0,0.038461538461538464,1,0,0,0
+6,Recursive RBC (no gap),A417,63.0,0.015873015873015872,1,0,0,0
+6,Recursive RBC (300 s gap),A417,68.0,0.014705882352941176,1,0,0,0
+6,LENS-R (full),A418,40.0,0.025,1,0,0,0
+6,LENS-R w/o drift correction,A418,25.0,0.04,1,0,0,0
+6,Classical RBC,A418,41.0,0.024390243902439025,1,0,0,0
+6,Recursive RBC (no gap),A418,24.0,0.041666666666666664,1,0,0,0
+6,Recursive RBC (300 s gap),A418,25.0,0.04,1,0,0,0
+6,LENS-R (full),A419,2.0,0.5,1,0,1,1
+6,LENS-R w/o drift correction,A419,9.0,0.1111111111111111,1,0,0,0
+6,Classical RBC,A419,13.0,0.07692307692307693,1,0,0,0
+6,Recursive RBC (no gap),A419,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A419,1.0,1.0,1,1,1,1
+6,LENS-R (full),A420,1.0,1.0,1,1,1,1
+6,LENS-R w/o drift correction,A420,6.0,0.16666666666666666,1,0,0,0
+6,Classical RBC,A420,19.0,0.05263157894736842,1,0,0,0
+6,Recursive RBC (no gap),A420,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A420,1.0,1.0,1,1,1,1
+6,LENS-R (full),A421,1.0,1.0,1,1,1,1
+6,LENS-R w/o drift correction,A421,6.0,0.16666666666666666,1,0,0,0
+6,Classical RBC,A421,26.0,0.038461538461538464,1,0,0,0
+6,Recursive RBC (no gap),A421,1.0,1.0,1,1,1,1
+6,Recursive RBC (300 s gap),A421,2.0,0.5,1,0,1,1
+6,LENS-R (full),A422,11.0,0.09090909090909091,1,0,0,0
+6,LENS-R w/o drift correction,A422,23.0,0.043478260869565216,1,0,0,0
+6,Classical RBC,A422,34.0,0.029411764705882353,1,0,0,0
+6,Recursive RBC (no gap),A422,11.0,0.09090909090909091,1,0,0,0
+6,Recursive RBC (300 s gap),A422,8.0,0.125,1,0,0,0
+6,LENS-R (full),A423,3.0,0.3333333333333333,1,0,1,1
+6,LENS-R w/o drift correction,A423,9.0,0.1111111111111111,1,0,0,0
+6,Classical RBC,A423,7.0,0.14285714285714285,1,0,0,0
+6,Recursive RBC (no gap),A423,4.0,0.25,1,0,0,1
+6,Recursive RBC (300 s gap),A423,9.0,0.1111111111111111,1,0,0,0
+6,LENS-R (full),A424,6.0,0.16666666666666666,1,0,0,0
+6,LENS-R w/o drift correction,A424,12.0,0.08333333333333333,1,0,0,0
+6,Classical RBC,A424,13.0,0.07692307692307693,1,0,0,0
+6,Recursive RBC (no gap),A424,7.0,0.14285714285714285,1,0,0,0
+6,Recursive RBC (300 s gap),A424,5.0,0.2,1,0,0,1
+10,LENS-R (full),A101,2.0,0.5,1,0,1,1
+10,LENS-R w/o drift correction,A101,8.0,0.125,1,0,0,0
+10,Classical RBC,A101,33.0,0.030303030303030304,1,0,0,0
+10,Recursive RBC (no gap),A101,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A101,3.0,0.3333333333333333,0,0,1,1
+10,LENS-R (full),A102,1.0,1.0,1,1,1,1
+10,LENS-R w/o drift correction,A102,5.0,0.2,1,0,0,1
+10,Classical RBC,A102,13.0,0.07692307692307693,1,0,0,0
+10,Recursive RBC (no gap),A102,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A102,1.0,1.0,1,1,1,1
+10,LENS-R (full),A103,6.0,0.16666666666666666,1,0,0,0
+10,LENS-R w/o drift correction,A103,9.0,0.1111111111111111,1,0,0,0
+10,Classical RBC,A103,6.0,0.16666666666666666,1,0,0,0
+10,Recursive RBC (no gap),A103,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A103,1.0,1.0,1,1,1,1
+10,LENS-R (full),A104,2.0,0.5,0,0,1,1
+10,LENS-R w/o drift correction,A104,9.0,0.1111111111111111,0,0,0,0
+10,Classical RBC,A104,4.0,0.25,0,0,0,1
+10,Recursive RBC (no gap),A104,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A104,1.0,1.0,1,1,1,1
+10,LENS-R (full),A105,26.0,0.038461538461538464,1,0,0,0
+10,LENS-R w/o drift correction,A105,37.0,0.02702702702702703,1,0,0,0
+10,Classical RBC,A105,42.0,0.023809523809523808,1,0,0,0
+10,Recursive RBC (no gap),A105,9.0,0.1111111111111111,1,0,0,0
+10,Recursive RBC (300 s gap),A105,4.0,0.25,1,0,0,1
+10,LENS-R (full),A106,5.0,0.2,1,0,0,1
+10,LENS-R w/o drift correction,A106,9.0,0.1111111111111111,1,0,0,0
+10,Classical RBC,A106,31.0,0.03225806451612903,1,0,0,0
+10,Recursive RBC (no gap),A106,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A106,1.0,1.0,1,1,1,1
+10,LENS-R (full),A107,52.0,0.019230769230769232,0,0,0,0
+10,LENS-R w/o drift correction,A107,55.0,0.01818181818181818,1,0,0,0
+10,Classical RBC,A107,20.0,0.05,1,0,0,0
+10,Recursive RBC (no gap),A107,32.0,0.03125,0,0,0,0
+10,Recursive RBC (300 s gap),A107,35.0,0.02857142857142857,1,0,0,0
+10,LENS-R (full),A201,26.0,0.038461538461538464,1,0,0,0
+10,LENS-R w/o drift correction,A201,26.0,0.038461538461538464,1,0,0,0
+10,Classical RBC,A201,53.0,0.018867924528301886,1,0,0,0
+10,Recursive RBC (no gap),A201,13.0,0.07692307692307693,1,0,0,0
+10,Recursive RBC (300 s gap),A201,26.0,0.038461538461538464,1,0,0,0
+10,LENS-R (full),A202,34.0,0.029411764705882353,1,0,0,0
+10,LENS-R w/o drift correction,A202,32.0,0.03125,1,0,0,0
+10,Classical RBC,A202,14.0,0.07142857142857142,1,0,0,0
+10,Recursive RBC (no gap),A202,9.0,0.1111111111111111,0,0,0,0
+10,Recursive RBC (300 s gap),A202,32.0,0.03125,1,0,0,0
+10,LENS-R (full),A203,1.0,1.0,1,1,1,1
+10,LENS-R w/o drift correction,A203,6.0,0.16666666666666666,0,0,0,0
+10,Classical RBC,A203,23.0,0.043478260869565216,0,0,0,0
+10,Recursive RBC (no gap),A203,8.0,0.125,1,0,0,0
+10,Recursive RBC (300 s gap),A203,7.0,0.14285714285714285,0,0,0,0
+10,LENS-R (full),A204,8.0,0.125,1,0,0,0
+10,LENS-R w/o drift correction,A204,7.0,0.14285714285714285,1,0,0,0
+10,Classical RBC,A204,38.0,0.02631578947368421,1,0,0,0
+10,Recursive RBC (no gap),A204,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A204,1.0,1.0,1,1,1,1
+10,LENS-R (full),A205,1.0,1.0,1,1,1,1
+10,LENS-R w/o drift correction,A205,8.0,0.125,0,0,0,0
+10,Classical RBC,A205,4.0,0.25,0,0,0,1
+10,Recursive RBC (no gap),A205,2.0,0.5,0,0,1,1
+10,Recursive RBC (300 s gap),A205,3.0,0.3333333333333333,0,0,1,1
+10,LENS-R (full),A206,31.0,0.03225806451612903,1,0,0,0
+10,LENS-R w/o drift correction,A206,10.0,0.1,1,0,0,0
+10,Classical RBC,A206,37.0,0.02702702702702703,1,0,0,0
+10,Recursive RBC (no gap),A206,14.0,0.07142857142857142,1,0,0,0
+10,Recursive RBC (300 s gap),A206,31.0,0.03225806451612903,1,0,0,0
+10,LENS-R (full),A207,2.0,0.5,1,0,1,1
+10,LENS-R w/o drift correction,A207,6.0,0.16666666666666666,1,0,0,0
+10,Classical RBC,A207,26.0,0.038461538461538464,1,0,0,0
+10,Recursive RBC (no gap),A207,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A207,1.0,1.0,1,1,1,1
+10,LENS-R (full),A208,3.0,0.3333333333333333,0,0,1,1
+10,LENS-R w/o drift correction,A208,6.0,0.16666666666666666,0,0,0,0
+10,Classical RBC,A208,33.0,0.030303030303030304,0,0,0,0
+10,Recursive RBC (no gap),A208,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A208,2.0,0.5,0,0,1,1
+10,LENS-R (full),A209,26.0,0.038461538461538464,1,0,0,0
+10,LENS-R w/o drift correction,A209,36.0,0.027777777777777776,1,0,0,0
+10,Classical RBC,A209,38.0,0.02631578947368421,1,0,0,0
+10,Recursive RBC (no gap),A209,17.0,0.058823529411764705,0,0,0,0
+10,Recursive RBC (300 s gap),A209,34.0,0.029411764705882353,0,0,0,0
+10,LENS-R (full),A210,1.0,1.0,1,1,1,1
+10,LENS-R w/o drift correction,A210,5.0,0.2,0,0,0,1
+10,Classical RBC,A210,13.0,0.07692307692307693,0,0,0,0
+10,Recursive RBC (no gap),A210,3.0,0.3333333333333333,1,0,1,1
+10,Recursive RBC (300 s gap),A210,3.0,0.3333333333333333,1,0,1,1
+10,LENS-R (full),A211,5.0,0.2,1,0,0,1
+10,LENS-R w/o drift correction,A211,11.0,0.09090909090909091,1,0,0,0
+10,Classical RBC,A211,32.0,0.03125,1,0,0,0
+10,Recursive RBC (no gap),A211,5.0,0.2,0,0,0,1
+10,Recursive RBC (300 s gap),A211,15.0,0.06666666666666667,0,0,0,0
+10,LENS-R (full),A212,21.0,0.047619047619047616,0,0,0,0
+10,LENS-R w/o drift correction,A212,9.0,0.1111111111111111,0,0,0,0
+10,Classical RBC,A212,13.0,0.07692307692307693,0,0,0,0
+10,Recursive RBC (no gap),A212,6.0,0.16666666666666666,0,0,0,0
+10,Recursive RBC (300 s gap),A212,4.0,0.25,0,0,0,1
+10,LENS-R (full),A213,2.0,0.5,1,0,1,1
+10,LENS-R w/o drift correction,A213,7.0,0.14285714285714285,1,0,0,0
+10,Classical RBC,A213,43.0,0.023255813953488372,1,0,0,0
+10,Recursive RBC (no gap),A213,34.0,0.029411764705882353,1,0,0,0
+10,Recursive RBC (300 s gap),A213,19.0,0.05263157894736842,1,0,0,0
+10,LENS-R (full),A214,3.0,0.3333333333333333,0,0,1,1
+10,LENS-R w/o drift correction,A214,16.0,0.0625,0,0,0,0
+10,Classical RBC,A214,4.0,0.25,0,0,0,1
+10,Recursive RBC (no gap),A214,2.0,0.5,0,0,1,1
+10,Recursive RBC (300 s gap),A214,9.0,0.1111111111111111,0,0,0,0
+10,LENS-R (full),A215,18.0,0.05555555555555555,1,0,0,0
+10,LENS-R w/o drift correction,A215,31.0,0.03225806451612903,1,0,0,0
+10,Classical RBC,A215,5.0,0.2,1,0,0,1
+10,Recursive RBC (no gap),A215,32.0,0.03125,1,0,0,0
+10,Recursive RBC (300 s gap),A215,41.0,0.024390243902439025,1,0,0,0
+10,LENS-R (full),A216,6.0,0.16666666666666666,1,0,0,0
+10,LENS-R w/o drift correction,A216,18.0,0.05555555555555555,1,0,0,0
+10,Classical RBC,A216,5.0,0.2,1,0,0,1
+10,Recursive RBC (no gap),A216,34.0,0.029411764705882353,1,0,0,0
+10,Recursive RBC (300 s gap),A216,20.0,0.05,1,0,0,0
+10,LENS-R (full),A217,16.0,0.0625,1,0,0,0
+10,LENS-R w/o drift correction,A217,24.0,0.041666666666666664,1,0,0,0
+10,Classical RBC,A217,13.0,0.07692307692307693,1,0,0,0
+10,Recursive RBC (no gap),A217,8.0,0.125,1,0,0,0
+10,Recursive RBC (300 s gap),A217,10.0,0.1,1,0,0,0
+10,LENS-R (full),A301,4.0,0.25,1,0,0,1
+10,LENS-R w/o drift correction,A301,10.0,0.1,1,0,0,0
+10,Classical RBC,A301,4.0,0.25,1,0,0,1
+10,Recursive RBC (no gap),A301,18.0,0.05555555555555555,1,0,0,0
+10,Recursive RBC (300 s gap),A301,32.0,0.03125,1,0,0,0
+10,LENS-R (full),A302,6.0,0.16666666666666666,1,0,0,0
+10,LENS-R w/o drift correction,A302,10.0,0.1,1,0,0,0
+10,Classical RBC,A302,30.0,0.03333333333333333,1,0,0,0
+10,Recursive RBC (no gap),A302,4.0,0.25,1,0,0,1
+10,Recursive RBC (300 s gap),A302,10.0,0.1,0,0,0,0
+10,LENS-R (full),A303,2.0,0.5,1,0,1,1
+10,LENS-R w/o drift correction,A303,6.0,0.16666666666666666,1,0,0,0
+10,Classical RBC,A303,4.0,0.25,1,0,0,1
+10,Recursive RBC (no gap),A303,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A303,1.0,1.0,1,1,1,1
+10,LENS-R (full),A304,2.0,0.5,1,0,1,1
+10,LENS-R w/o drift correction,A304,9.0,0.1111111111111111,1,0,0,0
+10,Classical RBC,A304,4.0,0.25,1,0,0,1
+10,Recursive RBC (no gap),A304,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A304,1.0,1.0,1,1,1,1
+10,LENS-R (full),A305,1.0,1.0,1,1,1,1
+10,LENS-R w/o drift correction,A305,5.0,0.2,1,0,0,1
+10,Classical RBC,A305,4.0,0.25,1,0,0,1
+10,Recursive RBC (no gap),A305,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A305,1.0,1.0,1,1,1,1
+10,LENS-R (full),A306,5.0,0.2,1,0,0,1
+10,LENS-R w/o drift correction,A306,10.0,0.1,1,0,0,0
+10,Classical RBC,A306,29.0,0.034482758620689655,1,0,0,0
+10,Recursive RBC (no gap),A306,3.0,0.3333333333333333,1,0,1,1
+10,Recursive RBC (300 s gap),A306,4.0,0.25,1,0,0,1
+10,LENS-R (full),A307,44.0,0.022727272727272728,1,0,0,0
+10,LENS-R w/o drift correction,A307,40.0,0.025,1,0,0,0
+10,Classical RBC,A307,19.0,0.05263157894736842,1,0,0,0
+10,Recursive RBC (no gap),A307,27.0,0.037037037037037035,1,0,0,0
+10,Recursive RBC (300 s gap),A307,32.0,0.03125,1,0,0,0
+10,LENS-R (full),A308,6.0,0.16666666666666666,1,0,0,0
+10,LENS-R w/o drift correction,A308,8.0,0.125,1,0,0,0
+10,Classical RBC,A308,30.0,0.03333333333333333,1,0,0,0
+10,Recursive RBC (no gap),A308,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A308,1.0,1.0,1,1,1,1
+10,LENS-R (full),A309,2.0,0.5,0,0,1,1
+10,LENS-R w/o drift correction,A309,10.0,0.1,1,0,0,0
+10,Classical RBC,A309,5.0,0.2,1,0,0,1
+10,Recursive RBC (no gap),A309,23.0,0.043478260869565216,1,0,0,0
+10,Recursive RBC (300 s gap),A309,29.0,0.034482758620689655,0,0,0,0
+10,LENS-R (full),A310,1.0,1.0,1,1,1,1
+10,LENS-R w/o drift correction,A310,7.0,0.14285714285714285,0,0,0,0
+10,Classical RBC,A310,4.0,0.25,0,0,0,1
+10,Recursive RBC (no gap),A310,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A310,1.0,1.0,1,1,1,1
+10,LENS-R (full),A401,2.0,0.5,1,0,1,1
+10,LENS-R w/o drift correction,A401,5.0,0.2,1,0,0,1
+10,Classical RBC,A401,6.0,0.16666666666666666,1,0,0,0
+10,Recursive RBC (no gap),A401,4.0,0.25,1,0,0,1
+10,Recursive RBC (300 s gap),A401,2.0,0.5,1,0,1,1
+10,LENS-R (full),A402,52.0,0.019230769230769232,1,0,0,0
+10,LENS-R w/o drift correction,A402,47.0,0.02127659574468085,1,0,0,0
+10,Classical RBC,A402,20.0,0.05,1,0,0,0
+10,Recursive RBC (no gap),A402,14.0,0.07142857142857142,0,0,0,0
+10,Recursive RBC (300 s gap),A402,38.0,0.02631578947368421,0,0,0,0
+10,LENS-R (full),A403,77.5,0.012903225806451613,0,0,0,0
+10,LENS-R w/o drift correction,A403,77.5,0.012903225806451613,0,0,0,0
+10,Classical RBC,A403,77.5,0.012903225806451613,0,0,0,0
+10,Recursive RBC (no gap),A403,77.5,0.012903225806451613,0,0,0,0
+10,Recursive RBC (300 s gap),A403,77.5,0.012903225806451613,0,0,0,0
+10,LENS-R (full),A404,2.0,0.5,0,0,1,1
+10,LENS-R w/o drift correction,A404,15.0,0.06666666666666667,0,0,0,0
+10,Classical RBC,A404,4.0,0.25,0,0,0,1
+10,Recursive RBC (no gap),A404,2.0,0.5,0,0,1,1
+10,Recursive RBC (300 s gap),A404,2.0,0.5,0,0,1,1
+10,LENS-R (full),A405,54.0,0.018518518518518517,0,0,0,0
+10,LENS-R w/o drift correction,A405,58.0,0.017241379310344827,1,0,0,0
+10,Classical RBC,A405,52.0,0.019230769230769232,1,0,0,0
+10,Recursive RBC (no gap),A405,45.0,0.022222222222222223,0,0,0,0
+10,Recursive RBC (300 s gap),A405,39.0,0.02564102564102564,1,0,0,0
+10,LENS-R (full),A406,13.0,0.07692307692307693,1,0,0,0
+10,LENS-R w/o drift correction,A406,26.0,0.038461538461538464,1,0,0,0
+10,Classical RBC,A406,5.0,0.2,1,0,0,1
+10,Recursive RBC (no gap),A406,15.0,0.06666666666666667,1,0,0,0
+10,Recursive RBC (300 s gap),A406,21.0,0.047619047619047616,0,0,0,0
+10,LENS-R (full),A407,13.0,0.07692307692307693,1,0,0,0
+10,LENS-R w/o drift correction,A407,15.0,0.06666666666666667,1,0,0,0
+10,Classical RBC,A407,14.0,0.07142857142857142,1,0,0,0
+10,Recursive RBC (no gap),A407,12.0,0.08333333333333333,1,0,0,0
+10,Recursive RBC (300 s gap),A407,7.0,0.14285714285714285,0,0,0,0
+10,LENS-R (full),A408,3.0,0.3333333333333333,1,0,1,1
+10,LENS-R w/o drift correction,A408,9.0,0.1111111111111111,1,0,0,0
+10,Classical RBC,A408,33.0,0.030303030303030304,1,0,0,0
+10,Recursive RBC (no gap),A408,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A408,1.0,1.0,1,1,1,1
+10,LENS-R (full),A409,1.0,1.0,1,1,1,1
+10,LENS-R w/o drift correction,A409,5.0,0.2,1,0,0,1
+10,Classical RBC,A409,11.0,0.09090909090909091,1,0,0,0
+10,Recursive RBC (no gap),A409,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A409,1.0,1.0,1,1,1,1
+10,LENS-R (full),A410,7.0,0.14285714285714285,1,0,0,0
+10,LENS-R w/o drift correction,A410,9.0,0.1111111111111111,1,0,0,0
+10,Classical RBC,A410,6.0,0.16666666666666666,1,0,0,0
+10,Recursive RBC (no gap),A410,2.0,0.5,1,0,1,1
+10,Recursive RBC (300 s gap),A410,6.0,0.16666666666666666,1,0,0,0
+10,LENS-R (full),A411,2.0,0.5,1,0,1,1
+10,LENS-R w/o drift correction,A411,7.0,0.14285714285714285,1,0,0,0
+10,Classical RBC,A411,40.0,0.025,1,0,0,0
+10,Recursive RBC (no gap),A411,7.0,0.14285714285714285,0,0,0,0
+10,Recursive RBC (300 s gap),A411,2.0,0.5,0,0,1,1
+10,LENS-R (full),A412,36.0,0.027777777777777776,0,0,0,0
+10,LENS-R w/o drift correction,A412,40.0,0.025,1,0,0,0
+10,Classical RBC,A412,21.0,0.047619047619047616,1,0,0,0
+10,Recursive RBC (no gap),A412,36.0,0.027777777777777776,1,0,0,0
+10,Recursive RBC (300 s gap),A412,40.0,0.025,0,0,0,0
+10,LENS-R (full),A413,4.0,0.25,1,0,0,1
+10,LENS-R w/o drift correction,A413,8.0,0.125,1,0,0,0
+10,Classical RBC,A413,30.0,0.03333333333333333,1,0,0,0
+10,Recursive RBC (no gap),A413,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A413,1.0,1.0,1,1,1,1
+10,LENS-R (full),A414,3.0,0.3333333333333333,0,0,1,1
+10,LENS-R w/o drift correction,A414,10.0,0.1,0,0,0,0
+10,Classical RBC,A414,16.0,0.0625,0,0,0,0
+10,Recursive RBC (no gap),A414,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A414,2.0,0.5,0,0,1,1
+10,LENS-R (full),A415,77.5,0.012903225806451613,0,0,0,0
+10,LENS-R w/o drift correction,A415,77.5,0.012903225806451613,0,0,0,0
+10,Classical RBC,A415,77.5,0.012903225806451613,0,0,0,0
+10,Recursive RBC (no gap),A415,78.5,0.012738853503184714,0,0,0,0
+10,Recursive RBC (300 s gap),A415,78.5,0.012738853503184714,0,0,0,0
+10,LENS-R (full),A416,20.0,0.05,1,0,0,0
+10,LENS-R w/o drift correction,A416,24.0,0.041666666666666664,1,0,0,0
+10,Classical RBC,A416,7.0,0.14285714285714285,1,0,0,0
+10,Recursive RBC (no gap),A416,5.0,0.2,1,0,0,1
+10,Recursive RBC (300 s gap),A416,10.0,0.1,1,0,0,0
+10,LENS-R (full),A417,20.0,0.05,1,0,0,0
+10,LENS-R w/o drift correction,A417,27.0,0.037037037037037035,1,0,0,0
+10,Classical RBC,A417,28.0,0.03571428571428571,1,0,0,0
+10,Recursive RBC (no gap),A417,63.0,0.015873015873015872,1,0,0,0
+10,Recursive RBC (300 s gap),A417,68.0,0.014705882352941176,1,0,0,0
+10,LENS-R (full),A418,40.0,0.025,1,0,0,0
+10,LENS-R w/o drift correction,A418,25.0,0.04,1,0,0,0
+10,Classical RBC,A418,43.0,0.023255813953488372,1,0,0,0
+10,Recursive RBC (no gap),A418,25.0,0.04,1,0,0,0
+10,Recursive RBC (300 s gap),A418,26.0,0.038461538461538464,1,0,0,0
+10,LENS-R (full),A419,2.0,0.5,1,0,1,1
+10,LENS-R w/o drift correction,A419,9.0,0.1111111111111111,1,0,0,0
+10,Classical RBC,A419,13.0,0.07692307692307693,1,0,0,0
+10,Recursive RBC (no gap),A419,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A419,1.0,1.0,1,1,1,1
+10,LENS-R (full),A420,1.0,1.0,1,1,1,1
+10,LENS-R w/o drift correction,A420,6.0,0.16666666666666666,1,0,0,0
+10,Classical RBC,A420,32.0,0.03125,1,0,0,0
+10,Recursive RBC (no gap),A420,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A420,1.0,1.0,1,1,1,1
+10,LENS-R (full),A421,1.0,1.0,1,1,1,1
+10,LENS-R w/o drift correction,A421,6.0,0.16666666666666666,1,0,0,0
+10,Classical RBC,A421,31.0,0.03225806451612903,1,0,0,0
+10,Recursive RBC (no gap),A421,1.0,1.0,1,1,1,1
+10,Recursive RBC (300 s gap),A421,2.0,0.5,1,0,1,1
+10,LENS-R (full),A422,11.0,0.09090909090909091,1,0,0,0
+10,LENS-R w/o drift correction,A422,23.0,0.043478260869565216,1,0,0,0
+10,Classical RBC,A422,37.0,0.02702702702702703,1,0,0,0
+10,Recursive RBC (no gap),A422,11.0,0.09090909090909091,1,0,0,0
+10,Recursive RBC (300 s gap),A422,8.0,0.125,1,0,0,0
+10,LENS-R (full),A423,3.0,0.3333333333333333,1,0,1,1
+10,LENS-R w/o drift correction,A423,9.0,0.1111111111111111,1,0,0,0
+10,Classical RBC,A423,5.0,0.2,1,0,0,1
+10,Recursive RBC (no gap),A423,4.0,0.25,1,0,0,1
+10,Recursive RBC (300 s gap),A423,9.0,0.1111111111111111,1,0,0,0
+10,LENS-R (full),A424,6.0,0.16666666666666666,1,0,0,0
+10,LENS-R w/o drift correction,A424,12.0,0.08333333333333333,1,0,0,0
+10,Classical RBC,A424,13.0,0.07692307692307693,1,0,0,0
+10,Recursive RBC (no gap),A424,7.0,0.14285714285714285,1,0,0,0
+10,Recursive RBC (300 s gap),A424,5.0,0.2,1,0,0,1

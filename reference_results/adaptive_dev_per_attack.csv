@@ -1,0 +1,456 @@
+ds,attack,method,best_rank,rr,stage_hit,top1,top3,top5
+swat,swat_1,LENS-R (full),17.0,0.058823529411764705,0,0,0,0
+swat,swat_1,LENS-R w/o drift correction,17.0,0.058823529411764705,0,0,0,0
+swat,swat_1,Classical RBC,13.0,0.07692307692307693,0,0,0,0
+swat,swat_1,Recursive RBC (no gap),6.0,0.16666666666666666,0,0,0,0
+swat,swat_1,Recursive RBC (300 s gap),8.0,0.125,0,0,0,0
+swat,swat_2,LENS-R (full),1.0,1.0,1,1,1,1
+swat,swat_2,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,swat_2,Classical RBC,1.0,1.0,1,1,1,1
+swat,swat_2,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_2,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_3,LENS-R (full),4.0,0.25,1,0,0,1
+swat,swat_3,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,swat_3,Classical RBC,18.0,0.05555555555555555,0,0,0,0
+swat,swat_3,Recursive RBC (no gap),8.0,0.125,0,0,0,0
+swat,swat_3,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+swat,swat_6,LENS-R (full),1.0,1.0,1,1,1,1
+swat,swat_6,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,swat_6,Classical RBC,1.0,1.0,1,1,1,1
+swat,swat_6,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_6,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_7,LENS-R (full),1.0,1.0,1,1,1,1
+swat,swat_7,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,swat_7,Classical RBC,1.0,1.0,1,1,1,1
+swat,swat_7,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_7,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_8,LENS-R (full),1.0,1.0,1,1,1,1
+swat,swat_8,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,swat_8,Classical RBC,1.0,1.0,1,1,1,1
+swat,swat_8,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,swat_8,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_10+11,LENS-R (full),1.0,1.0,1,1,1,1
+swat,swat_10+11,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,swat_10+11,Classical RBC,1.0,1.0,1,1,1,1
+swat,swat_10+11,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_10+11,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_13,LENS-R (full),32.0,0.03125,0,0,0,0
+swat,swat_13,LENS-R w/o drift correction,32.0,0.03125,0,0,0,0
+swat,swat_13,Classical RBC,31.0,0.03225806451612903,0,0,0,0
+swat,swat_13,Recursive RBC (no gap),18.0,0.05555555555555555,1,0,0,0
+swat,swat_13,Recursive RBC (300 s gap),30.0,0.03333333333333333,1,0,0,0
+swat,swat_14,LENS-R (full),24.0,0.041666666666666664,0,0,0,0
+swat,swat_14,LENS-R w/o drift correction,24.0,0.041666666666666664,0,0,0,0
+swat,swat_14,Classical RBC,27.0,0.037037037037037035,0,0,0,0
+swat,swat_14,Recursive RBC (no gap),19.0,0.05263157894736842,0,0,0,0
+swat,swat_14,Recursive RBC (300 s gap),19.0,0.05263157894736842,0,0,0,0
+swat,swat_16,LENS-R (full),4.0,0.25,0,0,0,1
+swat,swat_16,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,swat_16,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,swat_16,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_16,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_17,LENS-R (full),31.0,0.03225806451612903,0,0,0,0
+swat,swat_17,LENS-R w/o drift correction,31.0,0.03225806451612903,0,0,0,0
+swat,swat_17,Classical RBC,28.0,0.03571428571428571,0,0,0,0
+swat,swat_17,Recursive RBC (no gap),29.0,0.034482758620689655,0,0,0,0
+swat,swat_17,Recursive RBC (300 s gap),27.0,0.037037037037037035,0,0,0,0
+swat,swat_19,LENS-R (full),1.0,1.0,1,1,1,1
+swat,swat_19,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,swat_19,Classical RBC,1.0,1.0,1,1,1,1
+swat,swat_19,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_19,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_20,LENS-R (full),1.0,1.0,1,1,1,1
+swat,swat_20,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,swat_20,Classical RBC,1.0,1.0,1,1,1,1
+swat,swat_20,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_20,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_21,LENS-R (full),4.0,0.25,0,0,0,1
+swat,swat_21,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,swat_21,Classical RBC,2.0,0.5,0,0,1,1
+swat,swat_21,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_21,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_22,LENS-R (full),1.5,0.6666666666666666,1,0,1,1
+swat,swat_22,LENS-R w/o drift correction,1.5,0.6666666666666666,1,0,1,1
+swat,swat_22,Classical RBC,1.5,0.6666666666666666,1,0,1,1
+swat,swat_22,Recursive RBC (no gap),8.0,0.125,1,0,0,0
+swat,swat_22,Recursive RBC (300 s gap),1.5,0.6666666666666666,1,0,1,1
+swat,swat_23,LENS-R (full),1.0,1.0,1,1,1,1
+swat,swat_23,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,swat_23,Classical RBC,1.0,1.0,1,1,1,1
+swat,swat_23,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_23,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_24,LENS-R (full),3.0,0.3333333333333333,1,0,1,1
+swat,swat_24,LENS-R w/o drift correction,5.0,0.2,1,0,0,1
+swat,swat_24,Classical RBC,6.0,0.16666666666666666,1,0,0,0
+swat,swat_24,Recursive RBC (no gap),29.0,0.034482758620689655,1,0,0,0
+swat,swat_24,Recursive RBC (300 s gap),3.0,0.3333333333333333,1,0,1,1
+swat,swat_25,LENS-R (full),4.0,0.25,0,0,0,1
+swat,swat_25,LENS-R w/o drift correction,5.0,0.2,0,0,0,1
+swat,swat_25,Classical RBC,15.0,0.06666666666666667,0,0,0,0
+swat,swat_25,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_25,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,swat_26,LENS-R (full),13.0,0.07692307692307693,1,0,0,0
+swat,swat_26,LENS-R w/o drift correction,14.0,0.07142857142857142,1,0,0,0
+swat,swat_26,Classical RBC,5.0,0.2,1,0,0,1
+swat,swat_26,Recursive RBC (no gap),12.0,0.08333333333333333,1,0,0,0
+swat,swat_26,Recursive RBC (300 s gap),5.0,0.2,1,0,0,1
+swat,swat_27+28,LENS-R (full),2.0,0.5,0,0,1,1
+swat,swat_27+28,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,swat_27+28,Classical RBC,5.0,0.2,0,0,0,1
+swat,swat_27+28,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_27+28,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_29,LENS-R (full),1.0,1.0,1,1,1,1
+swat,swat_29,LENS-R w/o drift correction,16.0,0.0625,1,0,0,0
+swat,swat_29,Classical RBC,19.0,0.05263157894736842,1,0,0,0
+swat,swat_29,Recursive RBC (no gap),19.0,0.05263157894736842,0,0,0,0
+swat,swat_29,Recursive RBC (300 s gap),18.0,0.05555555555555555,0,0,0,0
+swat,swat_30,LENS-R (full),16.0,0.0625,1,0,0,0
+swat,swat_30,LENS-R w/o drift correction,13.0,0.07692307692307693,1,0,0,0
+swat,swat_30,Classical RBC,13.0,0.07692307692307693,1,0,0,0
+swat,swat_30,Recursive RBC (no gap),4.0,0.25,1,0,0,1
+swat,swat_30,Recursive RBC (300 s gap),11.0,0.09090909090909091,1,0,0,0
+swat,swat_31,LENS-R (full),2.0,0.5,0,0,1,1
+swat,swat_31,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,swat_31,Classical RBC,7.0,0.14285714285714285,0,0,0,0
+swat,swat_31,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_31,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_32,LENS-R (full),13.0,0.07692307692307693,0,0,0,0
+swat,swat_32,LENS-R w/o drift correction,17.0,0.058823529411764705,0,0,0,0
+swat,swat_32,Classical RBC,6.0,0.16666666666666666,0,0,0,0
+swat,swat_32,Recursive RBC (no gap),15.0,0.06666666666666667,0,0,0,0
+swat,swat_32,Recursive RBC (300 s gap),19.0,0.05263157894736842,0,0,0,0
+swat,swat_33,LENS-R (full),17.0,0.058823529411764705,0,0,0,0
+swat,swat_33,LENS-R w/o drift correction,20.0,0.05,0,0,0,0
+swat,swat_33,Classical RBC,9.0,0.1111111111111111,0,0,0,0
+swat,swat_33,Recursive RBC (no gap),16.0,0.0625,0,0,0,0
+swat,swat_33,Recursive RBC (300 s gap),13.0,0.07692307692307693,0,0,0,0
+swat,swat_34,LENS-R (full),27.0,0.037037037037037035,0,0,0,0
+swat,swat_34,LENS-R w/o drift correction,28.0,0.03571428571428571,0,0,0,0
+swat,swat_34,Classical RBC,23.0,0.043478260869565216,0,0,0,0
+swat,swat_34,Recursive RBC (no gap),27.0,0.037037037037037035,0,0,0,0
+swat,swat_34,Recursive RBC (300 s gap),20.0,0.05,0,0,0,0
+swat,swat_35,LENS-R (full),2.0,0.5,0,0,1,1
+swat,swat_35,LENS-R w/o drift correction,34.0,0.029411764705882353,0,0,0,0
+swat,swat_35,Classical RBC,30.0,0.03333333333333333,0,0,0,0
+swat,swat_35,Recursive RBC (no gap),28.0,0.03571428571428571,0,0,0,0
+swat,swat_35,Recursive RBC (300 s gap),20.0,0.05,0,0,0,0
+swat,swat_36,LENS-R (full),28.0,0.03571428571428571,0,0,0,0
+swat,swat_36,LENS-R w/o drift correction,29.0,0.034482758620689655,0,0,0,0
+swat,swat_36,Classical RBC,9.0,0.1111111111111111,0,0,0,0
+swat,swat_36,Recursive RBC (no gap),19.0,0.05263157894736842,0,0,0,0
+swat,swat_36,Recursive RBC (300 s gap),8.0,0.125,0,0,0,0
+swat,swat_37,LENS-R (full),27.0,0.037037037037037035,0,0,0,0
+swat,swat_37,LENS-R w/o drift correction,28.0,0.03571428571428571,0,0,0,0
+swat,swat_37,Classical RBC,26.0,0.038461538461538464,0,0,0,0
+swat,swat_37,Recursive RBC (no gap),15.0,0.06666666666666667,0,0,0,0
+swat,swat_37,Recursive RBC (300 s gap),24.0,0.041666666666666664,0,0,0,0
+swat,swat_38,LENS-R (full),6.0,0.16666666666666666,1,0,0,0
+swat,swat_38,LENS-R w/o drift correction,6.0,0.16666666666666666,0,0,0,0
+swat,swat_38,Classical RBC,8.0,0.125,0,0,0,0
+swat,swat_38,Recursive RBC (no gap),21.0,0.047619047619047616,0,0,0,0
+swat,swat_38,Recursive RBC (300 s gap),24.0,0.041666666666666664,0,0,0,0
+swat,swat_39,LENS-R (full),8.0,0.125,0,0,0,0
+swat,swat_39,LENS-R w/o drift correction,12.0,0.08333333333333333,0,0,0,0
+swat,swat_39,Classical RBC,15.0,0.06666666666666667,0,0,0,0
+swat,swat_39,Recursive RBC (no gap),10.0,0.1,0,0,0,0
+swat,swat_39,Recursive RBC (300 s gap),12.0,0.08333333333333333,1,0,0,0
+swat,swat_40,LENS-R (full),2.0,0.5,0,0,1,1
+swat,swat_40,LENS-R w/o drift correction,17.0,0.058823529411764705,0,0,0,0
+swat,swat_40,Classical RBC,15.0,0.06666666666666667,0,0,0,0
+swat,swat_40,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,swat_40,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,swat_41,LENS-R (full),18.0,0.05555555555555555,0,0,0,0
+swat,swat_41,LENS-R w/o drift correction,30.0,0.03333333333333333,0,0,0,0
+swat,swat_41,Classical RBC,4.0,0.25,0,0,0,1
+swat,swat_41,Recursive RBC (no gap),24.0,0.041666666666666664,1,0,0,0
+swat,swat_41,Recursive RBC (300 s gap),22.0,0.045454545454545456,1,0,0,0
+hai,hai_A101,LENS-R (full),2.0,0.5,1,0,1,1
+hai,hai_A101,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+hai,hai_A101,Classical RBC,4.0,0.25,1,0,0,1
+hai,hai_A101,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A101,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+hai,hai_A102,LENS-R (full),1.0,1.0,1,1,1,1
+hai,hai_A102,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,hai_A102,Classical RBC,1.0,1.0,1,1,1,1
+hai,hai_A102,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A102,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A103,LENS-R (full),5.0,0.2,1,0,0,1
+hai,hai_A103,LENS-R w/o drift correction,5.0,0.2,1,0,0,1
+hai,hai_A103,Classical RBC,4.0,0.25,1,0,0,1
+hai,hai_A103,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A103,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A104,LENS-R (full),2.0,0.5,0,0,1,1
+hai,hai_A104,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,hai_A104,Classical RBC,2.0,0.5,0,0,1,1
+hai,hai_A104,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A104,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A105,LENS-R (full),30.0,0.03333333333333333,1,0,0,0
+hai,hai_A105,LENS-R w/o drift correction,30.0,0.03333333333333333,1,0,0,0
+hai,hai_A105,Classical RBC,33.0,0.030303030303030304,1,0,0,0
+hai,hai_A105,Recursive RBC (no gap),8.0,0.125,1,0,0,0
+hai,hai_A105,Recursive RBC (300 s gap),4.0,0.25,1,0,0,1
+hai,hai_A106,LENS-R (full),4.0,0.25,1,0,0,1
+hai,hai_A106,LENS-R w/o drift correction,4.0,0.25,1,0,0,1
+hai,hai_A106,Classical RBC,5.0,0.2,1,0,0,1
+hai,hai_A106,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A106,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A107,LENS-R (full),55.0,0.01818181818181818,1,0,0,0
+hai,hai_A107,LENS-R w/o drift correction,55.0,0.01818181818181818,1,0,0,0
+hai,hai_A107,Classical RBC,56.0,0.017857142857142856,1,0,0,0
+hai,hai_A107,Recursive RBC (no gap),34.0,0.029411764705882353,0,0,0,0
+hai,hai_A107,Recursive RBC (300 s gap),41.0,0.024390243902439025,1,0,0,0
+hai,hai_A201,LENS-R (full),26.0,0.038461538461538464,0,0,0,0
+hai,hai_A201,LENS-R w/o drift correction,26.0,0.038461538461538464,0,0,0,0
+hai,hai_A201,Classical RBC,24.0,0.041666666666666664,1,0,0,0
+hai,hai_A201,Recursive RBC (no gap),14.0,0.07142857142857142,1,0,0,0
+hai,hai_A201,Recursive RBC (300 s gap),16.0,0.0625,1,0,0,0
+hai,hai_A202,LENS-R (full),33.0,0.030303030303030304,1,0,0,0
+hai,hai_A202,LENS-R w/o drift correction,33.0,0.030303030303030304,1,0,0,0
+hai,hai_A202,Classical RBC,32.0,0.03125,1,0,0,0
+hai,hai_A202,Recursive RBC (no gap),9.0,0.1111111111111111,0,0,0,0
+hai,hai_A202,Recursive RBC (300 s gap),28.0,0.03571428571428571,1,0,0,0
+hai,hai_A203,LENS-R (full),1.0,1.0,1,1,1,1
+hai,hai_A203,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,hai_A203,Classical RBC,1.0,1.0,1,1,1,1
+hai,hai_A203,Recursive RBC (no gap),9.0,0.1111111111111111,1,0,0,0
+hai,hai_A203,Recursive RBC (300 s gap),7.0,0.14285714285714285,0,0,0,0
+hai,hai_A204,LENS-R (full),7.0,0.14285714285714285,1,0,0,0
+hai,hai_A204,LENS-R w/o drift correction,7.0,0.14285714285714285,1,0,0,0
+hai,hai_A204,Classical RBC,2.0,0.5,1,0,1,1
+hai,hai_A204,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A204,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A205,LENS-R (full),1.0,1.0,1,1,1,1
+hai,hai_A205,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,hai_A205,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+hai,hai_A205,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,hai_A205,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+hai,hai_A206,LENS-R (full),32.0,0.03125,1,0,0,0
+hai,hai_A206,LENS-R w/o drift correction,32.0,0.03125,1,0,0,0
+hai,hai_A206,Classical RBC,10.0,0.1,1,0,0,0
+hai,hai_A206,Recursive RBC (no gap),14.0,0.07142857142857142,1,0,0,0
+hai,hai_A206,Recursive RBC (300 s gap),31.0,0.03225806451612903,1,0,0,0
+hai,hai_A207,LENS-R (full),2.0,0.5,1,0,1,1
+hai,hai_A207,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+hai,hai_A207,Classical RBC,2.0,0.5,1,0,1,1
+hai,hai_A207,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A207,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A208,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+hai,hai_A208,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+hai,hai_A208,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+hai,hai_A208,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A208,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,hai_A209,LENS-R (full),27.0,0.037037037037037035,1,0,0,0
+hai,hai_A209,LENS-R w/o drift correction,27.0,0.037037037037037035,1,0,0,0
+hai,hai_A209,Classical RBC,33.0,0.030303030303030304,1,0,0,0
+hai,hai_A209,Recursive RBC (no gap),18.0,0.05555555555555555,0,0,0,0
+hai,hai_A209,Recursive RBC (300 s gap),34.0,0.029411764705882353,0,0,0,0
+hai,hai_A210,LENS-R (full),1.0,1.0,1,1,1,1
+hai,hai_A210,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,hai_A210,Classical RBC,1.0,1.0,1,1,1,1
+hai,hai_A210,Recursive RBC (no gap),3.0,0.3333333333333333,1,0,1,1
+hai,hai_A210,Recursive RBC (300 s gap),3.0,0.3333333333333333,1,0,1,1
+hai,hai_A211,LENS-R (full),5.0,0.2,1,0,0,1
+hai,hai_A211,LENS-R w/o drift correction,5.0,0.2,1,0,0,1
+hai,hai_A211,Classical RBC,6.0,0.16666666666666666,1,0,0,0
+hai,hai_A211,Recursive RBC (no gap),5.0,0.2,0,0,0,1
+hai,hai_A211,Recursive RBC (300 s gap),15.0,0.06666666666666667,0,0,0,0
+hai,hai_A212,LENS-R (full),21.0,0.047619047619047616,0,0,0,0
+hai,hai_A212,LENS-R w/o drift correction,21.0,0.047619047619047616,0,0,0,0
+hai,hai_A212,Classical RBC,4.0,0.25,0,0,0,1
+hai,hai_A212,Recursive RBC (no gap),6.0,0.16666666666666666,0,0,0,0
+hai,hai_A212,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+hai,hai_A213,LENS-R (full),2.0,0.5,1,0,1,1
+hai,hai_A213,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+hai,hai_A213,Classical RBC,2.0,0.5,1,0,1,1
+hai,hai_A213,Recursive RBC (no gap),34.0,0.029411764705882353,1,0,0,0
+hai,hai_A213,Recursive RBC (300 s gap),19.0,0.05263157894736842,1,0,0,0
+hai,hai_A214,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+hai,hai_A214,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+hai,hai_A214,Classical RBC,4.0,0.25,0,0,0,1
+hai,hai_A214,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,hai_A214,Recursive RBC (300 s gap),8.0,0.125,0,0,0,0
+hai,hai_A215,LENS-R (full),19.0,0.05263157894736842,1,0,0,0
+hai,hai_A215,LENS-R w/o drift correction,19.0,0.05263157894736842,1,0,0,0
+hai,hai_A215,Classical RBC,22.0,0.045454545454545456,1,0,0,0
+hai,hai_A215,Recursive RBC (no gap),32.0,0.03125,1,0,0,0
+hai,hai_A215,Recursive RBC (300 s gap),44.0,0.022727272727272728,1,0,0,0
+hai,hai_A216,LENS-R (full),6.0,0.16666666666666666,1,0,0,0
+hai,hai_A216,LENS-R w/o drift correction,6.0,0.16666666666666666,1,0,0,0
+hai,hai_A216,Classical RBC,9.0,0.1111111111111111,1,0,0,0
+hai,hai_A216,Recursive RBC (no gap),29.0,0.034482758620689655,1,0,0,0
+hai,hai_A216,Recursive RBC (300 s gap),19.0,0.05263157894736842,1,0,0,0
+hai,hai_A217,LENS-R (full),18.0,0.05555555555555555,1,0,0,0
+hai,hai_A217,LENS-R w/o drift correction,18.0,0.05555555555555555,1,0,0,0
+hai,hai_A217,Classical RBC,16.0,0.0625,1,0,0,0
+hai,hai_A217,Recursive RBC (no gap),8.0,0.125,1,0,0,0
+hai,hai_A217,Recursive RBC (300 s gap),9.0,0.1111111111111111,1,0,0,0
+hai,hai_A301,LENS-R (full),32.0,0.03125,1,0,0,0
+hai,hai_A301,LENS-R w/o drift correction,32.0,0.03125,1,0,0,0
+hai,hai_A301,Classical RBC,29.0,0.034482758620689655,1,0,0,0
+hai,hai_A301,Recursive RBC (no gap),15.0,0.06666666666666667,1,0,0,0
+hai,hai_A301,Recursive RBC (300 s gap),29.0,0.034482758620689655,1,0,0,0
+hai,hai_A302,LENS-R (full),6.0,0.16666666666666666,1,0,0,0
+hai,hai_A302,LENS-R w/o drift correction,6.0,0.16666666666666666,1,0,0,0
+hai,hai_A302,Classical RBC,6.0,0.16666666666666666,1,0,0,0
+hai,hai_A302,Recursive RBC (no gap),4.0,0.25,1,0,0,1
+hai,hai_A302,Recursive RBC (300 s gap),12.0,0.08333333333333333,0,0,0,0
+hai,hai_A303,LENS-R (full),2.0,0.5,1,0,1,1
+hai,hai_A303,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+hai,hai_A303,Classical RBC,2.0,0.5,1,0,1,1
+hai,hai_A303,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A303,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A304,LENS-R (full),2.0,0.5,1,0,1,1
+hai,hai_A304,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+hai,hai_A304,Classical RBC,3.0,0.3333333333333333,1,0,1,1
+hai,hai_A304,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A304,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A305,LENS-R (full),1.0,1.0,1,1,1,1
+hai,hai_A305,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,hai_A305,Classical RBC,1.0,1.0,1,1,1,1
+hai,hai_A305,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A305,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A306,LENS-R (full),5.0,0.2,1,0,0,1
+hai,hai_A306,LENS-R w/o drift correction,5.0,0.2,1,0,0,1
+hai,hai_A306,Classical RBC,5.0,0.2,1,0,0,1
+hai,hai_A306,Recursive RBC (no gap),3.0,0.3333333333333333,1,0,1,1
+hai,hai_A306,Recursive RBC (300 s gap),4.0,0.25,1,0,0,1
+hai,hai_A307,LENS-R (full),44.0,0.022727272727272728,1,0,0,0
+hai,hai_A307,LENS-R w/o drift correction,44.0,0.022727272727272728,1,0,0,0
+hai,hai_A307,Classical RBC,37.0,0.02702702702702703,1,0,0,0
+hai,hai_A307,Recursive RBC (no gap),27.0,0.037037037037037035,1,0,0,0
+hai,hai_A307,Recursive RBC (300 s gap),28.0,0.03571428571428571,1,0,0,0
+hai,hai_A308,LENS-R (full),5.0,0.2,1,0,0,1
+hai,hai_A308,LENS-R w/o drift correction,5.0,0.2,1,0,0,1
+hai,hai_A308,Classical RBC,3.0,0.3333333333333333,1,0,1,1
+hai,hai_A308,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A308,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A309,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+hai,hai_A309,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+hai,hai_A309,Classical RBC,4.0,0.25,0,0,0,1
+hai,hai_A309,Recursive RBC (no gap),21.0,0.047619047619047616,1,0,0,0
+hai,hai_A309,Recursive RBC (300 s gap),28.0,0.03571428571428571,0,0,0,0
+hai,hai_A310,LENS-R (full),1.0,1.0,1,1,1,1
+hai,hai_A310,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,hai_A310,Classical RBC,1.0,1.0,1,1,1,1
+hai,hai_A310,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A310,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A401,LENS-R (full),2.0,0.5,1,0,1,1
+hai,hai_A401,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+hai,hai_A401,Classical RBC,2.0,0.5,1,0,1,1
+hai,hai_A401,Recursive RBC (no gap),4.0,0.25,1,0,0,1
+hai,hai_A401,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+hai,hai_A402,LENS-R (full),50.0,0.02,1,0,0,0
+hai,hai_A402,LENS-R w/o drift correction,50.0,0.02,1,0,0,0
+hai,hai_A402,Classical RBC,40.0,0.025,1,0,0,0
+hai,hai_A402,Recursive RBC (no gap),10.0,0.1,0,0,0,0
+hai,hai_A402,Recursive RBC (300 s gap),18.0,0.05555555555555555,0,0,0,0
+hai,hai_A403,LENS-R (full),77.5,0.012903225806451613,0,0,0,0
+hai,hai_A403,LENS-R w/o drift correction,77.5,0.012903225806451613,0,0,0,0
+hai,hai_A403,Classical RBC,77.5,0.012903225806451613,0,0,0,0
+hai,hai_A403,Recursive RBC (no gap),77.5,0.012903225806451613,0,0,0,0
+hai,hai_A403,Recursive RBC (300 s gap),77.5,0.012903225806451613,0,0,0,0
+hai,hai_A404,LENS-R (full),2.0,0.5,0,0,1,1
+hai,hai_A404,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,hai_A404,Classical RBC,2.0,0.5,0,0,1,1
+hai,hai_A404,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,hai_A404,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,hai_A405,LENS-R (full),56.0,0.017857142857142856,0,0,0,0
+hai,hai_A405,LENS-R w/o drift correction,56.0,0.017857142857142856,0,0,0,0
+hai,hai_A405,Classical RBC,59.0,0.01694915254237288,0,0,0,0
+hai,hai_A405,Recursive RBC (no gap),51.0,0.0196078431372549,0,0,0,0
+hai,hai_A405,Recursive RBC (300 s gap),45.0,0.022222222222222223,1,0,0,0
+hai,hai_A406,LENS-R (full),15.0,0.06666666666666667,1,0,0,0
+hai,hai_A406,LENS-R w/o drift correction,15.0,0.06666666666666667,1,0,0,0
+hai,hai_A406,Classical RBC,19.0,0.05263157894736842,1,0,0,0
+hai,hai_A406,Recursive RBC (no gap),18.0,0.05555555555555555,1,0,0,0
+hai,hai_A406,Recursive RBC (300 s gap),23.0,0.043478260869565216,0,0,0,0
+hai,hai_A407,LENS-R (full),13.0,0.07692307692307693,1,0,0,0
+hai,hai_A407,LENS-R w/o drift correction,13.0,0.07692307692307693,1,0,0,0
+hai,hai_A407,Classical RBC,11.0,0.09090909090909091,1,0,0,0
+hai,hai_A407,Recursive RBC (no gap),14.0,0.07142857142857142,1,0,0,0
+hai,hai_A407,Recursive RBC (300 s gap),7.0,0.14285714285714285,0,0,0,0
+hai,hai_A408,LENS-R (full),3.0,0.3333333333333333,1,0,1,1
+hai,hai_A408,LENS-R w/o drift correction,3.0,0.3333333333333333,1,0,1,1
+hai,hai_A408,Classical RBC,4.0,0.25,1,0,0,1
+hai,hai_A408,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A408,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A409,LENS-R (full),1.0,1.0,1,1,1,1
+hai,hai_A409,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,hai_A409,Classical RBC,1.0,1.0,1,1,1,1
+hai,hai_A409,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A409,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A410,LENS-R (full),7.0,0.14285714285714285,1,0,0,0
+hai,hai_A410,LENS-R w/o drift correction,7.0,0.14285714285714285,1,0,0,0
+hai,hai_A410,Classical RBC,4.0,0.25,1,0,0,1
+hai,hai_A410,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,hai_A410,Recursive RBC (300 s gap),6.0,0.16666666666666666,1,0,0,0
+hai,hai_A411,LENS-R (full),2.0,0.5,1,0,1,1
+hai,hai_A411,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+hai,hai_A411,Classical RBC,2.0,0.5,1,0,1,1
+hai,hai_A411,Recursive RBC (no gap),7.0,0.14285714285714285,0,0,0,0
+hai,hai_A411,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,hai_A412,LENS-R (full),36.0,0.027777777777777776,0,0,0,0
+hai,hai_A412,LENS-R w/o drift correction,33.0,0.030303030303030304,1,0,0,0
+hai,hai_A412,Classical RBC,36.0,0.027777777777777776,1,0,0,0
+hai,hai_A412,Recursive RBC (no gap),41.0,0.024390243902439025,1,0,0,0
+hai,hai_A412,Recursive RBC (300 s gap),41.0,0.024390243902439025,0,0,0,0
+hai,hai_A413,LENS-R (full),4.0,0.25,1,0,0,1
+hai,hai_A413,LENS-R w/o drift correction,4.0,0.25,1,0,0,1
+hai,hai_A413,Classical RBC,3.0,0.3333333333333333,1,0,1,1
+hai,hai_A413,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A413,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A414,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+hai,hai_A414,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+hai,hai_A414,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+hai,hai_A414,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A414,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,hai_A415,LENS-R (full),77.5,0.012903225806451613,0,0,0,0
+hai,hai_A415,LENS-R w/o drift correction,77.5,0.012903225806451613,0,0,0,0
+hai,hai_A415,Classical RBC,77.5,0.012903225806451613,0,0,0,0
+hai,hai_A415,Recursive RBC (no gap),78.5,0.012738853503184714,0,0,0,0
+hai,hai_A415,Recursive RBC (300 s gap),78.5,0.012738853503184714,0,0,0,0
+hai,hai_A416,LENS-R (full),18.0,0.05555555555555555,1,0,0,0
+hai,hai_A416,LENS-R w/o drift correction,18.0,0.05555555555555555,1,0,0,0
+hai,hai_A416,Classical RBC,20.0,0.05,1,0,0,0
+hai,hai_A416,Recursive RBC (no gap),5.0,0.2,1,0,0,1
+hai,hai_A416,Recursive RBC (300 s gap),10.0,0.1,1,0,0,0
+hai,hai_A417,LENS-R (full),11.0,0.09090909090909091,1,0,0,0
+hai,hai_A417,LENS-R w/o drift correction,11.0,0.09090909090909091,1,0,0,0
+hai,hai_A417,Classical RBC,17.0,0.058823529411764705,1,0,0,0
+hai,hai_A417,Recursive RBC (no gap),60.0,0.016666666666666666,1,0,0,0
+hai,hai_A417,Recursive RBC (300 s gap),68.0,0.014705882352941176,1,0,0,0
+hai,hai_A418,LENS-R (full),34.0,0.029411764705882353,1,0,0,0
+hai,hai_A418,LENS-R w/o drift correction,34.0,0.029411764705882353,1,0,0,0
+hai,hai_A418,Classical RBC,19.0,0.05263157894736842,1,0,0,0
+hai,hai_A418,Recursive RBC (no gap),23.0,0.043478260869565216,1,0,0,0
+hai,hai_A418,Recursive RBC (300 s gap),26.0,0.038461538461538464,1,0,0,0
+hai,hai_A419,LENS-R (full),3.0,0.3333333333333333,1,0,1,1
+hai,hai_A419,LENS-R w/o drift correction,3.0,0.3333333333333333,1,0,1,1
+hai,hai_A419,Classical RBC,3.0,0.3333333333333333,1,0,1,1
+hai,hai_A419,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A419,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A420,LENS-R (full),1.0,1.0,1,1,1,1
+hai,hai_A420,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,hai_A420,Classical RBC,1.0,1.0,1,1,1,1
+hai,hai_A420,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A420,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,hai_A421,LENS-R (full),1.0,1.0,1,1,1,1
+hai,hai_A421,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,hai_A421,Classical RBC,1.0,1.0,1,1,1,1
+hai,hai_A421,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,hai_A421,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+hai,hai_A422,LENS-R (full),13.0,0.07692307692307693,1,0,0,0
+hai,hai_A422,LENS-R w/o drift correction,13.0,0.07692307692307693,1,0,0,0
+hai,hai_A422,Classical RBC,16.0,0.0625,1,0,0,0
+hai,hai_A422,Recursive RBC (no gap),11.0,0.09090909090909091,1,0,0,0
+hai,hai_A422,Recursive RBC (300 s gap),8.0,0.125,1,0,0,0
+hai,hai_A423,LENS-R (full),3.0,0.3333333333333333,1,0,1,1
+hai,hai_A423,LENS-R w/o drift correction,3.0,0.3333333333333333,1,0,1,1
+hai,hai_A423,Classical RBC,4.0,0.25,1,0,0,1
+hai,hai_A423,Recursive RBC (no gap),4.0,0.25,1,0,0,1
+hai,hai_A423,Recursive RBC (300 s gap),8.0,0.125,1,0,0,0
+hai,hai_A424,LENS-R (full),6.0,0.16666666666666666,1,0,0,0
+hai,hai_A424,LENS-R w/o drift correction,6.0,0.16666666666666666,1,0,0,0
+hai,hai_A424,Classical RBC,7.0,0.14285714285714285,1,0,0,0
+hai,hai_A424,Recursive RBC (no gap),8.0,0.125,1,0,0,0
+hai,hai_A424,Recursive RBC (300 s gap),5.0,0.2,1,0,0,1

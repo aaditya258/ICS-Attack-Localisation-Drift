@@ -1,0 +1,13 @@
+set,a,b,n,mean_diff,wins,losses,ties,p
+SWaT (33),LENS-R (full),LENS-R w/o drift correction,33,0.074,15,3,15,0.0138
+SWaT (33),LENS-R (full),Classical RBC,33,0.068,11,13,9,0.3835
+SWaT (33),LENS-R (full),Recursive RBC (no gap),33,-0.033,10,15,8,0.5358
+SWaT (33),LENS-R (full),Recursive RBC (300 s gap),33,-0.064,6,17,10,0.0635
+HAI (58),LENS-R (full),LENS-R w/o drift correction,58,-0.0,0,1,57,0.3173
+HAI (58),LENS-R (full),Classical RBC,58,0.01,20,15,23,0.3988
+HAI (58),LENS-R (full),Recursive RBC (no gap),58,-0.118,16,33,9,0.0078
+HAI (58),LENS-R (full),Recursive RBC (300 s gap),58,-0.069,18,31,9,0.1183
+Pooled (91),LENS-R (full),LENS-R w/o drift correction,91,0.027,15,4,72,0.0175
+Pooled (91),LENS-R (full),Classical RBC,91,0.031,31,28,32,0.2958
+Pooled (91),LENS-R (full),Recursive RBC (no gap),91,-0.087,26,48,17,0.0106
+Pooled (91),LENS-R (full),Recursive RBC (300 s gap),91,-0.067,24,48,19,0.022

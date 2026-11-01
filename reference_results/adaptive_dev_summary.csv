@@ -1,0 +1,16 @@
+method,set,n,MRR,Top@1,Top@3,Top@5,CI low,CI high
+LENS-R (full),SWaT (33),33,0.421,0.273,0.455,0.576,0.288,0.559
+LENS-R w/o drift correction,SWaT (33),33,0.347,0.242,0.333,0.485,0.219,0.491
+Classical RBC,SWaT (33),33,0.353,0.242,0.333,0.424,0.226,0.493
+Recursive RBC (no gap),SWaT (33),33,0.454,0.394,0.424,0.455,0.301,0.614
+Recursive RBC (300 s gap),SWaT (33),33,0.485,0.394,0.515,0.545,0.343,0.634
+LENS-R (full),HAI (58),58,0.324,0.155,0.431,0.534,0.241,0.412
+LENS-R w/o drift correction,HAI (58),58,0.324,0.155,0.431,0.534,0.241,0.412
+Classical RBC,HAI (58),58,0.314,0.138,0.397,0.569,0.237,0.397
+Recursive RBC (no gap),HAI (58),58,0.442,0.345,0.448,0.534,0.338,0.553
+Recursive RBC (300 s gap),HAI (58),58,0.393,0.276,0.431,0.5,0.294,0.501
+LENS-R (full),Pooled (91),91,0.359,0.198,0.44,0.549,0.289,0.434
+LENS-R w/o drift correction,Pooled (91),91,0.332,0.187,0.396,0.516,0.262,0.407
+Classical RBC,Pooled (91),91,0.328,0.176,0.374,0.516,0.262,0.401
+Recursive RBC (no gap),Pooled (91),91,0.447,0.363,0.44,0.505,0.359,0.534
+Recursive RBC (300 s gap),Pooled (91),91,0.426,0.319,0.462,0.516,0.34,0.512

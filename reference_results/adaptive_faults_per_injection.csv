@@ -1,0 +1,2401 @@
+ds,shape,inj,tag,method,best_rank,rr,stage_hit,top1,top3,top5
+swat,step,swat_0,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_0,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_0,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_0,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_0,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_0,LIT301,LENS-R (full),5.0,0.2,0,0,0,1
+swat,ramp 10 min,swat_0,LIT301,LENS-R w/o drift correction,5.0,0.2,0,0,0,1
+swat,ramp 10 min,swat_0,LIT301,Classical RBC,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_0,LIT301,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_0,LIT301,Recursive RBC (300 s gap),10.0,0.1,0,0,0,0
+swat,ramp 30 min,swat_0,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_0,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_0,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_0,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_0,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_0,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_0,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_0,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_0,LIT301,Recursive RBC (no gap),7.0,0.14285714285714285,1,0,0,0
+swat,ramp 60 min,swat_0,LIT301,Recursive RBC (300 s gap),5.0,0.2,1,0,0,1
+swat,step,swat_1,AIT504,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_1,AIT504,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_1,AIT504,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_1,AIT504,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_1,AIT504,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_1,AIT504,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_1,AIT504,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_1,AIT504,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_1,AIT504,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_1,AIT504,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_1,AIT504,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_1,AIT504,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_1,AIT504,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_1,AIT504,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_1,AIT504,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_1,AIT504,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_1,AIT504,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_1,AIT504,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_1,AIT504,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_1,AIT504,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_2,AIT502,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_2,AIT502,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_2,AIT502,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_2,AIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_2,AIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_2,AIT502,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_2,AIT502,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_2,AIT502,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_2,AIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_2,AIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_2,AIT502,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_2,AIT502,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_2,AIT502,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_2,AIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_2,AIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_2,AIT502,LENS-R (full),7.0,0.14285714285714285,0,0,0,0
+swat,ramp 60 min,swat_2,AIT502,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_2,AIT502,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_2,AIT502,Recursive RBC (no gap),6.0,0.16666666666666666,0,0,0,0
+swat,ramp 60 min,swat_2,AIT502,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_3,DPIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_3,DPIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_3,DPIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_3,DPIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_3,DPIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_3,DPIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_3,DPIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_3,DPIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_3,DPIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_3,DPIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_3,DPIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_3,DPIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_3,DPIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_3,DPIT301,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_3,DPIT301,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_3,DPIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_3,DPIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_3,DPIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_3,DPIT301,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_3,DPIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_4,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_4,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_4,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_4,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_4,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_4,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_4,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_4,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_4,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_4,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_4,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_4,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_4,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_4,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_4,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_4,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_4,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_4,LIT301,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_4,LIT301,Recursive RBC (no gap),5.0,0.2,0,0,0,1
+swat,ramp 60 min,swat_4,LIT301,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_5,FIT501,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_5,FIT501,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_5,FIT501,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_5,FIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_5,FIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_5,FIT501,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_5,FIT501,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_5,FIT501,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_5,FIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_5,FIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_5,FIT501,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_5,FIT501,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_5,FIT501,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_5,FIT501,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_5,FIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_5,FIT501,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_5,FIT501,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_5,FIT501,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_5,FIT501,Recursive RBC (no gap),11.0,0.09090909090909091,0,0,0,0
+swat,ramp 60 min,swat_5,FIT501,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+swat,step,swat_6,AIT502,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_6,AIT502,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_6,AIT502,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_6,AIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_6,AIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_6,AIT502,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_6,AIT502,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_6,AIT502,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_6,AIT502,Recursive RBC (no gap),5.0,0.2,0,0,0,1
+swat,ramp 10 min,swat_6,AIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_6,AIT502,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_6,AIT502,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_6,AIT502,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_6,AIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_6,AIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_6,AIT502,LENS-R (full),13.0,0.07692307692307693,0,0,0,0
+swat,ramp 60 min,swat_6,AIT502,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_6,AIT502,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_6,AIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_6,AIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_7,LIT401,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_7,LIT401,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_7,LIT401,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_7,LIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_7,LIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_7,LIT401,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_7,LIT401,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_7,LIT401,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_7,LIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_7,LIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_7,LIT401,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_7,LIT401,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_7,LIT401,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_7,LIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_7,LIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_7,LIT401,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_7,LIT401,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_7,LIT401,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_7,LIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_7,LIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_8,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_8,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_8,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_8,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_8,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_8,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_8,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_8,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_8,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_8,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_8,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_8,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_8,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_8,LIT301,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_8,LIT301,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_8,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_8,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_8,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_8,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_8,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_9,FIT503,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_9,FIT503,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_9,FIT503,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_9,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_9,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_9,FIT503,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_9,FIT503,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_9,FIT503,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_9,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_9,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_9,FIT503,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_9,FIT503,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_9,FIT503,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_9,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_9,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_9,FIT503,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_9,FIT503,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_9,FIT503,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_9,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_9,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_10,AIT401,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_10,AIT401,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_10,AIT401,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_10,AIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_10,AIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_10,AIT401,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_10,AIT401,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_10,AIT401,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_10,AIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_10,AIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_10,AIT401,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_10,AIT401,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_10,AIT401,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_10,AIT401,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_10,AIT401,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+swat,ramp 60 min,swat_10,AIT401,LENS-R (full),6.0,0.16666666666666666,0,0,0,0
+swat,ramp 60 min,swat_10,AIT401,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_10,AIT401,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_10,AIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_10,AIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_11,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_11,LIT301,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,step,swat_11,LIT301,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_11,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_11,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_11,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_11,LIT301,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_11,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_11,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_11,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_11,LIT301,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_11,LIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_11,LIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_11,LIT301,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+swat,ramp 30 min,swat_11,LIT301,Recursive RBC (300 s gap),5.0,0.2,0,0,0,1
+swat,ramp 60 min,swat_11,LIT301,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_11,LIT301,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_11,LIT301,Classical RBC,12.0,0.08333333333333333,0,0,0,0
+swat,ramp 60 min,swat_11,LIT301,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_11,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_12,PIT502,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_12,PIT502,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,step,swat_12,PIT502,Classical RBC,15.0,0.06666666666666667,0,0,0,0
+swat,step,swat_12,PIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_12,PIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_12,PIT502,LENS-R (full),6.0,0.16666666666666666,0,0,0,0
+swat,ramp 10 min,swat_12,PIT502,LENS-R w/o drift correction,7.0,0.14285714285714285,0,0,0,0
+swat,ramp 10 min,swat_12,PIT502,Classical RBC,29.0,0.034482758620689655,0,0,0,0
+swat,ramp 10 min,swat_12,PIT502,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_12,PIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_12,PIT502,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_12,PIT502,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 30 min,swat_12,PIT502,Classical RBC,20.0,0.05,0,0,0,0
+swat,ramp 30 min,swat_12,PIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_12,PIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_12,PIT502,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_12,PIT502,LENS-R w/o drift correction,6.0,0.16666666666666666,0,0,0,0
+swat,ramp 60 min,swat_12,PIT502,Classical RBC,19.0,0.05263157894736842,0,0,0,0
+swat,ramp 60 min,swat_12,PIT502,Recursive RBC (no gap),6.0,0.16666666666666666,0,0,0,0
+swat,ramp 60 min,swat_12,PIT502,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,step,swat_13,DPIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_13,DPIT301,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,step,swat_13,DPIT301,Classical RBC,2.0,0.5,0,0,1,1
+swat,step,swat_13,DPIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_13,DPIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_13,DPIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_13,DPIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_13,DPIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_13,DPIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_13,DPIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_13,DPIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_13,DPIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_13,DPIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_13,DPIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_13,DPIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_13,DPIT301,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_13,DPIT301,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_13,DPIT301,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_13,DPIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_13,DPIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_14,FIT201,LENS-R (full),2.0,0.5,1,0,1,1
+swat,step,swat_14,FIT201,LENS-R w/o drift correction,3.0,0.3333333333333333,1,0,1,1
+swat,step,swat_14,FIT201,Classical RBC,3.0,0.3333333333333333,1,0,1,1
+swat,step,swat_14,FIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_14,FIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_14,FIT201,LENS-R (full),2.0,0.5,1,0,1,1
+swat,ramp 10 min,swat_14,FIT201,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+swat,ramp 10 min,swat_14,FIT201,Classical RBC,2.0,0.5,1,0,1,1
+swat,ramp 10 min,swat_14,FIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_14,FIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_14,FIT201,LENS-R (full),2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_14,FIT201,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_14,FIT201,Classical RBC,2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_14,FIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_14,FIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_14,FIT201,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_14,FIT201,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+swat,ramp 60 min,swat_14,FIT201,Classical RBC,2.0,0.5,1,0,1,1
+swat,ramp 60 min,swat_14,FIT201,Recursive RBC (no gap),10.0,0.1,0,0,0,0
+swat,ramp 60 min,swat_14,FIT201,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,step,swat_15,FIT501,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_15,FIT501,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_15,FIT501,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_15,FIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_15,FIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_15,FIT501,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_15,FIT501,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 10 min,swat_15,FIT501,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 10 min,swat_15,FIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_15,FIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_15,FIT501,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_15,FIT501,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_15,FIT501,Classical RBC,2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_15,FIT501,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_15,FIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_15,FIT501,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_15,FIT501,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_15,FIT501,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_15,FIT501,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_15,FIT501,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,step,swat_16,AIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_16,AIT503,LENS-R w/o drift correction,10.0,0.1,0,0,0,0
+swat,step,swat_16,AIT503,Classical RBC,2.0,0.5,0,0,1,1
+swat,step,swat_16,AIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_16,AIT503,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+swat,ramp 10 min,swat_16,AIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_16,AIT503,LENS-R w/o drift correction,5.0,0.2,0,0,0,1
+swat,ramp 10 min,swat_16,AIT503,Classical RBC,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_16,AIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_16,AIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_16,AIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_16,AIT503,LENS-R w/o drift correction,8.0,0.125,0,0,0,0
+swat,ramp 30 min,swat_16,AIT503,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_16,AIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_16,AIT503,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_16,AIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_16,AIT503,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_16,AIT503,Classical RBC,2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_16,AIT503,Recursive RBC (no gap),14.0,0.07142857142857142,1,0,0,0
+swat,ramp 60 min,swat_16,AIT503,Recursive RBC (300 s gap),12.0,0.08333333333333333,1,0,0,0
+swat,step,swat_17,LIT101,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_17,LIT101,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,step,swat_17,LIT101,Classical RBC,17.0,0.058823529411764705,0,0,0,0
+swat,step,swat_17,LIT101,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_17,LIT101,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_17,LIT101,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_17,LIT101,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_17,LIT101,Classical RBC,16.0,0.0625,0,0,0,0
+swat,ramp 10 min,swat_17,LIT101,Recursive RBC (no gap),9.0,0.1111111111111111,1,0,0,0
+swat,ramp 10 min,swat_17,LIT101,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_17,LIT101,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_17,LIT101,LENS-R w/o drift correction,5.0,0.2,0,0,0,1
+swat,ramp 30 min,swat_17,LIT101,Classical RBC,16.0,0.0625,0,0,0,0
+swat,ramp 30 min,swat_17,LIT101,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_17,LIT101,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_17,LIT101,LENS-R (full),5.0,0.2,0,0,0,1
+swat,ramp 60 min,swat_17,LIT101,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_17,LIT101,Classical RBC,15.0,0.06666666666666667,0,0,0,0
+swat,ramp 60 min,swat_17,LIT101,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_17,LIT101,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_18,AIT201,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_18,AIT201,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,step,swat_18,AIT201,Classical RBC,1.0,1.0,1,1,1,1
+swat,step,swat_18,AIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_18,AIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_18,AIT201,LENS-R (full),2.0,0.5,1,0,1,1
+swat,ramp 10 min,swat_18,AIT201,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+swat,ramp 10 min,swat_18,AIT201,Classical RBC,2.0,0.5,1,0,1,1
+swat,ramp 10 min,swat_18,AIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_18,AIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_18,AIT201,LENS-R (full),7.0,0.14285714285714285,1,0,0,0
+swat,ramp 30 min,swat_18,AIT201,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_18,AIT201,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_18,AIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_18,AIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_18,AIT201,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_18,AIT201,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_18,AIT201,Classical RBC,1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_18,AIT201,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_18,AIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_19,AIT401,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_19,AIT401,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,step,swat_19,AIT401,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_19,AIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_19,AIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_19,AIT401,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_19,AIT401,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_19,AIT401,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 10 min,swat_19,AIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_19,AIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_19,AIT401,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_19,AIT401,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 30 min,swat_19,AIT401,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_19,AIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_19,AIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_19,AIT401,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_19,AIT401,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_19,AIT401,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_19,AIT401,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_19,AIT401,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,step,swat_20,FIT504,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_20,FIT504,LENS-R w/o drift correction,5.0,0.2,0,0,0,1
+swat,step,swat_20,FIT504,Classical RBC,11.0,0.09090909090909091,0,0,0,0
+swat,step,swat_20,FIT504,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_20,FIT504,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_20,FIT504,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_20,FIT504,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_20,FIT504,Classical RBC,7.0,0.14285714285714285,0,0,0,0
+swat,ramp 10 min,swat_20,FIT504,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_20,FIT504,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_20,FIT504,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_20,FIT504,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 30 min,swat_20,FIT504,Classical RBC,9.0,0.1111111111111111,0,0,0,0
+swat,ramp 30 min,swat_20,FIT504,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_20,FIT504,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_20,FIT504,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_20,FIT504,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_20,FIT504,Classical RBC,8.0,0.125,0,0,0,0
+swat,ramp 60 min,swat_20,FIT504,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_20,FIT504,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,step,swat_21,AIT402,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_21,AIT402,LENS-R w/o drift correction,6.0,0.16666666666666666,0,0,0,0
+swat,step,swat_21,AIT402,Classical RBC,9.0,0.1111111111111111,0,0,0,0
+swat,step,swat_21,AIT402,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_21,AIT402,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_21,AIT402,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_21,AIT402,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_21,AIT402,Classical RBC,8.0,0.125,0,0,0,0
+swat,ramp 10 min,swat_21,AIT402,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_21,AIT402,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_21,AIT402,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_21,AIT402,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_21,AIT402,Classical RBC,8.0,0.125,0,0,0,0
+swat,ramp 30 min,swat_21,AIT402,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_21,AIT402,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_21,AIT402,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_21,AIT402,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_21,AIT402,Classical RBC,8.0,0.125,0,0,0,0
+swat,ramp 60 min,swat_21,AIT402,Recursive RBC (no gap),14.0,0.07142857142857142,0,0,0,0
+swat,ramp 60 min,swat_21,AIT402,Recursive RBC (300 s gap),5.0,0.2,1,0,0,1
+swat,step,swat_22,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_22,FIT503,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,step,swat_22,FIT503,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_22,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_22,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_22,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_22,FIT503,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 10 min,swat_22,FIT503,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 10 min,swat_22,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_22,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_22,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_22,FIT503,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 30 min,swat_22,FIT503,Classical RBC,4.0,0.25,0,0,0,1
+swat,ramp 30 min,swat_22,FIT503,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_22,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_22,FIT503,LENS-R (full),4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_22,FIT503,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_22,FIT503,Classical RBC,4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_22,FIT503,Recursive RBC (no gap),24.0,0.041666666666666664,0,0,0,0
+swat,ramp 60 min,swat_22,FIT503,Recursive RBC (300 s gap),28.0,0.03571428571428571,0,0,0,0
+swat,step,swat_23,FIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_23,FIT301,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_23,FIT301,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_23,FIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_23,FIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_23,FIT301,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_23,FIT301,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 10 min,swat_23,FIT301,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 10 min,swat_23,FIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_23,FIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_23,FIT301,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_23,FIT301,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_23,FIT301,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_23,FIT301,Recursive RBC (no gap),5.0,0.2,0,0,0,1
+swat,ramp 30 min,swat_23,FIT301,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+swat,ramp 60 min,swat_23,FIT301,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_23,FIT301,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_23,FIT301,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_23,FIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_23,FIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_24,FIT201,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_24,FIT201,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+swat,step,swat_24,FIT201,Classical RBC,2.0,0.5,1,0,1,1
+swat,step,swat_24,FIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_24,FIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_24,FIT201,LENS-R (full),2.0,0.5,1,0,1,1
+swat,ramp 10 min,swat_24,FIT201,LENS-R w/o drift correction,3.0,0.3333333333333333,1,0,1,1
+swat,ramp 10 min,swat_24,FIT201,Classical RBC,3.0,0.3333333333333333,1,0,1,1
+swat,ramp 10 min,swat_24,FIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_24,FIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_24,FIT201,LENS-R (full),2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_24,FIT201,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_24,FIT201,Classical RBC,2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_24,FIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_24,FIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_24,FIT201,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_24,FIT201,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+swat,ramp 60 min,swat_24,FIT201,Classical RBC,2.0,0.5,1,0,1,1
+swat,ramp 60 min,swat_24,FIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_24,FIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_25,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_25,FIT503,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,step,swat_25,FIT503,Classical RBC,4.0,0.25,0,0,0,1
+swat,step,swat_25,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_25,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_25,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_25,FIT503,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 10 min,swat_25,FIT503,Classical RBC,5.0,0.2,0,0,0,1
+swat,ramp 10 min,swat_25,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_25,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_25,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_25,FIT503,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_25,FIT503,Classical RBC,6.0,0.16666666666666666,0,0,0,0
+swat,ramp 30 min,swat_25,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_25,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_25,FIT503,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_25,FIT503,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_25,FIT503,Classical RBC,4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_25,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_25,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_26,PIT501,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_26,PIT501,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,step,swat_26,PIT501,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_26,PIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_26,PIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_26,PIT501,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_26,PIT501,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_26,PIT501,Classical RBC,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_26,PIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_26,PIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_26,PIT501,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_26,PIT501,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_26,PIT501,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_26,PIT501,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_26,PIT501,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_26,PIT501,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_26,PIT501,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_26,PIT501,Classical RBC,2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_26,PIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_26,PIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_27,LIT101,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_27,LIT101,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,step,swat_27,LIT101,Classical RBC,18.0,0.05555555555555555,0,0,0,0
+swat,step,swat_27,LIT101,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_27,LIT101,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_27,LIT101,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_27,LIT101,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_27,LIT101,Classical RBC,18.0,0.05555555555555555,0,0,0,0
+swat,ramp 10 min,swat_27,LIT101,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_27,LIT101,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_27,LIT101,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_27,LIT101,LENS-R w/o drift correction,5.0,0.2,0,0,0,1
+swat,ramp 30 min,swat_27,LIT101,Classical RBC,19.0,0.05263157894736842,0,0,0,0
+swat,ramp 30 min,swat_27,LIT101,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_27,LIT101,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_27,LIT101,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_27,LIT101,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_27,LIT101,Classical RBC,20.0,0.05,0,0,0,0
+swat,ramp 60 min,swat_27,LIT101,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_27,LIT101,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_28,LIT101,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_28,LIT101,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,step,swat_28,LIT101,Classical RBC,17.0,0.058823529411764705,0,0,0,0
+swat,step,swat_28,LIT101,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_28,LIT101,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_28,LIT101,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_28,LIT101,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_28,LIT101,Classical RBC,28.0,0.03571428571428571,0,0,0,0
+swat,ramp 10 min,swat_28,LIT101,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_28,LIT101,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_28,LIT101,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_28,LIT101,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 30 min,swat_28,LIT101,Classical RBC,15.0,0.06666666666666667,0,0,0,0
+swat,ramp 30 min,swat_28,LIT101,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_28,LIT101,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_28,LIT101,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_28,LIT101,LENS-R w/o drift correction,5.0,0.2,0,0,0,1
+swat,ramp 60 min,swat_28,LIT101,Classical RBC,16.0,0.0625,0,0,0,0
+swat,ramp 60 min,swat_28,LIT101,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_28,LIT101,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_29,AIT504,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_29,AIT504,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,step,swat_29,AIT504,Classical RBC,2.0,0.5,0,0,1,1
+swat,step,swat_29,AIT504,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_29,AIT504,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_29,AIT504,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_29,AIT504,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_29,AIT504,Classical RBC,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_29,AIT504,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_29,AIT504,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_29,AIT504,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_29,AIT504,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_29,AIT504,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_29,AIT504,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_29,AIT504,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_29,AIT504,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_29,AIT504,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_29,AIT504,Classical RBC,2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_29,AIT504,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_29,AIT504,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_30,LIT301,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_30,LIT301,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,step,swat_30,LIT301,Classical RBC,5.0,0.2,0,0,0,1
+swat,step,swat_30,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_30,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_30,LIT301,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_30,LIT301,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_30,LIT301,Classical RBC,7.0,0.14285714285714285,0,0,0,0
+swat,ramp 10 min,swat_30,LIT301,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_30,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_30,LIT301,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_30,LIT301,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 30 min,swat_30,LIT301,Classical RBC,7.0,0.14285714285714285,0,0,0,0
+swat,ramp 30 min,swat_30,LIT301,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_30,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_30,LIT301,LENS-R (full),19.0,0.05263157894736842,0,0,0,0
+swat,ramp 60 min,swat_30,LIT301,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_30,LIT301,Classical RBC,7.0,0.14285714285714285,0,0,0,0
+swat,ramp 60 min,swat_30,LIT301,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_30,LIT301,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_31,AIT502,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_31,AIT502,LENS-R w/o drift correction,6.0,0.16666666666666666,0,0,0,0
+swat,step,swat_31,AIT502,Classical RBC,4.0,0.25,0,0,0,1
+swat,step,swat_31,AIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_31,AIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_31,AIT502,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_31,AIT502,LENS-R w/o drift correction,6.0,0.16666666666666666,0,0,0,0
+swat,ramp 10 min,swat_31,AIT502,Classical RBC,4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_31,AIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_31,AIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_31,AIT502,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_31,AIT502,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_31,AIT502,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_31,AIT502,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_31,AIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_31,AIT502,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_31,AIT502,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_31,AIT502,Classical RBC,4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_31,AIT502,Recursive RBC (no gap),12.0,0.08333333333333333,0,0,0,0
+swat,ramp 60 min,swat_31,AIT502,Recursive RBC (300 s gap),12.0,0.08333333333333333,0,0,0,0
+swat,step,swat_32,AIT202,LENS-R (full),2.0,0.5,1,0,1,1
+swat,step,swat_32,AIT202,LENS-R w/o drift correction,4.0,0.25,1,0,0,1
+swat,step,swat_32,AIT202,Classical RBC,10.0,0.1,1,0,0,0
+swat,step,swat_32,AIT202,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_32,AIT202,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_32,AIT202,LENS-R (full),2.0,0.5,1,0,1,1
+swat,ramp 10 min,swat_32,AIT202,LENS-R w/o drift correction,3.0,0.3333333333333333,1,0,1,1
+swat,ramp 10 min,swat_32,AIT202,Classical RBC,9.0,0.1111111111111111,1,0,0,0
+swat,ramp 10 min,swat_32,AIT202,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_32,AIT202,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_32,AIT202,LENS-R (full),2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_32,AIT202,LENS-R w/o drift correction,3.0,0.3333333333333333,1,0,1,1
+swat,ramp 30 min,swat_32,AIT202,Classical RBC,10.0,0.1,1,0,0,0
+swat,ramp 30 min,swat_32,AIT202,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_32,AIT202,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_32,AIT202,LENS-R (full),22.0,0.045454545454545456,1,0,0,0
+swat,ramp 60 min,swat_32,AIT202,LENS-R w/o drift correction,4.0,0.25,1,0,0,1
+swat,ramp 60 min,swat_32,AIT202,Classical RBC,9.0,0.1111111111111111,1,0,0,0
+swat,ramp 60 min,swat_32,AIT202,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_32,AIT202,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_33,PIT501,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_33,PIT501,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_33,PIT501,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_33,PIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_33,PIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_33,PIT501,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_33,PIT501,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_33,PIT501,Classical RBC,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_33,PIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_33,PIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_33,PIT501,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_33,PIT501,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_33,PIT501,Classical RBC,2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_33,PIT501,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+swat,ramp 30 min,swat_33,PIT501,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_33,PIT501,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_33,PIT501,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_33,PIT501,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_33,PIT501,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_33,PIT501,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,step,swat_34,FIT401,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_34,FIT401,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_34,FIT401,Classical RBC,6.0,0.16666666666666666,0,0,0,0
+swat,step,swat_34,FIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_34,FIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_34,FIT401,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_34,FIT401,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_34,FIT401,Classical RBC,7.0,0.14285714285714285,0,0,0,0
+swat,ramp 10 min,swat_34,FIT401,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_34,FIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_34,FIT401,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_34,FIT401,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_34,FIT401,Classical RBC,7.0,0.14285714285714285,0,0,0,0
+swat,ramp 30 min,swat_34,FIT401,Recursive RBC (no gap),7.0,0.14285714285714285,0,0,0,0
+swat,ramp 30 min,swat_34,FIT401,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_34,FIT401,LENS-R (full),6.0,0.16666666666666666,0,0,0,0
+swat,ramp 60 min,swat_34,FIT401,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_34,FIT401,Classical RBC,6.0,0.16666666666666666,0,0,0,0
+swat,ramp 60 min,swat_34,FIT401,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_34,FIT401,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_35,PIT502,LENS-R (full),7.0,0.14285714285714285,0,0,0,0
+swat,step,swat_35,PIT502,LENS-R w/o drift correction,8.0,0.125,0,0,0,0
+swat,step,swat_35,PIT502,Classical RBC,19.0,0.05263157894736842,0,0,0,0
+swat,step,swat_35,PIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_35,PIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_35,PIT502,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_35,PIT502,LENS-R w/o drift correction,6.0,0.16666666666666666,0,0,0,0
+swat,ramp 10 min,swat_35,PIT502,Classical RBC,17.0,0.058823529411764705,0,0,0,0
+swat,ramp 10 min,swat_35,PIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_35,PIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_35,PIT502,LENS-R (full),4.0,0.25,0,0,0,1
+swat,ramp 30 min,swat_35,PIT502,LENS-R w/o drift correction,6.0,0.16666666666666666,0,0,0,0
+swat,ramp 30 min,swat_35,PIT502,Classical RBC,33.0,0.030303030303030304,0,0,0,0
+swat,ramp 30 min,swat_35,PIT502,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_35,PIT502,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_35,PIT502,LENS-R (full),2.0,0.5,1,0,1,1
+swat,ramp 60 min,swat_35,PIT502,LENS-R w/o drift correction,5.0,0.2,0,0,0,1
+swat,ramp 60 min,swat_35,PIT502,Classical RBC,18.0,0.05555555555555555,0,0,0,0
+swat,ramp 60 min,swat_35,PIT502,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_35,PIT502,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+swat,step,swat_36,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_36,FIT503,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,step,swat_36,FIT503,Classical RBC,5.0,0.2,0,0,0,1
+swat,step,swat_36,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_36,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_36,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_36,FIT503,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_36,FIT503,Classical RBC,5.0,0.2,0,0,0,1
+swat,ramp 10 min,swat_36,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_36,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_36,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_36,FIT503,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_36,FIT503,Classical RBC,5.0,0.2,0,0,0,1
+swat,ramp 30 min,swat_36,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_36,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_36,FIT503,LENS-R (full),6.0,0.16666666666666666,0,0,0,0
+swat,ramp 60 min,swat_36,FIT503,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_36,FIT503,Classical RBC,4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_36,FIT503,Recursive RBC (no gap),9.0,0.1111111111111111,0,0,0,0
+swat,ramp 60 min,swat_36,FIT503,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_37,FIT501,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_37,FIT501,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_37,FIT501,Classical RBC,8.0,0.125,0,0,0,0
+swat,step,swat_37,FIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_37,FIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_37,FIT501,LENS-R (full),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_37,FIT501,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_37,FIT501,Classical RBC,6.0,0.16666666666666666,0,0,0,0
+swat,ramp 10 min,swat_37,FIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_37,FIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_37,FIT501,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_37,FIT501,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_37,FIT501,Classical RBC,5.0,0.2,0,0,0,1
+swat,ramp 30 min,swat_37,FIT501,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_37,FIT501,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_37,FIT501,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_37,FIT501,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 60 min,swat_37,FIT501,Classical RBC,7.0,0.14285714285714285,0,0,0,0
+swat,ramp 60 min,swat_37,FIT501,Recursive RBC (no gap),22.0,0.045454545454545456,0,0,0,0
+swat,ramp 60 min,swat_37,FIT501,Recursive RBC (300 s gap),9.0,0.1111111111111111,0,0,0,0
+swat,step,swat_38,FIT201,LENS-R (full),1.0,1.0,1,1,1,1
+swat,step,swat_38,FIT201,LENS-R w/o drift correction,3.0,0.3333333333333333,1,0,1,1
+swat,step,swat_38,FIT201,Classical RBC,3.0,0.3333333333333333,1,0,1,1
+swat,step,swat_38,FIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_38,FIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_38,FIT201,LENS-R (full),2.0,0.5,1,0,1,1
+swat,ramp 10 min,swat_38,FIT201,LENS-R w/o drift correction,3.0,0.3333333333333333,1,0,1,1
+swat,ramp 10 min,swat_38,FIT201,Classical RBC,4.0,0.25,1,0,0,1
+swat,ramp 10 min,swat_38,FIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_38,FIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_38,FIT201,LENS-R (full),2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_38,FIT201,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_38,FIT201,Classical RBC,2.0,0.5,1,0,1,1
+swat,ramp 30 min,swat_38,FIT201,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_38,FIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_38,FIT201,LENS-R (full),2.0,0.5,1,0,1,1
+swat,ramp 60 min,swat_38,FIT201,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+swat,ramp 60 min,swat_38,FIT201,Classical RBC,2.0,0.5,1,0,1,1
+swat,ramp 60 min,swat_38,FIT201,Recursive RBC (no gap),7.0,0.14285714285714285,0,0,0,0
+swat,ramp 60 min,swat_38,FIT201,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,step,swat_39,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,step,swat_39,FIT503,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,step,swat_39,FIT503,Classical RBC,6.0,0.16666666666666666,0,0,0,0
+swat,step,swat_39,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,step,swat_39,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 10 min,swat_39,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_39,FIT503,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_39,FIT503,Classical RBC,4.0,0.25,0,0,0,1
+swat,ramp 10 min,swat_39,FIT503,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 10 min,swat_39,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_39,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 30 min,swat_39,FIT503,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+swat,ramp 30 min,swat_39,FIT503,Classical RBC,5.0,0.2,0,0,0,1
+swat,ramp 30 min,swat_39,FIT503,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+swat,ramp 30 min,swat_39,FIT503,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+swat,ramp 60 min,swat_39,FIT503,LENS-R (full),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_39,FIT503,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_39,FIT503,Classical RBC,4.0,0.25,0,0,0,1
+swat,ramp 60 min,swat_39,FIT503,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+swat,ramp 60 min,swat_39,FIT503,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+hai,step,hai_0,P1_LCV01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_0,P1_LCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_0,P1_LCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_0,P1_LCV01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_0,P1_LCV01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_0,P1_LCV01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_0,P1_LCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_0,P1_LCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_0,P1_LCV01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_0,P1_LCV01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_0,P1_LCV01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_0,P1_LCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_0,P1_LCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_0,P1_LCV01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_0,P1_LCV01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_0,P1_LCV01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_0,P1_LCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_0,P1_LCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_0,P1_LCV01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_0,P1_LCV01Z,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+hai,step,hai_1,P2_VIBTR02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_1,P2_VIBTR02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_1,P2_VIBTR02,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_1,P2_VIBTR02,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_1,P2_VIBTR02,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_1,P2_VIBTR02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_1,P2_VIBTR02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_1,P2_VIBTR02,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_1,P2_VIBTR02,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_1,P2_VIBTR02,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_1,P2_VIBTR02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_1,P2_VIBTR02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_1,P2_VIBTR02,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_1,P2_VIBTR02,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_1,P2_VIBTR02,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_1,P2_VIBTR02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_1,P2_VIBTR02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_1,P2_VIBTR02,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_1,P2_VIBTR02,Recursive RBC (no gap),29.0,0.034482758620689655,0,0,0,0
+hai,ramp 60 min,hai_1,P2_VIBTR02,Recursive RBC (300 s gap),5.0,0.2,0,0,0,1
+hai,step,hai_2,P2_AutoSD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_2,P2_AutoSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_2,P2_AutoSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_2,P2_AutoSD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_2,P2_AutoSD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_2,P2_AutoSD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_2,P2_AutoSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_2,P2_AutoSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_2,P2_AutoSD,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,ramp 10 min,hai_2,P2_AutoSD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_2,P2_AutoSD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_2,P2_AutoSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_2,P2_AutoSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_2,P2_AutoSD,Recursive RBC (no gap),7.0,0.14285714285714285,0,0,0,0
+hai,ramp 30 min,hai_2,P2_AutoSD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_2,P2_AutoSD,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_2,P2_AutoSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_2,P2_AutoSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_2,P2_AutoSD,Recursive RBC (no gap),9.0,0.1111111111111111,0,0,0,0
+hai,ramp 60 min,hai_2,P2_AutoSD,Recursive RBC (300 s gap),36.0,0.027777777777777776,0,0,0,0
+hai,step,hai_3,P1_FT01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_3,P1_FT01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_3,P1_FT01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_3,P1_FT01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_3,P1_FT01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_3,P1_FT01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_3,P1_FT01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_3,P1_FT01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_3,P1_FT01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_3,P1_FT01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_3,P1_FT01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_3,P1_FT01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_3,P1_FT01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_3,P1_FT01Z,Recursive RBC (no gap),5.0,0.2,1,0,0,1
+hai,ramp 30 min,hai_3,P1_FT01Z,Recursive RBC (300 s gap),7.0,0.14285714285714285,1,0,0,0
+hai,ramp 60 min,hai_3,P1_FT01Z,LENS-R (full),10.0,0.1,1,0,0,0
+hai,ramp 60 min,hai_3,P1_FT01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_3,P1_FT01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_3,P1_FT01Z,Recursive RBC (no gap),19.0,0.05263157894736842,1,0,0,0
+hai,ramp 60 min,hai_3,P1_FT01Z,Recursive RBC (300 s gap),10.0,0.1,1,0,0,0
+hai,step,hai_4,P1_FT03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_4,P1_FT03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_4,P1_FT03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_4,P1_FT03Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_4,P1_FT03Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_4,P1_FT03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_4,P1_FT03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_4,P1_FT03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_4,P1_FT03Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_4,P1_FT03Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_4,P1_FT03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_4,P1_FT03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_4,P1_FT03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_4,P1_FT03Z,Recursive RBC (no gap),10.0,0.1,1,0,0,0
+hai,ramp 30 min,hai_4,P1_FT03Z,Recursive RBC (300 s gap),6.0,0.16666666666666666,1,0,0,0
+hai,ramp 60 min,hai_4,P1_FT03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_4,P1_FT03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_4,P1_FT03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_4,P1_FT03Z,Recursive RBC (no gap),33.0,0.030303030303030304,1,0,0,0
+hai,ramp 60 min,hai_4,P1_FT03Z,Recursive RBC (300 s gap),11.0,0.09090909090909091,1,0,0,0
+hai,step,hai_5,P2_VT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_5,P2_VT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_5,P2_VT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_5,P2_VT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_5,P2_VT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_5,P2_VT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_5,P2_VT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_5,P2_VT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_5,P2_VT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_5,P2_VT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_5,P2_VT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_5,P2_VT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_5,P2_VT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_5,P2_VT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_5,P2_VT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_5,P2_VT01,LENS-R (full),30.0,0.03333333333333333,0,0,0,0
+hai,ramp 60 min,hai_5,P2_VT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_5,P2_VT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_5,P2_VT01,Recursive RBC (no gap),8.0,0.125,0,0,0,0
+hai,ramp 60 min,hai_5,P2_VT01,Recursive RBC (300 s gap),34.0,0.029411764705882353,0,0,0,0
+hai,step,hai_6,P2_ManualSD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_6,P2_ManualSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_6,P2_ManualSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_6,P2_ManualSD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_6,P2_ManualSD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_6,P2_ManualSD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_6,P2_ManualSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_6,P2_ManualSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_6,P2_ManualSD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_6,P2_ManualSD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_6,P2_ManualSD,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_6,P2_ManualSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_6,P2_ManualSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_6,P2_ManualSD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_6,P2_ManualSD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_6,P2_ManualSD,LENS-R (full),12.0,0.08333333333333333,0,0,0,0
+hai,ramp 60 min,hai_6,P2_ManualSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_6,P2_ManualSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_6,P2_ManualSD,Recursive RBC (no gap),14.0,0.07142857142857142,0,0,0,0
+hai,ramp 60 min,hai_6,P2_ManualSD,Recursive RBC (300 s gap),13.0,0.07692307692307693,0,0,0,0
+hai,step,hai_7,P1_TIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_7,P1_TIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_7,P1_TIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_7,P1_TIT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_7,P1_TIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_7,P1_TIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_7,P1_TIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_7,P1_TIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_7,P1_TIT01,Recursive RBC (no gap),27.0,0.037037037037037035,1,0,0,0
+hai,ramp 10 min,hai_7,P1_TIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_7,P1_TIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_7,P1_TIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_7,P1_TIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_7,P1_TIT01,Recursive RBC (no gap),6.0,0.16666666666666666,1,0,0,0
+hai,ramp 30 min,hai_7,P1_TIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_7,P1_TIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_7,P1_TIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_7,P1_TIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_7,P1_TIT01,Recursive RBC (no gap),5.0,0.2,0,0,0,1
+hai,ramp 60 min,hai_7,P1_TIT01,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,step,hai_8,P1_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_8,P1_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_8,P1_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_8,P1_LCV01D,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_8,P1_LCV01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_8,P1_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_8,P1_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_8,P1_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_8,P1_LCV01D,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_8,P1_LCV01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_8,P1_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_8,P1_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_8,P1_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_8,P1_LCV01D,Recursive RBC (no gap),8.0,0.125,1,0,0,0
+hai,ramp 30 min,hai_8,P1_LCV01D,Recursive RBC (300 s gap),3.0,0.3333333333333333,1,0,1,1
+hai,ramp 60 min,hai_8,P1_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_8,P1_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_8,P1_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_8,P1_LCV01D,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_8,P1_LCV01D,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,step,hai_9,P3_LCP01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_9,P3_LCP01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_9,P3_LCP01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_9,P3_LCP01D,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_9,P3_LCP01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_9,P3_LCP01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_9,P3_LCP01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_9,P3_LCP01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_9,P3_LCP01D,Recursive RBC (no gap),13.0,0.07692307692307693,1,0,0,0
+hai,ramp 10 min,hai_9,P3_LCP01D,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+hai,ramp 30 min,hai_9,P3_LCP01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_9,P3_LCP01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_9,P3_LCP01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_9,P3_LCP01D,Recursive RBC (no gap),5.0,0.2,1,0,0,1
+hai,ramp 30 min,hai_9,P3_LCP01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_9,P3_LCP01D,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_9,P3_LCP01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_9,P3_LCP01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_9,P3_LCP01D,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,ramp 60 min,hai_9,P3_LCP01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_10,P1_PCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_10,P1_PCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_10,P1_PCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_10,P1_PCV01D,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_10,P1_PCV01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_10,P1_PCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_10,P1_PCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_10,P1_PCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_10,P1_PCV01D,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,ramp 10 min,hai_10,P1_PCV01D,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_10,P1_PCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_10,P1_PCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_10,P1_PCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_10,P1_PCV01D,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_10,P1_PCV01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_10,P1_PCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_10,P1_PCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_10,P1_PCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_10,P1_PCV01D,Recursive RBC (no gap),27.0,0.037037037037037035,1,0,0,0
+hai,ramp 60 min,hai_10,P1_PCV01D,Recursive RBC (300 s gap),22.0,0.045454545454545456,1,0,0,0
+hai,step,hai_11,P1_FT03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_11,P1_FT03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_11,P1_FT03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_11,P1_FT03Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_11,P1_FT03Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_11,P1_FT03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_11,P1_FT03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_11,P1_FT03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_11,P1_FT03Z,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,ramp 10 min,hai_11,P1_FT03Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_11,P1_FT03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_11,P1_FT03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_11,P1_FT03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_11,P1_FT03Z,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+hai,ramp 30 min,hai_11,P1_FT03Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_11,P1_FT03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_11,P1_FT03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_11,P1_FT03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_11,P1_FT03Z,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,ramp 60 min,hai_11,P1_FT03Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_12,P4_ST_FD,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+hai,step,hai_12,P4_ST_FD,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+hai,step,hai_12,P4_ST_FD,Classical RBC,3.0,0.3333333333333333,0,0,1,1
+hai,step,hai_12,P4_ST_FD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_12,P4_ST_FD,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+hai,ramp 10 min,hai_12,P4_ST_FD,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 10 min,hai_12,P4_ST_FD,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,ramp 10 min,hai_12,P4_ST_FD,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 10 min,hai_12,P4_ST_FD,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+hai,ramp 10 min,hai_12,P4_ST_FD,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_12,P4_ST_FD,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_12,P4_ST_FD,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_12,P4_ST_FD,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_12,P4_ST_FD,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+hai,ramp 30 min,hai_12,P4_ST_FD,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+hai,ramp 60 min,hai_12,P4_ST_FD,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_12,P4_ST_FD,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_12,P4_ST_FD,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_12,P4_ST_FD,Recursive RBC (no gap),24.0,0.041666666666666664,0,0,0,0
+hai,ramp 60 min,hai_12,P4_ST_FD,Recursive RBC (300 s gap),12.0,0.08333333333333333,0,0,0,0
+hai,step,hai_13,P1_FT01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_13,P1_FT01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_13,P1_FT01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_13,P1_FT01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_13,P1_FT01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_13,P1_FT01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_13,P1_FT01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_13,P1_FT01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_13,P1_FT01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_13,P1_FT01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_13,P1_FT01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_13,P1_FT01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_13,P1_FT01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_13,P1_FT01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_13,P1_FT01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_13,P1_FT01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_13,P1_FT01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_13,P1_FT01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_13,P1_FT01Z,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,ramp 60 min,hai_13,P1_FT01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_14,P1_FCV03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_14,P1_FCV03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_14,P1_FCV03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_14,P1_FCV03Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_14,P1_FCV03Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_14,P1_FCV03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_14,P1_FCV03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_14,P1_FCV03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_14,P1_FCV03Z,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,ramp 10 min,hai_14,P1_FCV03Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_14,P1_FCV03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_14,P1_FCV03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_14,P1_FCV03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_14,P1_FCV03Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_14,P1_FCV03Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_14,P1_FCV03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_14,P1_FCV03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_14,P1_FCV03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_14,P1_FCV03Z,Recursive RBC (no gap),20.0,0.05,1,0,0,0
+hai,ramp 60 min,hai_14,P1_FCV03Z,Recursive RBC (300 s gap),6.0,0.16666666666666666,1,0,0,0
+hai,step,hai_15,P2_VIBTR04,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_15,P2_VIBTR04,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_15,P2_VIBTR04,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_15,P2_VIBTR04,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_15,P2_VIBTR04,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_15,P2_VIBTR04,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_15,P2_VIBTR04,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_15,P2_VIBTR04,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_15,P2_VIBTR04,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_15,P2_VIBTR04,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_15,P2_VIBTR04,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_15,P2_VIBTR04,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_15,P2_VIBTR04,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_15,P2_VIBTR04,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_15,P2_VIBTR04,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_15,P2_VIBTR04,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_15,P2_VIBTR04,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_15,P2_VIBTR04,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_15,P2_VIBTR04,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_15,P2_VIBTR04,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,step,hai_16,P2_SCST,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_16,P2_SCST,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,step,hai_16,P2_SCST,Classical RBC,2.0,0.5,0,0,1,1
+hai,step,hai_16,P2_SCST,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_16,P2_SCST,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_16,P2_SCST,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_16,P2_SCST,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,ramp 10 min,hai_16,P2_SCST,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 10 min,hai_16,P2_SCST,Recursive RBC (no gap),27.0,0.037037037037037035,0,0,0,0
+hai,ramp 10 min,hai_16,P2_SCST,Recursive RBC (300 s gap),4.0,0.25,1,0,0,1
+hai,ramp 30 min,hai_16,P2_SCST,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_16,P2_SCST,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_16,P2_SCST,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_16,P2_SCST,Recursive RBC (no gap),10.0,0.1,0,0,0,0
+hai,ramp 30 min,hai_16,P2_SCST,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+hai,ramp 60 min,hai_16,P2_SCST,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_16,P2_SCST,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_16,P2_SCST,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_16,P2_SCST,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_16,P2_SCST,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_17,P1_B3004,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_17,P1_B3004,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_17,P1_B3004,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_17,P1_B3004,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_17,P1_B3004,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_17,P1_B3004,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_17,P1_B3004,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_17,P1_B3004,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_17,P1_B3004,Recursive RBC (no gap),43.0,0.023255813953488372,1,0,0,0
+hai,ramp 10 min,hai_17,P1_B3004,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+hai,ramp 30 min,hai_17,P1_B3004,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_17,P1_B3004,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_17,P1_B3004,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_17,P1_B3004,Recursive RBC (no gap),4.0,0.25,1,0,0,1
+hai,ramp 30 min,hai_17,P1_B3004,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+hai,ramp 60 min,hai_17,P1_B3004,LENS-R (full),19.0,0.05263157894736842,1,0,0,0
+hai,ramp 60 min,hai_17,P1_B3004,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_17,P1_B3004,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_17,P1_B3004,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_17,P1_B3004,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_18,P1_B4005,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_18,P1_B4005,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_18,P1_B4005,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_18,P1_B4005,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_18,P1_B4005,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_18,P1_B4005,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_18,P1_B4005,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_18,P1_B4005,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_18,P1_B4005,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_18,P1_B4005,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_18,P1_B4005,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_18,P1_B4005,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_18,P1_B4005,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_18,P1_B4005,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,ramp 30 min,hai_18,P1_B4005,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_18,P1_B4005,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_18,P1_B4005,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_18,P1_B4005,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_18,P1_B4005,Recursive RBC (no gap),5.0,0.2,1,0,0,1
+hai,ramp 60 min,hai_18,P1_B4005,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_19,P1_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_19,P1_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_19,P1_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_19,P1_LIT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_19,P1_LIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_19,P1_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_19,P1_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_19,P1_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_19,P1_LIT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_19,P1_LIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_19,P1_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_19,P1_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_19,P1_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_19,P1_LIT01,Recursive RBC (no gap),8.0,0.125,1,0,0,0
+hai,ramp 30 min,hai_19,P1_LIT01,Recursive RBC (300 s gap),6.0,0.16666666666666666,1,0,0,0
+hai,ramp 60 min,hai_19,P1_LIT01,LENS-R (full),12.0,0.08333333333333333,1,0,0,0
+hai,ramp 60 min,hai_19,P1_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_19,P1_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_19,P1_LIT01,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_19,P1_LIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_20,P4_HT_FD,LENS-R (full),2.0,0.5,0,0,1,1
+hai,step,hai_20,P4_HT_FD,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,step,hai_20,P4_HT_FD,Classical RBC,2.0,0.5,0,0,1,1
+hai,step,hai_20,P4_HT_FD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_20,P4_HT_FD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_20,P4_HT_FD,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 10 min,hai_20,P4_HT_FD,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,ramp 10 min,hai_20,P4_HT_FD,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 10 min,hai_20,P4_HT_FD,Recursive RBC (no gap),7.0,0.14285714285714285,0,0,0,0
+hai,ramp 10 min,hai_20,P4_HT_FD,Recursive RBC (300 s gap),5.0,0.2,0,0,0,1
+hai,ramp 30 min,hai_20,P4_HT_FD,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_20,P4_HT_FD,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_20,P4_HT_FD,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_20,P4_HT_FD,Recursive RBC (no gap),32.0,0.03125,0,0,0,0
+hai,ramp 30 min,hai_20,P4_HT_FD,Recursive RBC (300 s gap),30.0,0.03333333333333333,0,0,0,0
+hai,ramp 60 min,hai_20,P4_HT_FD,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_20,P4_HT_FD,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_20,P4_HT_FD,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_20,P4_HT_FD,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+hai,ramp 60 min,hai_20,P4_HT_FD,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,step,hai_21,P1_PCV01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_21,P1_PCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_21,P1_PCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_21,P1_PCV01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_21,P1_PCV01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_21,P1_PCV01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_21,P1_PCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_21,P1_PCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_21,P1_PCV01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_21,P1_PCV01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_21,P1_PCV01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_21,P1_PCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_21,P1_PCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_21,P1_PCV01Z,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+hai,ramp 30 min,hai_21,P1_PCV01Z,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_21,P1_PCV01Z,LENS-R (full),17.0,0.058823529411764705,1,0,0,0
+hai,ramp 60 min,hai_21,P1_PCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_21,P1_PCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_21,P1_PCV01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_21,P1_PCV01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_22,P3_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_22,P3_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_22,P3_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_22,P3_LIT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_22,P3_LIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_22,P3_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_22,P3_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_22,P3_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_22,P3_LIT01,Recursive RBC (no gap),5.0,0.2,0,0,0,1
+hai,ramp 10 min,hai_22,P3_LIT01,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_22,P3_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_22,P3_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_22,P3_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_22,P3_LIT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_22,P3_LIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_22,P3_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_22,P3_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_22,P3_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_22,P3_LIT01,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+hai,ramp 60 min,hai_22,P3_LIT01,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,step,hai_23,P1_FT03,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_23,P1_FT03,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_23,P1_FT03,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_23,P1_FT03,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_23,P1_FT03,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_23,P1_FT03,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_23,P1_FT03,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_23,P1_FT03,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_23,P1_FT03,Recursive RBC (no gap),13.0,0.07692307692307693,1,0,0,0
+hai,ramp 10 min,hai_23,P1_FT03,Recursive RBC (300 s gap),3.0,0.3333333333333333,1,0,1,1
+hai,ramp 30 min,hai_23,P1_FT03,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_23,P1_FT03,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_23,P1_FT03,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_23,P1_FT03,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_23,P1_FT03,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_23,P1_FT03,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_23,P1_FT03,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_23,P1_FT03,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_23,P1_FT03,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_23,P1_FT03,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_24,P1_FT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_24,P1_FT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_24,P1_FT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_24,P1_FT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_24,P1_FT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_24,P1_FT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_24,P1_FT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_24,P1_FT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_24,P1_FT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_24,P1_FT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_24,P1_FT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_24,P1_FT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_24,P1_FT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_24,P1_FT01,Recursive RBC (no gap),3.0,0.3333333333333333,1,0,1,1
+hai,ramp 30 min,hai_24,P1_FT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_24,P1_FT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_24,P1_FT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_24,P1_FT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_24,P1_FT01,Recursive RBC (no gap),35.0,0.02857142857142857,0,0,0,0
+hai,ramp 60 min,hai_24,P1_FT01,Recursive RBC (300 s gap),8.0,0.125,1,0,0,0
+hai,step,hai_25,P3_LIT01,LENS-R (full),2.0,0.5,0,0,1,1
+hai,step,hai_25,P3_LIT01,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,step,hai_25,P3_LIT01,Classical RBC,2.0,0.5,0,0,1,1
+hai,step,hai_25,P3_LIT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_25,P3_LIT01,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+hai,ramp 10 min,hai_25,P3_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_25,P3_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_25,P3_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_25,P3_LIT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_25,P3_LIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_25,P3_LIT01,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_25,P3_LIT01,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_25,P3_LIT01,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_25,P3_LIT01,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_25,P3_LIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_25,P3_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_25,P3_LIT01,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_25,P3_LIT01,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_25,P3_LIT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_25,P3_LIT01,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+hai,step,hai_26,P4_LD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_26,P4_LD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_26,P4_LD,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_26,P4_LD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_26,P4_LD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_26,P4_LD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_26,P4_LD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_26,P4_LD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_26,P4_LD,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,ramp 10 min,hai_26,P4_LD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_26,P4_LD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_26,P4_LD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_26,P4_LD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_26,P4_LD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_26,P4_LD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_26,P4_LD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_26,P4_LD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_26,P4_LD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_26,P4_LD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_26,P4_LD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_27,P1_B4002,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_27,P1_B4002,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_27,P1_B4002,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_27,P1_B4002,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_27,P1_B4002,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_27,P1_B4002,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_27,P1_B4002,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_27,P1_B4002,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_27,P1_B4002,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_27,P1_B4002,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_27,P1_B4002,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_27,P1_B4002,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_27,P1_B4002,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_27,P1_B4002,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_27,P1_B4002,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_27,P1_B4002,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_27,P1_B4002,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_27,P1_B4002,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_27,P1_B4002,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_27,P1_B4002,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_28,P1_B3005,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_28,P1_B3005,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_28,P1_B3005,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_28,P1_B3005,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_28,P1_B3005,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_28,P1_B3005,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_28,P1_B3005,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_28,P1_B3005,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_28,P1_B3005,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_28,P1_B3005,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_28,P1_B3005,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_28,P1_B3005,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_28,P1_B3005,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_28,P1_B3005,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_28,P1_B3005,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_28,P1_B3005,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_28,P1_B3005,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_28,P1_B3005,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_28,P1_B3005,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,ramp 60 min,hai_28,P1_B3005,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_29,P2_VIBTR02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_29,P2_VIBTR02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_29,P2_VIBTR02,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_29,P2_VIBTR02,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_29,P2_VIBTR02,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_29,P2_VIBTR02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_29,P2_VIBTR02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_29,P2_VIBTR02,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_29,P2_VIBTR02,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_29,P2_VIBTR02,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_29,P2_VIBTR02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_29,P2_VIBTR02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_29,P2_VIBTR02,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_29,P2_VIBTR02,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+hai,ramp 30 min,hai_29,P2_VIBTR02,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+hai,ramp 60 min,hai_29,P2_VIBTR02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_29,P2_VIBTR02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_29,P2_VIBTR02,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_29,P2_VIBTR02,Recursive RBC (no gap),9.0,0.1111111111111111,0,0,0,0
+hai,ramp 60 min,hai_29,P2_VIBTR02,Recursive RBC (300 s gap),5.0,0.2,0,0,0,1
+hai,step,hai_30,P1_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_30,P1_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_30,P1_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_30,P1_LCV01D,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_30,P1_LCV01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_30,P1_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_30,P1_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_30,P1_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_30,P1_LCV01D,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_30,P1_LCV01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_30,P1_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_30,P1_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_30,P1_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_30,P1_LCV01D,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_30,P1_LCV01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_30,P1_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_30,P1_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_30,P1_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_30,P1_LCV01D,Recursive RBC (no gap),3.0,0.3333333333333333,1,0,1,1
+hai,ramp 60 min,hai_30,P1_LCV01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_31,P2_AutoSD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_31,P2_AutoSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_31,P2_AutoSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_31,P2_AutoSD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_31,P2_AutoSD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_31,P2_AutoSD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_31,P2_AutoSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_31,P2_AutoSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_31,P2_AutoSD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_31,P2_AutoSD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_31,P2_AutoSD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_31,P2_AutoSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_31,P2_AutoSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_31,P2_AutoSD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_31,P2_AutoSD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_31,P2_AutoSD,LENS-R (full),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_31,P2_AutoSD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_31,P2_AutoSD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_31,P2_AutoSD,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+hai,ramp 60 min,hai_31,P2_AutoSD,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,step,hai_32,P1_FCV01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_32,P1_FCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_32,P1_FCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_32,P1_FCV01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_32,P1_FCV01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_32,P1_FCV01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_32,P1_FCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_32,P1_FCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_32,P1_FCV01Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_32,P1_FCV01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_32,P1_FCV01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_32,P1_FCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_32,P1_FCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_32,P1_FCV01Z,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,ramp 30 min,hai_32,P1_FCV01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_32,P1_FCV01Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_32,P1_FCV01Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_32,P1_FCV01Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_32,P1_FCV01Z,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,ramp 60 min,hai_32,P1_FCV01Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_33,P4_HT_PS,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_33,P4_HT_PS,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_33,P4_HT_PS,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_33,P4_HT_PS,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_33,P4_HT_PS,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_33,P4_HT_PS,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_33,P4_HT_PS,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_33,P4_HT_PS,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_33,P4_HT_PS,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_33,P4_HT_PS,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_33,P4_HT_PS,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_33,P4_HT_PS,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_33,P4_HT_PS,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_33,P4_HT_PS,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_33,P4_HT_PS,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_33,P4_HT_PS,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_33,P4_HT_PS,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_33,P4_HT_PS,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_33,P4_HT_PS,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_33,P4_HT_PS,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_34,P1_PIT02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_34,P1_PIT02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_34,P1_PIT02,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_34,P1_PIT02,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_34,P1_PIT02,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_34,P1_PIT02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_34,P1_PIT02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_34,P1_PIT02,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_34,P1_PIT02,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_34,P1_PIT02,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_34,P1_PIT02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_34,P1_PIT02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_34,P1_PIT02,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_34,P1_PIT02,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_34,P1_PIT02,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_34,P1_PIT02,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_34,P1_PIT02,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_34,P1_PIT02,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_34,P1_PIT02,Recursive RBC (no gap),6.0,0.16666666666666666,1,0,0,0
+hai,ramp 60 min,hai_34,P1_PIT02,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+hai,step,hai_35,P4_ST_FD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_35,P4_ST_FD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_35,P4_ST_FD,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_35,P4_ST_FD,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,step,hai_35,P4_ST_FD,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+hai,ramp 10 min,hai_35,P4_ST_FD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_35,P4_ST_FD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_35,P4_ST_FD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_35,P4_ST_FD,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,ramp 10 min,hai_35,P4_ST_FD,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_35,P4_ST_FD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_35,P4_ST_FD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_35,P4_ST_FD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_35,P4_ST_FD,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_35,P4_ST_FD,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_35,P4_ST_FD,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_35,P4_ST_FD,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_35,P4_ST_FD,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_35,P4_ST_FD,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+hai,ramp 60 min,hai_35,P4_ST_FD,Recursive RBC (300 s gap),5.0,0.2,0,0,0,1
+hai,step,hai_36,P3_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_36,P3_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_36,P3_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_36,P3_LIT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_36,P3_LIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_36,P3_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_36,P3_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_36,P3_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_36,P3_LIT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_36,P3_LIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_36,P3_LIT01,LENS-R (full),4.0,0.25,0,0,0,1
+hai,ramp 30 min,hai_36,P3_LIT01,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+hai,ramp 30 min,hai_36,P3_LIT01,Classical RBC,2.0,0.5,0,0,1,1
+hai,ramp 30 min,hai_36,P3_LIT01,Recursive RBC (no gap),22.0,0.045454545454545456,1,0,0,0
+hai,ramp 30 min,hai_36,P3_LIT01,Recursive RBC (300 s gap),50.0,0.02,0,0,0,0
+hai,ramp 60 min,hai_36,P3_LIT01,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_36,P3_LIT01,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_36,P3_LIT01,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_36,P3_LIT01,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_36,P3_LIT01,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_37,P2_VIBTR04,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_37,P2_VIBTR04,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_37,P2_VIBTR04,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_37,P2_VIBTR04,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_37,P2_VIBTR04,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_37,P2_VIBTR04,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_37,P2_VIBTR04,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_37,P2_VIBTR04,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_37,P2_VIBTR04,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_37,P2_VIBTR04,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_37,P2_VIBTR04,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_37,P2_VIBTR04,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_37,P2_VIBTR04,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_37,P2_VIBTR04,Recursive RBC (no gap),5.0,0.2,0,0,0,1
+hai,ramp 30 min,hai_37,P2_VIBTR04,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_37,P2_VIBTR04,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_37,P2_VIBTR04,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_37,P2_VIBTR04,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_37,P2_VIBTR04,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_37,P2_VIBTR04,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,step,hai_38,P1_FCV03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_38,P1_FCV03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_38,P1_FCV03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_38,P1_FCV03Z,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_38,P1_FCV03Z,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_38,P1_FCV03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_38,P1_FCV03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_38,P1_FCV03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_38,P1_FCV03Z,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+hai,ramp 10 min,hai_38,P1_FCV03Z,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+hai,ramp 30 min,hai_38,P1_FCV03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_38,P1_FCV03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_38,P1_FCV03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_38,P1_FCV03Z,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+hai,ramp 30 min,hai_38,P1_FCV03Z,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+hai,ramp 60 min,hai_38,P1_FCV03Z,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_38,P1_FCV03Z,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_38,P1_FCV03Z,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_38,P1_FCV03Z,Recursive RBC (no gap),3.0,0.3333333333333333,1,0,1,1
+hai,ramp 60 min,hai_38,P1_FCV03Z,Recursive RBC (300 s gap),4.0,0.25,1,0,0,1
+hai,step,hai_39,P3_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,step,hai_39,P3_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,step,hai_39,P3_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,step,hai_39,P3_LCV01D,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,step,hai_39,P3_LCV01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_39,P3_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_39,P3_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_39,P3_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_39,P3_LCV01D,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+hai,ramp 10 min,hai_39,P3_LCV01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_39,P3_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_39,P3_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_39,P3_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 30 min,hai_39,P3_LCV01D,Recursive RBC (no gap),3.0,0.3333333333333333,1,0,1,1
+hai,ramp 30 min,hai_39,P3_LCV01D,Recursive RBC (300 s gap),3.0,0.3333333333333333,1,0,1,1
+hai,ramp 60 min,hai_39,P3_LCV01D,LENS-R (full),1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_39,P3_LCV01D,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_39,P3_LCV01D,Classical RBC,1.0,1.0,1,1,1,1
+hai,ramp 60 min,hai_39,P3_LCV01D,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+hai,ramp 60 min,hai_39,P3_LCV01D,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_0,2_FIC_601_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_0,2_FIC_601_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_0,2_FIC_601_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_0,2_FIC_601_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_0,2_FIC_601_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_0,2_FIC_601_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_0,2_FIC_601_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_0,2_FIC_601_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_0,2_FIC_601_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_0,2_FIC_601_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_0,2_FIC_601_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_0,2_FIC_601_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_0,2_FIC_601_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_0,2_FIC_601_CO,Recursive RBC (no gap),20.0,0.05,1,0,0,0
+wadi,ramp 30 min,wadi_0,2_FIC_601_CO,Recursive RBC (300 s gap),4.0,0.25,1,0,0,1
+wadi,ramp 60 min,wadi_0,2_FIC_601_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_0,2_FIC_601_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_0,2_FIC_601_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_0,2_FIC_601_CO,Recursive RBC (no gap),13.0,0.07692307692307693,1,0,0,0
+wadi,ramp 60 min,wadi_0,2_FIC_601_CO,Recursive RBC (300 s gap),29.0,0.034482758620689655,1,0,0,0
+wadi,step,wadi_1,2_PIC_003_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_1,2_PIC_003_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_1,2_PIC_003_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_1,2_PIC_003_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_1,2_PIC_003_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_1,2_PIC_003_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_1,2_PIC_003_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_1,2_PIC_003_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_1,2_PIC_003_CO,Recursive RBC (no gap),5.0,0.2,1,0,0,1
+wadi,ramp 10 min,wadi_1,2_PIC_003_CO,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+wadi,ramp 30 min,wadi_1,2_PIC_003_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_1,2_PIC_003_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_1,2_PIC_003_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_1,2_PIC_003_CO,Recursive RBC (no gap),3.0,0.3333333333333333,1,0,1,1
+wadi,ramp 30 min,wadi_1,2_PIC_003_CO,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+wadi,ramp 60 min,wadi_1,2_PIC_003_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_1,2_PIC_003_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_1,2_PIC_003_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_1,2_PIC_003_CO,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_1,2_PIC_003_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_2,2_MCV_201_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_2,2_MCV_201_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_2,2_MCV_201_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_2,2_MCV_201_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_2,2_MCV_201_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_2,2_MCV_201_CO,LENS-R (full),2.0,0.5,1,0,1,1
+wadi,ramp 10 min,wadi_2,2_MCV_201_CO,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+wadi,ramp 10 min,wadi_2,2_MCV_201_CO,Classical RBC,2.0,0.5,1,0,1,1
+wadi,ramp 10 min,wadi_2,2_MCV_201_CO,Recursive RBC (no gap),9.0,0.1111111111111111,1,0,0,0
+wadi,ramp 10 min,wadi_2,2_MCV_201_CO,Recursive RBC (300 s gap),3.0,0.3333333333333333,1,0,1,1
+wadi,ramp 30 min,wadi_2,2_MCV_201_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_2,2_MCV_201_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_2,2_MCV_201_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_2,2_MCV_201_CO,Recursive RBC (no gap),30.0,0.03333333333333333,1,0,0,0
+wadi,ramp 30 min,wadi_2,2_MCV_201_CO,Recursive RBC (300 s gap),15.0,0.06666666666666667,1,0,0,0
+wadi,ramp 60 min,wadi_2,2_MCV_201_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_2,2_MCV_201_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_2,2_MCV_201_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_2,2_MCV_201_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_2,2_MCV_201_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_3,2_FIC_401_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_3,2_FIC_401_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_3,2_FIC_401_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_3,2_FIC_401_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_3,2_FIC_401_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_3,2_FIC_401_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_3,2_FIC_401_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_3,2_FIC_401_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_3,2_FIC_401_CO,Recursive RBC (no gap),9.0,0.1111111111111111,1,0,0,0
+wadi,ramp 10 min,wadi_3,2_FIC_401_CO,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+wadi,ramp 30 min,wadi_3,2_FIC_401_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_3,2_FIC_401_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_3,2_FIC_401_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_3,2_FIC_401_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_3,2_FIC_401_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_3,2_FIC_401_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_3,2_FIC_401_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_3,2_FIC_401_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_3,2_FIC_401_CO,Recursive RBC (no gap),16.0,0.0625,1,0,0,0
+wadi,ramp 60 min,wadi_3,2_FIC_401_CO,Recursive RBC (300 s gap),8.0,0.125,1,0,0,0
+wadi,step,wadi_4,2_FIC_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_4,2_FIC_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_4,2_FIC_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_4,2_FIC_501_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_4,2_FIC_501_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_4,2_FIC_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_4,2_FIC_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_4,2_FIC_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_4,2_FIC_501_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_4,2_FIC_501_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_4,2_FIC_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_4,2_FIC_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_4,2_FIC_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_4,2_FIC_501_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_4,2_FIC_501_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_4,2_FIC_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_4,2_FIC_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_4,2_FIC_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_4,2_FIC_501_PV,Recursive RBC (no gap),13.0,0.07692307692307693,0,0,0,0
+wadi,ramp 60 min,wadi_4,2_FIC_501_PV,Recursive RBC (300 s gap),14.0,0.07142857142857142,0,0,0,0
+wadi,step,wadi_5,2_PIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_5,2_PIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_5,2_PIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_5,2_PIT_002_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_5,2_PIT_002_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_5,2_PIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_5,2_PIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_5,2_PIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_5,2_PIT_002_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_5,2_PIT_002_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_5,2_PIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_5,2_PIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_5,2_PIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_5,2_PIT_002_PV,Recursive RBC (no gap),4.0,0.25,1,0,0,1
+wadi,ramp 30 min,wadi_5,2_PIT_002_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_5,2_PIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_5,2_PIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_5,2_PIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_5,2_PIT_002_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_5,2_PIT_002_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_6,2_MCV_301_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_6,2_MCV_301_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_6,2_MCV_301_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_6,2_MCV_301_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_6,2_MCV_301_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_6,2_MCV_301_CO,LENS-R (full),2.0,0.5,1,0,1,1
+wadi,ramp 10 min,wadi_6,2_MCV_301_CO,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+wadi,ramp 10 min,wadi_6,2_MCV_301_CO,Classical RBC,2.0,0.5,1,0,1,1
+wadi,ramp 10 min,wadi_6,2_MCV_301_CO,Recursive RBC (no gap),13.0,0.07692307692307693,1,0,0,0
+wadi,ramp 10 min,wadi_6,2_MCV_301_CO,Recursive RBC (300 s gap),4.0,0.25,1,0,0,1
+wadi,ramp 30 min,wadi_6,2_MCV_301_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_6,2_MCV_301_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_6,2_MCV_301_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_6,2_MCV_301_CO,Recursive RBC (no gap),6.0,0.16666666666666666,1,0,0,0
+wadi,ramp 30 min,wadi_6,2_MCV_301_CO,Recursive RBC (300 s gap),4.0,0.25,1,0,0,1
+wadi,ramp 60 min,wadi_6,2_MCV_301_CO,LENS-R (full),2.0,0.5,1,0,1,1
+wadi,ramp 60 min,wadi_6,2_MCV_301_CO,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+wadi,ramp 60 min,wadi_6,2_MCV_301_CO,Classical RBC,2.0,0.5,1,0,1,1
+wadi,ramp 60 min,wadi_6,2_MCV_301_CO,Recursive RBC (no gap),49.0,0.02040816326530612,1,0,0,0
+wadi,ramp 60 min,wadi_6,2_MCV_301_CO,Recursive RBC (300 s gap),13.0,0.07692307692307693,1,0,0,0
+wadi,step,wadi_7,2_FQ_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_7,2_FQ_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_7,2_FQ_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_7,2_FQ_501_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_7,2_FQ_501_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_7,2_FQ_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_7,2_FQ_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_7,2_FQ_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_7,2_FQ_501_PV,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_7,2_FQ_501_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_7,2_FQ_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_7,2_FQ_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_7,2_FQ_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_7,2_FQ_501_PV,Recursive RBC (no gap),10.0,0.1,1,0,0,0
+wadi,ramp 30 min,wadi_7,2_FQ_501_PV,Recursive RBC (300 s gap),5.0,0.2,0,0,0,1
+wadi,ramp 60 min,wadi_7,2_FQ_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_7,2_FQ_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_7,2_FQ_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_7,2_FQ_501_PV,Recursive RBC (no gap),23.0,0.043478260869565216,0,0,0,0
+wadi,ramp 60 min,wadi_7,2_FQ_501_PV,Recursive RBC (300 s gap),66.0,0.015151515151515152,0,0,0,0
+wadi,step,wadi_8,2_FIC_501_SP,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_8,2_FIC_501_SP,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_8,2_FIC_501_SP,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_8,2_FIC_501_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_8,2_FIC_501_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_8,2_FIC_501_SP,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_8,2_FIC_501_SP,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_8,2_FIC_501_SP,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_8,2_FIC_501_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_8,2_FIC_501_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_8,2_FIC_501_SP,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_8,2_FIC_501_SP,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_8,2_FIC_501_SP,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_8,2_FIC_501_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_8,2_FIC_501_SP,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+wadi,ramp 60 min,wadi_8,2_FIC_501_SP,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_8,2_FIC_501_SP,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_8,2_FIC_501_SP,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_8,2_FIC_501_SP,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 60 min,wadi_8,2_FIC_501_SP,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+wadi,step,wadi_9,2A_AIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_9,2A_AIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_9,2A_AIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_9,2A_AIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_9,2A_AIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_9,2A_AIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_9,2A_AIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_9,2A_AIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_9,2A_AIT_001_PV,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_9,2A_AIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_9,2A_AIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_9,2A_AIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_9,2A_AIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_9,2A_AIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_9,2A_AIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_9,2A_AIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_9,2A_AIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_9,2A_AIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_9,2A_AIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_9,2A_AIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_10,2_FIT_001_PV,LENS-R (full),2.0,0.5,1,0,1,1
+wadi,step,wadi_10,2_FIT_001_PV,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+wadi,step,wadi_10,2_FIT_001_PV,Classical RBC,2.0,0.5,1,0,1,1
+wadi,step,wadi_10,2_FIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_10,2_FIT_001_PV,Recursive RBC (300 s gap),4.0,0.25,1,0,0,1
+wadi,ramp 10 min,wadi_10,2_FIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_10,2_FIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_10,2_FIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_10,2_FIT_001_PV,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 10 min,wadi_10,2_FIT_001_PV,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_10,2_FIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_10,2_FIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_10,2_FIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_10,2_FIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_10,2_FIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_10,2_FIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_10,2_FIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_10,2_FIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_10,2_FIT_001_PV,Recursive RBC (no gap),11.0,0.09090909090909091,1,0,0,0
+wadi,ramp 60 min,wadi_10,2_FIT_001_PV,Recursive RBC (300 s gap),5.0,0.2,1,0,0,1
+wadi,step,wadi_11,2_FIC_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_11,2_FIC_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_11,2_FIC_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_11,2_FIC_501_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_11,2_FIC_501_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_11,2_FIC_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_11,2_FIC_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_11,2_FIC_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_11,2_FIC_501_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_11,2_FIC_501_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_11,2_FIC_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_11,2_FIC_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_11,2_FIC_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_11,2_FIC_501_PV,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+wadi,ramp 30 min,wadi_11,2_FIC_501_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_11,2_FIC_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_11,2_FIC_501_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_11,2_FIC_501_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_11,2_FIC_501_PV,Recursive RBC (no gap),18.0,0.05555555555555555,1,0,0,0
+wadi,ramp 60 min,wadi_11,2_FIC_501_PV,Recursive RBC (300 s gap),14.0,0.07142857142857142,1,0,0,0
+wadi,step,wadi_12,3_AIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_12,3_AIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_12,3_AIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_12,3_AIT_002_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_12,3_AIT_002_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_12,3_AIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_12,3_AIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_12,3_AIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_12,3_AIT_002_PV,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 10 min,wadi_12,3_AIT_002_PV,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+wadi,ramp 30 min,wadi_12,3_AIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_12,3_AIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_12,3_AIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_12,3_AIT_002_PV,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 30 min,wadi_12,3_AIT_002_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_12,3_AIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_12,3_AIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_12,3_AIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_12,3_AIT_002_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_12,3_AIT_002_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_13,2_FIC_401_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_13,2_FIC_401_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_13,2_FIC_401_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_13,2_FIC_401_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_13,2_FIC_401_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_13,2_FIC_401_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_13,2_FIC_401_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_13,2_FIC_401_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_13,2_FIC_401_CO,Recursive RBC (no gap),3.0,0.3333333333333333,1,0,1,1
+wadi,ramp 10 min,wadi_13,2_FIC_401_CO,Recursive RBC (300 s gap),2.0,0.5,1,0,1,1
+wadi,ramp 30 min,wadi_13,2_FIC_401_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_13,2_FIC_401_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_13,2_FIC_401_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_13,2_FIC_401_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_13,2_FIC_401_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_13,2_FIC_401_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_13,2_FIC_401_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_13,2_FIC_401_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_13,2_FIC_401_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_13,2_FIC_401_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_14,2_FIC_301_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_14,2_FIC_301_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_14,2_FIC_301_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_14,2_FIC_301_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_14,2_FIC_301_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_14,2_FIC_301_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_14,2_FIC_301_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_14,2_FIC_301_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_14,2_FIC_301_PV,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 10 min,wadi_14,2_FIC_301_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_14,2_FIC_301_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_14,2_FIC_301_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_14,2_FIC_301_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_14,2_FIC_301_PV,Recursive RBC (no gap),8.0,0.125,1,0,0,0
+wadi,ramp 30 min,wadi_14,2_FIC_301_PV,Recursive RBC (300 s gap),8.0,0.125,1,0,0,0
+wadi,ramp 60 min,wadi_14,2_FIC_301_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_14,2_FIC_301_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_14,2_FIC_301_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_14,2_FIC_301_PV,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+wadi,ramp 60 min,wadi_14,2_FIC_301_PV,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+wadi,step,wadi_15,2_PIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_15,2_PIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_15,2_PIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_15,2_PIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_15,2_PIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_15,2_PIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_15,2_PIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_15,2_PIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_15,2_PIT_001_PV,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+wadi,ramp 10 min,wadi_15,2_PIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_15,2_PIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_15,2_PIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_15,2_PIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_15,2_PIT_001_PV,Recursive RBC (no gap),11.0,0.09090909090909091,1,0,0,0
+wadi,ramp 30 min,wadi_15,2_PIT_001_PV,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+wadi,ramp 60 min,wadi_15,2_PIT_001_PV,LENS-R (full),2.0,0.5,1,0,1,1
+wadi,ramp 60 min,wadi_15,2_PIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_15,2_PIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_15,2_PIT_001_PV,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 60 min,wadi_15,2_PIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_16,2_MCV_501_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_16,2_MCV_501_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_16,2_MCV_501_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_16,2_MCV_501_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_16,2_MCV_501_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_16,2_MCV_501_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_16,2_MCV_501_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_16,2_MCV_501_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_16,2_MCV_501_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_16,2_MCV_501_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_16,2_MCV_501_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_16,2_MCV_501_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_16,2_MCV_501_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_16,2_MCV_501_CO,Recursive RBC (no gap),8.0,0.125,0,0,0,0
+wadi,ramp 30 min,wadi_16,2_MCV_501_CO,Recursive RBC (300 s gap),3.0,0.3333333333333333,1,0,1,1
+wadi,ramp 60 min,wadi_16,2_MCV_501_CO,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_16,2_MCV_501_CO,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_16,2_MCV_501_CO,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_16,2_MCV_501_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_16,2_MCV_501_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_17,1_AIT_004_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_17,1_AIT_004_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_17,1_AIT_004_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_17,1_AIT_004_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_17,1_AIT_004_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_17,1_AIT_004_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_17,1_AIT_004_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_17,1_AIT_004_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_17,1_AIT_004_PV,Recursive RBC (no gap),6.0,0.16666666666666666,0,0,0,0
+wadi,ramp 10 min,wadi_17,1_AIT_004_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_17,1_AIT_004_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_17,1_AIT_004_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_17,1_AIT_004_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_17,1_AIT_004_PV,Recursive RBC (no gap),8.0,0.125,0,0,0,0
+wadi,ramp 30 min,wadi_17,1_AIT_004_PV,Recursive RBC (300 s gap),5.0,0.2,0,0,0,1
+wadi,ramp 60 min,wadi_17,1_AIT_004_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_17,1_AIT_004_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_17,1_AIT_004_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_17,1_AIT_004_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_17,1_AIT_004_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_18,1_FIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_18,1_FIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_18,1_FIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_18,1_FIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_18,1_FIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_18,1_FIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_18,1_FIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_18,1_FIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_18,1_FIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_18,1_FIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_18,1_FIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_18,1_FIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_18,1_FIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_18,1_FIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_18,1_FIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_18,1_FIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_18,1_FIT_001_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_18,1_FIT_001_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_18,1_FIT_001_PV,Recursive RBC (no gap),22.0,0.045454545454545456,0,0,0,0
+wadi,ramp 60 min,wadi_18,1_FIT_001_PV,Recursive RBC (300 s gap),15.0,0.06666666666666667,0,0,0,0
+wadi,step,wadi_19,2_FIC_601_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_19,2_FIC_601_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_19,2_FIC_601_SP,Classical RBC,73.0,0.0136986301369863,0,0,0,0
+wadi,step,wadi_19,2_FIC_601_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_19,2_FIC_601_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_19,2_FIC_601_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_19,2_FIC_601_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_19,2_FIC_601_SP,Classical RBC,73.0,0.0136986301369863,0,0,0,0
+wadi,ramp 10 min,wadi_19,2_FIC_601_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_19,2_FIC_601_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_19,2_FIC_601_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_19,2_FIC_601_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_19,2_FIC_601_SP,Classical RBC,73.0,0.0136986301369863,0,0,0,0
+wadi,ramp 30 min,wadi_19,2_FIC_601_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_19,2_FIC_601_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_19,2_FIC_601_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_19,2_FIC_601_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_19,2_FIC_601_SP,Classical RBC,73.0,0.0136986301369863,0,0,0,0
+wadi,ramp 60 min,wadi_19,2_FIC_601_SP,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_19,2_FIC_601_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_20,2B_AIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_20,2B_AIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,step,wadi_20,2B_AIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,step,wadi_20,2B_AIT_002_PV,Recursive RBC (no gap),61.0,0.01639344262295082,0,0,0,0
+wadi,step,wadi_20,2B_AIT_002_PV,Recursive RBC (300 s gap),30.0,0.03333333333333333,0,0,0,0
+wadi,ramp 10 min,wadi_20,2B_AIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_20,2B_AIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_20,2B_AIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_20,2B_AIT_002_PV,Recursive RBC (no gap),30.0,0.03333333333333333,0,0,0,0
+wadi,ramp 10 min,wadi_20,2B_AIT_002_PV,Recursive RBC (300 s gap),24.0,0.041666666666666664,0,0,0,0
+wadi,ramp 30 min,wadi_20,2B_AIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_20,2B_AIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_20,2B_AIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_20,2B_AIT_002_PV,Recursive RBC (no gap),62.0,0.016129032258064516,0,0,0,0
+wadi,ramp 30 min,wadi_20,2B_AIT_002_PV,Recursive RBC (300 s gap),67.0,0.014925373134328358,0,0,0,0
+wadi,ramp 60 min,wadi_20,2B_AIT_002_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_20,2B_AIT_002_PV,LENS-R w/o drift correction,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_20,2B_AIT_002_PV,Classical RBC,1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_20,2B_AIT_002_PV,Recursive RBC (no gap),25.0,0.04,0,0,0,0
+wadi,ramp 60 min,wadi_20,2B_AIT_002_PV,Recursive RBC (300 s gap),43.0,0.023255813953488372,0,0,0,0
+wadi,step,wadi_21,2_FIT_001_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_21,2_FIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_21,2_FIT_001_PV,Classical RBC,88.0,0.011363636363636364,0,0,0,0
+wadi,step,wadi_21,2_FIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_21,2_FIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_21,2_FIT_001_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_21,2_FIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_21,2_FIT_001_PV,Classical RBC,88.0,0.011363636363636364,0,0,0,0
+wadi,ramp 10 min,wadi_21,2_FIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_21,2_FIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_21,2_FIT_001_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_21,2_FIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_21,2_FIT_001_PV,Classical RBC,88.0,0.011363636363636364,0,0,0,0
+wadi,ramp 30 min,wadi_21,2_FIT_001_PV,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+wadi,ramp 30 min,wadi_21,2_FIT_001_PV,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 60 min,wadi_21,2_FIT_001_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_21,2_FIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_21,2_FIT_001_PV,Classical RBC,88.0,0.011363636363636364,0,0,0,0
+wadi,ramp 60 min,wadi_21,2_FIT_001_PV,Recursive RBC (no gap),6.0,0.16666666666666666,0,0,0,0
+wadi,ramp 60 min,wadi_21,2_FIT_001_PV,Recursive RBC (300 s gap),4.0,0.25,1,0,0,1
+wadi,step,wadi_22,2A_AIT_003_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_22,2A_AIT_003_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_22,2A_AIT_003_PV,Classical RBC,10.0,0.1,0,0,0,0
+wadi,step,wadi_22,2A_AIT_003_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_22,2A_AIT_003_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_22,2A_AIT_003_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_22,2A_AIT_003_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_22,2A_AIT_003_PV,Classical RBC,10.0,0.1,0,0,0,0
+wadi,ramp 10 min,wadi_22,2A_AIT_003_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_22,2A_AIT_003_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_22,2A_AIT_003_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_22,2A_AIT_003_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_22,2A_AIT_003_PV,Classical RBC,10.0,0.1,0,0,0,0
+wadi,ramp 30 min,wadi_22,2A_AIT_003_PV,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+wadi,ramp 30 min,wadi_22,2A_AIT_003_PV,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_22,2A_AIT_003_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_22,2A_AIT_003_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_22,2A_AIT_003_PV,Classical RBC,10.0,0.1,0,0,0,0
+wadi,ramp 60 min,wadi_22,2A_AIT_003_PV,Recursive RBC (no gap),11.0,0.09090909090909091,1,0,0,0
+wadi,ramp 60 min,wadi_22,2A_AIT_003_PV,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+wadi,step,wadi_23,2_FIC_501_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_23,2_FIC_501_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_23,2_FIC_501_PV,Classical RBC,70.0,0.014285714285714285,0,0,0,0
+wadi,step,wadi_23,2_FIC_501_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_23,2_FIC_501_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_23,2_FIC_501_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_23,2_FIC_501_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_23,2_FIC_501_PV,Classical RBC,70.0,0.014285714285714285,0,0,0,0
+wadi,ramp 10 min,wadi_23,2_FIC_501_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_23,2_FIC_501_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_23,2_FIC_501_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_23,2_FIC_501_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_23,2_FIC_501_PV,Classical RBC,70.0,0.014285714285714285,0,0,0,0
+wadi,ramp 30 min,wadi_23,2_FIC_501_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_23,2_FIC_501_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_23,2_FIC_501_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_23,2_FIC_501_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_23,2_FIC_501_PV,Classical RBC,70.0,0.014285714285714285,0,0,0,0
+wadi,ramp 60 min,wadi_23,2_FIC_501_PV,Recursive RBC (no gap),15.0,0.06666666666666667,1,0,0,0
+wadi,ramp 60 min,wadi_23,2_FIC_501_PV,Recursive RBC (300 s gap),10.0,0.1,1,0,0,0
+wadi,step,wadi_24,2_FIC_301_SP,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_24,2_FIC_301_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_24,2_FIC_301_SP,Classical RBC,8.0,0.125,0,0,0,0
+wadi,step,wadi_24,2_FIC_301_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_24,2_FIC_301_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_24,2_FIC_301_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_24,2_FIC_301_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_24,2_FIC_301_SP,Classical RBC,8.0,0.125,0,0,0,0
+wadi,ramp 10 min,wadi_24,2_FIC_301_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_24,2_FIC_301_SP,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+wadi,ramp 30 min,wadi_24,2_FIC_301_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_24,2_FIC_301_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_24,2_FIC_301_SP,Classical RBC,8.0,0.125,0,0,0,0
+wadi,ramp 30 min,wadi_24,2_FIC_301_SP,Recursive RBC (no gap),12.0,0.08333333333333333,1,0,0,0
+wadi,ramp 30 min,wadi_24,2_FIC_301_SP,Recursive RBC (300 s gap),9.0,0.1111111111111111,1,0,0,0
+wadi,ramp 60 min,wadi_24,2_FIC_301_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_24,2_FIC_301_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_24,2_FIC_301_SP,Classical RBC,8.0,0.125,0,0,0,0
+wadi,ramp 60 min,wadi_24,2_FIC_301_SP,Recursive RBC (no gap),5.0,0.2,0,0,0,1
+wadi,ramp 60 min,wadi_24,2_FIC_301_SP,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+wadi,step,wadi_25,2A_AIT_004_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_25,2A_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_25,2A_AIT_004_PV,Classical RBC,12.0,0.08333333333333333,0,0,0,0
+wadi,step,wadi_25,2A_AIT_004_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_25,2A_AIT_004_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_25,2A_AIT_004_PV,LENS-R (full),4.0,0.25,0,0,0,1
+wadi,ramp 10 min,wadi_25,2A_AIT_004_PV,LENS-R w/o drift correction,4.0,0.25,0,0,0,1
+wadi,ramp 10 min,wadi_25,2A_AIT_004_PV,Classical RBC,12.0,0.08333333333333333,0,0,0,0
+wadi,ramp 10 min,wadi_25,2A_AIT_004_PV,Recursive RBC (no gap),15.0,0.06666666666666667,0,0,0,0
+wadi,ramp 10 min,wadi_25,2A_AIT_004_PV,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+wadi,ramp 30 min,wadi_25,2A_AIT_004_PV,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 30 min,wadi_25,2A_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_25,2A_AIT_004_PV,Classical RBC,12.0,0.08333333333333333,0,0,0,0
+wadi,ramp 30 min,wadi_25,2A_AIT_004_PV,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 30 min,wadi_25,2A_AIT_004_PV,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 60 min,wadi_25,2A_AIT_004_PV,LENS-R (full),4.0,0.25,0,0,0,1
+wadi,ramp 60 min,wadi_25,2A_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_25,2A_AIT_004_PV,Classical RBC,12.0,0.08333333333333333,0,0,0,0
+wadi,ramp 60 min,wadi_25,2A_AIT_004_PV,Recursive RBC (no gap),17.0,0.058823529411764705,0,0,0,0
+wadi,ramp 60 min,wadi_25,2A_AIT_004_PV,Recursive RBC (300 s gap),6.0,0.16666666666666666,0,0,0,0
+wadi,step,wadi_26,3_AIT_001_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_26,3_AIT_001_PV,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+wadi,step,wadi_26,3_AIT_001_PV,Classical RBC,15.0,0.06666666666666667,0,0,0,0
+wadi,step,wadi_26,3_AIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_26,3_AIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_26,3_AIT_001_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_26,3_AIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_26,3_AIT_001_PV,Classical RBC,15.0,0.06666666666666667,0,0,0,0
+wadi,ramp 10 min,wadi_26,3_AIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_26,3_AIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_26,3_AIT_001_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_26,3_AIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_26,3_AIT_001_PV,Classical RBC,15.0,0.06666666666666667,0,0,0,0
+wadi,ramp 30 min,wadi_26,3_AIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_26,3_AIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_26,3_AIT_001_PV,LENS-R (full),5.0,0.2,0,0,0,1
+wadi,ramp 60 min,wadi_26,3_AIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_26,3_AIT_001_PV,Classical RBC,15.0,0.06666666666666667,0,0,0,0
+wadi,ramp 60 min,wadi_26,3_AIT_001_PV,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+wadi,ramp 60 min,wadi_26,3_AIT_001_PV,Recursive RBC (300 s gap),22.0,0.045454545454545456,0,0,0,0
+wadi,step,wadi_27,1_FIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_27,1_FIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_27,1_FIT_001_PV,Classical RBC,91.0,0.01098901098901099,0,0,0,0
+wadi,step,wadi_27,1_FIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_27,1_FIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_27,1_FIT_001_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_27,1_FIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_27,1_FIT_001_PV,Classical RBC,90.0,0.011111111111111112,0,0,0,0
+wadi,ramp 10 min,wadi_27,1_FIT_001_PV,Recursive RBC (no gap),34.0,0.029411764705882353,0,0,0,0
+wadi,ramp 10 min,wadi_27,1_FIT_001_PV,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+wadi,ramp 30 min,wadi_27,1_FIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_27,1_FIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_27,1_FIT_001_PV,Classical RBC,89.0,0.011235955056179775,0,0,0,0
+wadi,ramp 30 min,wadi_27,1_FIT_001_PV,Recursive RBC (no gap),10.0,0.1,0,0,0,0
+wadi,ramp 30 min,wadi_27,1_FIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_27,1_FIT_001_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_27,1_FIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_27,1_FIT_001_PV,Classical RBC,89.0,0.011235955056179775,0,0,0,0
+wadi,ramp 60 min,wadi_27,1_FIT_001_PV,Recursive RBC (no gap),4.0,0.25,1,0,0,1
+wadi,ramp 60 min,wadi_27,1_FIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_28,1_AIT_004_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_28,1_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_28,1_AIT_004_PV,Classical RBC,27.0,0.037037037037037035,0,0,0,0
+wadi,step,wadi_28,1_AIT_004_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_28,1_AIT_004_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_28,1_AIT_004_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_28,1_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_28,1_AIT_004_PV,Classical RBC,27.0,0.037037037037037035,0,0,0,0
+wadi,ramp 10 min,wadi_28,1_AIT_004_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_28,1_AIT_004_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_28,1_AIT_004_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_28,1_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_28,1_AIT_004_PV,Classical RBC,27.0,0.037037037037037035,0,0,0,0
+wadi,ramp 30 min,wadi_28,1_AIT_004_PV,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 30 min,wadi_28,1_AIT_004_PV,Recursive RBC (300 s gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 60 min,wadi_28,1_AIT_004_PV,LENS-R (full),5.0,0.2,0,0,0,1
+wadi,ramp 60 min,wadi_28,1_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_28,1_AIT_004_PV,Classical RBC,27.0,0.037037037037037035,0,0,0,0
+wadi,ramp 60 min,wadi_28,1_AIT_004_PV,Recursive RBC (no gap),2.0,0.5,1,0,1,1
+wadi,ramp 60 min,wadi_28,1_AIT_004_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_29,2_P_004_SPEED,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_29,2_P_004_SPEED,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_29,2_P_004_SPEED,Classical RBC,2.0,0.5,0,0,1,1
+wadi,step,wadi_29,2_P_004_SPEED,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_29,2_P_004_SPEED,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_29,2_P_004_SPEED,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_29,2_P_004_SPEED,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_29,2_P_004_SPEED,Classical RBC,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_29,2_P_004_SPEED,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_29,2_P_004_SPEED,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_29,2_P_004_SPEED,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_29,2_P_004_SPEED,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_29,2_P_004_SPEED,Classical RBC,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_29,2_P_004_SPEED,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_29,2_P_004_SPEED,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_29,2_P_004_SPEED,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_29,2_P_004_SPEED,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_29,2_P_004_SPEED,Classical RBC,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_29,2_P_004_SPEED,Recursive RBC (no gap),16.0,0.0625,0,0,0,0
+wadi,ramp 60 min,wadi_29,2_P_004_SPEED,Recursive RBC (300 s gap),12.0,0.08333333333333333,1,0,0,0
+wadi,step,wadi_30,2_FIC_501_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_30,2_FIC_501_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_30,2_FIC_501_SP,Classical RBC,26.0,0.038461538461538464,0,0,0,0
+wadi,step,wadi_30,2_FIC_501_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_30,2_FIC_501_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_30,2_FIC_501_SP,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 10 min,wadi_30,2_FIC_501_SP,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 10 min,wadi_30,2_FIC_501_SP,Classical RBC,26.0,0.038461538461538464,0,0,0,0
+wadi,ramp 10 min,wadi_30,2_FIC_501_SP,Recursive RBC (no gap),38.0,0.02631578947368421,1,0,0,0
+wadi,ramp 10 min,wadi_30,2_FIC_501_SP,Recursive RBC (300 s gap),4.0,0.25,1,0,0,1
+wadi,ramp 30 min,wadi_30,2_FIC_501_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_30,2_FIC_501_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_30,2_FIC_501_SP,Classical RBC,26.0,0.038461538461538464,0,0,0,0
+wadi,ramp 30 min,wadi_30,2_FIC_501_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_30,2_FIC_501_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_30,2_FIC_501_SP,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 60 min,wadi_30,2_FIC_501_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_30,2_FIC_501_SP,Classical RBC,26.0,0.038461538461538464,0,0,0,0
+wadi,ramp 60 min,wadi_30,2_FIC_501_SP,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+wadi,ramp 60 min,wadi_30,2_FIC_501_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_31,2_MCV_201_CO,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_31,2_MCV_201_CO,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_31,2_MCV_201_CO,Classical RBC,51.0,0.0196078431372549,0,0,0,0
+wadi,step,wadi_31,2_MCV_201_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_31,2_MCV_201_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_31,2_MCV_201_CO,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_31,2_MCV_201_CO,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_31,2_MCV_201_CO,Classical RBC,51.0,0.0196078431372549,0,0,0,0
+wadi,ramp 10 min,wadi_31,2_MCV_201_CO,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_31,2_MCV_201_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_31,2_MCV_201_CO,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_31,2_MCV_201_CO,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_31,2_MCV_201_CO,Classical RBC,51.0,0.0196078431372549,0,0,0,0
+wadi,ramp 30 min,wadi_31,2_MCV_201_CO,Recursive RBC (no gap),5.0,0.2,1,0,0,1
+wadi,ramp 30 min,wadi_31,2_MCV_201_CO,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_31,2_MCV_201_CO,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_31,2_MCV_201_CO,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_31,2_MCV_201_CO,Classical RBC,51.0,0.0196078431372549,0,0,0,0
+wadi,ramp 60 min,wadi_31,2_MCV_201_CO,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 60 min,wadi_31,2_MCV_201_CO,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+wadi,step,wadi_32,2_FIC_101_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_32,2_FIC_101_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_32,2_FIC_101_SP,Classical RBC,9.0,0.1111111111111111,0,0,0,0
+wadi,step,wadi_32,2_FIC_101_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_32,2_FIC_101_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_32,2_FIC_101_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_32,2_FIC_101_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_32,2_FIC_101_SP,Classical RBC,9.0,0.1111111111111111,0,0,0,0
+wadi,ramp 10 min,wadi_32,2_FIC_101_SP,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_32,2_FIC_101_SP,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_32,2_FIC_101_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_32,2_FIC_101_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_32,2_FIC_101_SP,Classical RBC,9.0,0.1111111111111111,0,0,0,0
+wadi,ramp 30 min,wadi_32,2_FIC_101_SP,Recursive RBC (no gap),11.0,0.09090909090909091,1,0,0,0
+wadi,ramp 30 min,wadi_32,2_FIC_101_SP,Recursive RBC (300 s gap),8.0,0.125,1,0,0,0
+wadi,ramp 60 min,wadi_32,2_FIC_101_SP,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_32,2_FIC_101_SP,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_32,2_FIC_101_SP,Classical RBC,9.0,0.1111111111111111,0,0,0,0
+wadi,ramp 60 min,wadi_32,2_FIC_101_SP,Recursive RBC (no gap),11.0,0.09090909090909091,0,0,0,0
+wadi,ramp 60 min,wadi_32,2_FIC_101_SP,Recursive RBC (300 s gap),9.0,0.1111111111111111,1,0,0,0
+wadi,step,wadi_33,2B_AIT_004_PV,LENS-R (full),2.0,0.5,1,0,1,1
+wadi,step,wadi_33,2B_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+wadi,step,wadi_33,2B_AIT_004_PV,Classical RBC,6.0,0.16666666666666666,1,0,0,0
+wadi,step,wadi_33,2B_AIT_004_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_33,2B_AIT_004_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_33,2B_AIT_004_PV,LENS-R (full),2.0,0.5,1,0,1,1
+wadi,ramp 10 min,wadi_33,2B_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+wadi,ramp 10 min,wadi_33,2B_AIT_004_PV,Classical RBC,6.0,0.16666666666666666,1,0,0,0
+wadi,ramp 10 min,wadi_33,2B_AIT_004_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_33,2B_AIT_004_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_33,2B_AIT_004_PV,LENS-R (full),2.0,0.5,1,0,1,1
+wadi,ramp 30 min,wadi_33,2B_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+wadi,ramp 30 min,wadi_33,2B_AIT_004_PV,Classical RBC,6.0,0.16666666666666666,1,0,0,0
+wadi,ramp 30 min,wadi_33,2B_AIT_004_PV,Recursive RBC (no gap),4.0,0.25,0,0,0,1
+wadi,ramp 30 min,wadi_33,2B_AIT_004_PV,Recursive RBC (300 s gap),7.0,0.14285714285714285,0,0,0,0
+wadi,ramp 60 min,wadi_33,2B_AIT_004_PV,LENS-R (full),12.0,0.08333333333333333,1,0,0,0
+wadi,ramp 60 min,wadi_33,2B_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,1,0,1,1
+wadi,ramp 60 min,wadi_33,2B_AIT_004_PV,Classical RBC,6.0,0.16666666666666666,1,0,0,0
+wadi,ramp 60 min,wadi_33,2B_AIT_004_PV,Recursive RBC (no gap),5.0,0.2,0,0,0,1
+wadi,ramp 60 min,wadi_33,2B_AIT_004_PV,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+wadi,step,wadi_34,2_FQ_201_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_34,2_FQ_201_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_34,2_FQ_201_PV,Classical RBC,64.0,0.015625,0,0,0,0
+wadi,step,wadi_34,2_FQ_201_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_34,2_FQ_201_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_34,2_FQ_201_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_34,2_FQ_201_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_34,2_FQ_201_PV,Classical RBC,63.0,0.015873015873015872,0,0,0,0
+wadi,ramp 10 min,wadi_34,2_FQ_201_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_34,2_FQ_201_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_34,2_FQ_201_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_34,2_FQ_201_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_34,2_FQ_201_PV,Classical RBC,63.0,0.015873015873015872,0,0,0,0
+wadi,ramp 30 min,wadi_34,2_FQ_201_PV,Recursive RBC (no gap),17.0,0.058823529411764705,1,0,0,0
+wadi,ramp 30 min,wadi_34,2_FQ_201_PV,Recursive RBC (300 s gap),3.0,0.3333333333333333,1,0,1,1
+wadi,ramp 60 min,wadi_34,2_FQ_201_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_34,2_FQ_201_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_34,2_FQ_201_PV,Classical RBC,63.0,0.015873015873015872,0,0,0,0
+wadi,ramp 60 min,wadi_34,2_FQ_201_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_34,2_FQ_201_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_35,3_AIT_002_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_35,3_AIT_002_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_35,3_AIT_002_PV,Classical RBC,11.0,0.09090909090909091,0,0,0,0
+wadi,step,wadi_35,3_AIT_002_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_35,3_AIT_002_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_35,3_AIT_002_PV,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 10 min,wadi_35,3_AIT_002_PV,LENS-R w/o drift correction,3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 10 min,wadi_35,3_AIT_002_PV,Classical RBC,11.0,0.09090909090909091,0,0,0,0
+wadi,ramp 10 min,wadi_35,3_AIT_002_PV,Recursive RBC (no gap),47.0,0.02127659574468085,0,0,0,0
+wadi,ramp 10 min,wadi_35,3_AIT_002_PV,Recursive RBC (300 s gap),14.0,0.07142857142857142,0,0,0,0
+wadi,ramp 30 min,wadi_35,3_AIT_002_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_35,3_AIT_002_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_35,3_AIT_002_PV,Classical RBC,11.0,0.09090909090909091,0,0,0,0
+wadi,ramp 30 min,wadi_35,3_AIT_002_PV,Recursive RBC (no gap),5.0,0.2,0,0,0,1
+wadi,ramp 30 min,wadi_35,3_AIT_002_PV,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_35,3_AIT_002_PV,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 60 min,wadi_35,3_AIT_002_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_35,3_AIT_002_PV,Classical RBC,11.0,0.09090909090909091,0,0,0,0
+wadi,ramp 60 min,wadi_35,3_AIT_002_PV,Recursive RBC (no gap),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 60 min,wadi_35,3_AIT_002_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_36,2A_AIT_004_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_36,2A_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_36,2A_AIT_004_PV,Classical RBC,12.0,0.08333333333333333,0,0,0,0
+wadi,step,wadi_36,2A_AIT_004_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_36,2A_AIT_004_PV,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_36,2A_AIT_004_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_36,2A_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_36,2A_AIT_004_PV,Classical RBC,12.0,0.08333333333333333,0,0,0,0
+wadi,ramp 10 min,wadi_36,2A_AIT_004_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_36,2A_AIT_004_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_36,2A_AIT_004_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_36,2A_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_36,2A_AIT_004_PV,Classical RBC,12.0,0.08333333333333333,0,0,0,0
+wadi,ramp 30 min,wadi_36,2A_AIT_004_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_36,2A_AIT_004_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_36,2A_AIT_004_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_36,2A_AIT_004_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_36,2A_AIT_004_PV,Classical RBC,12.0,0.08333333333333333,0,0,0,0
+wadi,ramp 60 min,wadi_36,2A_AIT_004_PV,Recursive RBC (no gap),25.0,0.04,0,0,0,0
+wadi,ramp 60 min,wadi_36,2A_AIT_004_PV,Recursive RBC (300 s gap),2.0,0.5,0,0,1,1
+wadi,step,wadi_37,2_PIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,step,wadi_37,2_PIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_37,2_PIT_001_PV,Classical RBC,18.0,0.05555555555555555,0,0,0,0
+wadi,step,wadi_37,2_PIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_37,2_PIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_37,2_PIT_001_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_37,2_PIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_37,2_PIT_001_PV,Classical RBC,18.0,0.05555555555555555,0,0,0,0
+wadi,ramp 10 min,wadi_37,2_PIT_001_PV,Recursive RBC (no gap),2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_37,2_PIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_37,2_PIT_001_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_37,2_PIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_37,2_PIT_001_PV,Classical RBC,18.0,0.05555555555555555,0,0,0,0
+wadi,ramp 30 min,wadi_37,2_PIT_001_PV,Recursive RBC (no gap),11.0,0.09090909090909091,1,0,0,0
+wadi,ramp 30 min,wadi_37,2_PIT_001_PV,Recursive RBC (300 s gap),5.0,0.2,1,0,0,1
+wadi,ramp 60 min,wadi_37,2_PIT_001_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_37,2_PIT_001_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_37,2_PIT_001_PV,Classical RBC,18.0,0.05555555555555555,0,0,0,0
+wadi,ramp 60 min,wadi_37,2_PIT_001_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_37,2_PIT_001_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_38,2_FIC_301_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_38,2_FIC_301_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_38,2_FIC_301_PV,Classical RBC,61.0,0.01639344262295082,0,0,0,0
+wadi,step,wadi_38,2_FIC_301_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_38,2_FIC_301_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_38,2_FIC_301_PV,LENS-R (full),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_38,2_FIC_301_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_38,2_FIC_301_PV,Classical RBC,61.0,0.01639344262295082,0,0,0,0
+wadi,ramp 10 min,wadi_38,2_FIC_301_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_38,2_FIC_301_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 30 min,wadi_38,2_FIC_301_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_38,2_FIC_301_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_38,2_FIC_301_PV,Classical RBC,61.0,0.01639344262295082,0,0,0,0
+wadi,ramp 30 min,wadi_38,2_FIC_301_PV,Recursive RBC (no gap),14.0,0.07142857142857142,0,0,0,0
+wadi,ramp 30 min,wadi_38,2_FIC_301_PV,Recursive RBC (300 s gap),6.0,0.16666666666666666,1,0,0,0
+wadi,ramp 60 min,wadi_38,2_FIC_301_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_38,2_FIC_301_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_38,2_FIC_301_PV,Classical RBC,61.0,0.01639344262295082,0,0,0,0
+wadi,ramp 60 min,wadi_38,2_FIC_301_PV,Recursive RBC (no gap),14.0,0.07142857142857142,1,0,0,0
+wadi,ramp 60 min,wadi_38,2_FIC_301_PV,Recursive RBC (300 s gap),8.0,0.125,1,0,0,0
+wadi,step,wadi_39,2A_AIT_002_PV,LENS-R (full),2.0,0.5,0,0,1,1
+wadi,step,wadi_39,2A_AIT_002_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,step,wadi_39,2A_AIT_002_PV,Classical RBC,87.0,0.011494252873563218,0,0,0,0
+wadi,step,wadi_39,2A_AIT_002_PV,Recursive RBC (no gap),1.0,1.0,1,1,1,1
+wadi,step,wadi_39,2A_AIT_002_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 10 min,wadi_39,2A_AIT_002_PV,LENS-R (full),4.0,0.25,0,0,0,1
+wadi,ramp 10 min,wadi_39,2A_AIT_002_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 10 min,wadi_39,2A_AIT_002_PV,Classical RBC,87.0,0.011494252873563218,0,0,0,0
+wadi,ramp 10 min,wadi_39,2A_AIT_002_PV,Recursive RBC (no gap),13.0,0.07692307692307693,0,0,0,0
+wadi,ramp 10 min,wadi_39,2A_AIT_002_PV,Recursive RBC (300 s gap),4.0,0.25,0,0,0,1
+wadi,ramp 30 min,wadi_39,2A_AIT_002_PV,LENS-R (full),3.0,0.3333333333333333,0,0,1,1
+wadi,ramp 30 min,wadi_39,2A_AIT_002_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 30 min,wadi_39,2A_AIT_002_PV,Classical RBC,87.0,0.011494252873563218,0,0,0,0
+wadi,ramp 30 min,wadi_39,2A_AIT_002_PV,Recursive RBC (no gap),3.0,0.3333333333333333,1,0,1,1
+wadi,ramp 30 min,wadi_39,2A_AIT_002_PV,Recursive RBC (300 s gap),1.0,1.0,1,1,1,1
+wadi,ramp 60 min,wadi_39,2A_AIT_002_PV,LENS-R (full),10.0,0.1,0,0,0,0
+wadi,ramp 60 min,wadi_39,2A_AIT_002_PV,LENS-R w/o drift correction,2.0,0.5,0,0,1,1
+wadi,ramp 60 min,wadi_39,2A_AIT_002_PV,Classical RBC,87.0,0.011494252873563218,0,0,0,0
+wadi,ramp 60 min,wadi_39,2A_AIT_002_PV,Recursive RBC (no gap),23.0,0.043478260869565216,0,0,0,0
+wadi,ramp 60 min,wadi_39,2A_AIT_002_PV,Recursive RBC (300 s gap),16.0,0.0625,0,0,0,0
